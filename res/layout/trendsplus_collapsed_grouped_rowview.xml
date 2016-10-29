@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView android:layout_width="-1" android:layout_height="-2" style="0x7f0d0372">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <include layout="0x7f040373" />
+        <include layout="0x7f04037c" />
+    </LinearLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

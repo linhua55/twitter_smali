@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_gravity="31" twitter:id="0x7f1303a3" twitter:padding="0dp" twitter:layout_width="-2" twitter:layout_height="-1" twitter:aspect_ratio="0x7f0f01fd">
+    <LinearLayout twitter:layout_gravity="11" twitter:orientation="1" twitter:id="0x7f1303a4" twitter:layout_width="-2" twitter:layout_height="-2" />
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

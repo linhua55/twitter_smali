@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <android.preference.CheckBoxPreference android:title="0x7f0a0856" android:key="upload_contacts" android:summary="0x7f0a08e0" />
+    <Preference android:title="0x7f0a068b" android:key="upload_contacts_disconnect" android:summary="0x7f0a08df" />
+</PreferenceScreen>

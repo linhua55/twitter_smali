@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="0x7f120000" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="0x7f0f005a" android:layout_marginRight="0x7f0f005a">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+        <include layout="0x7f040330" />
+        <com.twitter.android.widget.PinEntryEditText android:layout_gravity="1" android:id="0x7f130436" android:layout_width="-2" android:layout_height="-2" style="0x7f0d026f" />
+    </LinearLayout>
+</ScrollView>

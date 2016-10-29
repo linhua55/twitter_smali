@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="10" android:id="0x7f130543" android:background="0x7f020a0d" android:layout_width="-1" android:layout_height="0x1050006">
+    <include layout="0x7f040233" />
+    <LinearLayout android:layout_width="-2" android:layout_height="-1" android:divider="0x7f020a0c" android:layout_toRightOf="@k/icon" android:layout_alignParentRight="true" android:showDividers="2" android:dividerPadding="12dp">
+        <TextView android:textColor="?unknown_attr_ref: 1010038" android:ellipsize="3" android:gravity="10" android:id="@k/text" android:paddingLeft="0x7f0f0327" android:paddingTop="2dp" android:paddingBottom="2dp" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+        <TextView android:textSize="12sp" android:textStyle="1" android:textColor="0x1060000" android:gravity="11" android:layout_gravity="5" android:paddingLeft="12dp" android:paddingTop="2dp" android:paddingRight="16dp" android:paddingBottom="2dp" android:layout_width="-2" android:layout_height="-1" android:text="0x7f0a058c" android:drawableLeft="0x7f02096e" android:drawablePadding="0x7f0f0327" android:textAllCaps="true" />
+    </LinearLayout>
+</RelativeLayout>

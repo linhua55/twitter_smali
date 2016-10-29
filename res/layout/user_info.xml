@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.library.media.widget.UserImageView android:id="@bcx/user_image" style="0x7f0d0013" />
+    <RelativeLayout android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="@bcx/user_checkbox" android:layout_toRightOf="@bcx/user_image" android:layout_centerVertical="true">
+        <include layout="0x7f0403a1" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/screenname_item" android:layout_below="0x7f130123" style="0x7f0d03fd" />
+    </RelativeLayout>
+</merge>

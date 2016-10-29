@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.media.widget.FoundMediaSearchView twitter:gravity="10" twitter:layout_gravity="10" twitter:layout_width="-1" twitter:layout_height="-2" twitter:hint="0x7f0a03ae" twitter:selectAllOnFocus="false" twitter:drawableLeft="?unknown_attr_ref: 7f010074" twitter:drawableRight="?unknown_attr_ref: 7f010072" twitter:completionThreshold="1" twitter:inputType="800b1" twitter:imeOptions="3" twitter:lengthThreshold="0" twitter:focusOnDismiss="false" style="0x7f0d02bc" />

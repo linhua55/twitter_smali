@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv.periscope.android.view.PsTextView custom:textSize="20sp" custom:textColor="@h/ps__white" custom:gravity="800013" custom:background="@h/ps__blue" custom:paddingTop="32dp" custom:paddingBottom="16dp" custom:layout_width="-1" custom:layout_height="-2" custom:text="@o/ps__dialog_moderator_learn_more_title" custom:paddingStart="24dp" custom:paddingEnd="24dp" custom:ps__font="fonts/MuseoSans-500.otf" />

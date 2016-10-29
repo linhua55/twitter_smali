@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <RelativeLayout android:id="0x7f130490" android:layout_width="-2" android:layout_height="-2">
+        <FrameLayout android:id="@bcx/action_button_deny_frame" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="@bcx/action_button_accept_frame" android:layout_centerVertical="true">
+            <ImageButton android:id="@bcx/action_button_deny" android:visibility="2" android:layout_width="-2" android:layout_height="0x7f0f02a6" android:contentDescription="0x7f0a00d6" style="0x7f0d0125" />
+        </FrameLayout>
+        <FrameLayout android:id="@bcx/action_button_accept_frame" android:paddingLeft="0x7f0f004d" android:paddingTop="0x7f0f004e" android:paddingRight="0x7f0f004d" android:paddingBottom="0x7f0f004e" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+            <ImageButton android:id="@bcx/action_button_accept" android:visibility="2" android:layout_width="-2" android:layout_height="0x7f0f02a6" android:contentDescription="0x7f0a00c0" style="0x7f0d0125" />
+        </FrameLayout>
+        <FrameLayout android:id="@bcx/action_button_frame" android:paddingLeft="0x7f0f004d" android:paddingTop="0x7f0f004e" android:paddingRight="0x7f0f004d" android:paddingBottom="0x7f0f004e" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+            <com.twitter.library.widget.ActionButton android:id="@bcx/action_button" android:layout_width="-2" android:layout_height="-2" android:contentDescription="@mx/View_android_theme" style="0x7f0d0000" />
+        </FrameLayout>
+        <RelativeLayout android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f00e1" android:layout_toRightOf="@bcx/action_button_deny_frame">
+            <include layout="0x7f0403a0" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:textStyle="2" android:id="@bcx/profile_description_item" android:paddingTop="6dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f130490" style="0x7f0d0003" />
+    <include layout="0x7f0403a2" />
+</merge>

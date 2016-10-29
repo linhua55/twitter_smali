@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:orientation="1" twitter:id="0x7f13014d" twitter:scrollbars="200" twitter:layout_width="-1" twitter:layout_height="-2" twitter:fillViewport="true">
+    <RelativeLayout twitter:orientation="1" twitter:id="0x7f130326" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.ui.widget.PromptView twitter:id="@bcx/header" twitter:layout_width="-1" twitter:layout_height="-2" twitter:isHeader="true" />
+        <FrameLayout twitter:id="0x7f130327" twitter:background="0x7f020136" twitter:layout_width="0x7f0f0384" twitter:layout_height="0x7f0f0384" twitter:layout_marginLeft="0x7f0f03b4" twitter:layout_marginTop="-42dp" twitter:layout_below="@bcx/header" twitter:onClick="onClickHandler">
+            <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="11" twitter:id="0x7f130142" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a031b" twitter:scaleType="1" twitter:userImageSize="0x7f0f0383" />
+            <ImageView twitter:layout_gravity="11" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0208a9" twitter:maxWidth="29dp" twitter:maxHeight="29dp" twitter:contentDescription="@mx/View_android_theme" twitter:alpha="0.85" />
+        </FrameLayout>
+        <LinearLayout twitter:orientation="1" twitter:focusableInTouchMode="true" twitter:descendantFocusability="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f03b4" twitter:layout_marginRight="0x7f0f03b4" twitter:layout_below="0x7f130327">
+            <EditText twitter:textSize="0x7f0f0044" twitter:textColor="0x7f120009" twitter:id="@bcx/name" twitter:background="0x106000d" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="24dp" twitter:hint="0x7f0a033c" />
+            <View style="0x7f0d01c7" />
+            <EditText twitter:textSize="0x7f0f0044" twitter:textColor="0x7f120009" twitter:id="0x7f130321" twitter:background="0x7f120041" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="54dp" twitter:hint="0x7f0a0330" twitter:inputType="20001" />
+            <View twitter:id="@bcx/divider" twitter:background="0x7f1200c8" twitter:layout_width="-1" twitter:layout_height="2dp" twitter:layout_marginTop="10dp" twitter:layout_marginBottom="10dp" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="13sp" twitter:textColor="0x7f1200c9" twitter:layout_gravity="15" twitter:id="0x7f13027b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a09ff" twitter:singleLine="true" />
+        </LinearLayout>
+    </RelativeLayout>
+</ScrollView>

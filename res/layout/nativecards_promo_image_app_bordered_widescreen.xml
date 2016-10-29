@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:id="0x7f1301f9" twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.android.revenue.card.CardMediaView twitter:id="0x7f130494" twitter:background="0x7f020a03" twitter:paddingRight="0x7f0f00dc" twitter:layout_width="0x7f0f0059" twitter:layout_height="-2" twitter:hideBottomDivider="true" />
+    <com.twitter.android.revenue.card.StatsAndCtaView twitter:id="0x7f1304c5" twitter:layout="0x7f04034b" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0101" twitter:layout_marginTop="0x7f0f0100" twitter:layout_marginRight="0x7f0f0101" twitter:layout_marginBottom="10dp" twitter:layout_toRightOf="0x7f130494" twitter:layout_centerInParent="true" />
+</RelativeLayout>

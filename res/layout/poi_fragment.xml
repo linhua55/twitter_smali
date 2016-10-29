@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f1305a8" android:focusableInTouchMode="true" style="0x7f0d0274"
+    <RelativeLayout android:id="0x7f1305a9" android:clickable="true" android:layout_width="-1" android:layout_height="0x7f0f0264">
+        <com.twitter.ui.widget.TwitterButton android:id="0x7f1305aa" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0305" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="0x7f0d03bf" />
+        <View android:background="0x7f120001" android:layout_width="-1" android:layout_height="1dp" android:layout_alignParentBottom="true" />
+        <TextSwitcher android:id="0x7f1305ab" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="50dp" android:layout_marginRight="50dp" android:layout_centerInParent="true">
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textStyle="1" android:textColor="0x7f120140" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textStyle="1" android:textColor="0x7f120140" android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+        </TextSwitcher>
+    </RelativeLayout>
+    <com.twitter.ui.widget.TwitterEditText android:textColor="0x7f1200fc" android:textColorHint="0x7f120140" android:gravity="10" android:id="0x7f1305ac" android:layout_width="-1" android:layout_height="0x7f0f0264" android:layout_marginLeft="12dp" android:layout_marginRight="12dp" android:layout_marginBottom="5dp" android:hint="0x7f0a0618" android:drawablePadding="5dp" android:layout_below="0x7f1305a9" android:inputType="80001" android:imeOptions="10000003" style="0x7f0d03e5" />
+    <ListView android:id="0x7f1305ad" android:layout_width="-1" android:layout_height="-1" android:divider="@mx/View_android_theme" android:dividerHeight="0dp" android:layout_below="0x7f1305ac" style="0x7f0d01df" />
+    <FrameLayout android:id="0x1020004" android:background="0x7f120000" android:visibility="2" android:layout_width="-1" android:layout_height="-1" android:layout_below="0x7f1305ac">
+        <LinearLayout android:layout_gravity="11" android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0354" android:layout_marginRight="0x7f0f0354">
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="21sp" android:id="0x7f1305ae" style="0x7f0d0280" />
+            <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1305af" android:layout_marginTop="0x7f0f0355" style="0x7f0d0280" />
+        </LinearLayout>
+        <ProgressBar android:layout_gravity="11" android:id="0x7f13003d" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" style="?unknown_attr_ref: 1010077" />
+    </FrameLayout>
+    <include android:id="0x7f1305b0" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true" layout="0x7f040275" />
+</RelativeLayout>

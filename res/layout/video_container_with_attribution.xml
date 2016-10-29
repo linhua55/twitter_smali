@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1"
+    <LinearLayout twitter:orientation="0" twitter:id="0x7f130369" twitter:background="0x7f02008c" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="8dp" twitter:weightSum="1.0">
+        <com.twitter.media.ui.image.MediaImageView twitter:layout_gravity="10" twitter:id="0x7f1304fa" twitter:layout_width="18dp" twitter:layout_height="18dp" twitter:layout_marginRight="5dp" twitter:contentDescription="0x7f0a0400" twitter:defaultDrawable="0x7f120004" twitter:errorDrawable="0x7f020098" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:layout_gravity="10" twitter:id="0x7f1304fb" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="1dp" twitter:maxLines="1" twitter:singleLine="true" />
+    </LinearLayout>
+    <com.twitter.library.widget.LandscapeAwareAspectRatioFrameLayout twitter:id="0x7f13036d" twitter:background="0x7f120023" twitter:layout_width="-1" twitter:layout_height="-2" />
+    <LinearLayout twitter:orientation="1" twitter:background="0x7f02008a" twitter:layout_width="-1" twitter:layout_height="-2" twitter:baselineAligned="false">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="@k/title" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="10dp" twitter:maxLines="2" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1301cf" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="3dp" twitter:layout_marginRight="14dp" twitter:maxLines="4" />
+    </LinearLayout>
+</LinearLayout>

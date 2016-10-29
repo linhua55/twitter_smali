@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="50" android:clipChildren="false" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:id="0x7f1303e5" android:paddingLeft="0x7f0f02e4" android:paddingTop="0x7f0f02b1" android:paddingRight="0x7f0f02e4" android:paddingBottom="0x7f0f02d4" android:layout_width="-1" android:layout_height="-2">
+        <include layout="0x7f0401c7" />
+    </LinearLayout>
+</FrameLayout>

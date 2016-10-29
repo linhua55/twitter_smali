@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.ui.widget.FullScreenFrameLayout twitter:id="0x7f13039e" twitter:layout_width="-1" twitter:layout_height="-1">
+    <ViewStub twitter:layout_gravity="11" twitter:id="0x7f13039f" twitter:layout="0x7f040141" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_margin="0x7f0f0216" />
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f1303a0" twitter:clipChildren="false" twitter:clipToPadding="false" twitter:layout_width="-1" twitter:layout_height="-1">
+        <ImageView twitter:id="0x7f1303a1" twitter:background="0x7f020566" twitter:layout_width="0x7f0f0201" twitter:layout_height="0x7f0f0201" twitter:layout_marginLeft="0x7f0f0202" twitter:layout_marginRight="0x7f0f0202" twitter:src="0x7f020652" twitter:scaleType="7" twitter:contentDescription="0x7f0a00db" />
+        <com.twitter.android.widget.highlights.StoriesViewPager twitter:id="0x7f1303a2" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0" twitter:edge_pull_elasticity_factor="0.4" />
+        <View twitter:visibility="1" twitter:layout_width="-1" twitter:layout_height="0x7f0f0200" />
+    </LinearLayout>
+</com.twitter.ui.widget.FullScreenFrameLayout>

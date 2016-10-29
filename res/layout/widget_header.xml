@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0x7f0f04ac" android:layout_marginLeft="3dp">
+    <ImageButton android:layout_gravity="11" android:id="0x7f1306ff" android:background="@mx/View_android_theme" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0433" android:src="0x7f0209b0" android:contentDescription="@mx/View_android_theme" />
+    <TextView android:textSize="0x7f0f0044" android:textStyle="1" android:textColor="0x106000b" android:layout_gravity="11" android:id="0x7f130700" android:focusable="false" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="0x7f0f0433" android:layout_weight="1.0" />
+    <RelativeLayout android:id="0x7f130017" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+        <ImageView android:background="@mx/View_android_theme" android:contentDescription="@mx/View_android_theme" style="0x7f0d025c" />
+        <ImageButton android:id="0x7f130701" android:background="@mx/View_android_theme" android:src="0x7f0206c8" android:contentDescription="0x7f0a00dd" style="0x7f0d025b" />
+    </RelativeLayout>
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="0x7f0d028c">
+    <com.twitter.android.nativecards.PollResultBarView android:id="0x7f1304d0" style="0x7f0d0290" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1304d1" style="0x7f0d024a" />
+        </LinearLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1304d2" style="0x7f0d0246" />
+    </LinearLayout>
+</FrameLayout>

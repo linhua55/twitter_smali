@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="0x7f0209e7" android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 101004d" android:layout_centerHorizontal="true">
+    <ImageView android:id="0x7f130653" android:layout_width="0x7f0f02a6" android:layout_height="0x7f0f02a6" android:layout_margin="0x7f0f004d" android:src="0x7f0208da" android:scaleType="5" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@mx/View_android_theme" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textColor="0x7f1200fc" android:id="@k/title" android:layout_width="-2" android:layout_height="-1" android:layout_toLeftOf="0x7f130653" android:layout_toRightOf="0x7f130654" android:layout_centerVertical="true" />
+    <ImageView android:id="0x7f130654" android:padding="0x7f0f00e1" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0208bd" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="0x7f0a00d4" />
+</RelativeLayout>

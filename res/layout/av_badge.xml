@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.av.AutoPlayBadgeView twitter:gravity="10" twitter:layout_gravity="53" twitter:id="0x7f13017d" twitter:background="0x7f02007d" twitter:padding="0dp" twitter:layout_width="-2" twitter:layout_height="-2">
+    <com.twitter.library.widget.TightTextView twitter:id="0x7f13017e" twitter:padding="0x7f0f029a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:minHeight="0x7f0f0492" twitter:vertical_alignment="1" twitter:horizontal_alignment="1" twitter:text_size="0x7f0f0046" twitter:text_face="1" twitter:text_color="0x7f12015d" />
+    <ImageView twitter:id="0x7f13017f" twitter:padding="0x7f0f00d4" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a092e" />
+    <View twitter:id="0x7f130180" twitter:visibility="2" twitter:layout_width="2.5dp" twitter:layout_height="2.5dp" />
+    <ImageView twitter:id="0x7f130181" twitter:layout_width="0x7f0f0493" twitter:layout_height="0x7f0f0492" twitter:layout_marginLeft="2.5dp" twitter:layout_marginTop="0x7f0f029a" twitter:layout_marginRight="0x7f0f029a" twitter:layout_marginBottom="0x7f0f029a" twitter:contentDescription="0x7f0a092d" />
+</com.twitter.android.av.AutoPlayBadgeView>

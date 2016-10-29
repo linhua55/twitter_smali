@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.ui.view.ModernDrawerLayout app:layout_width="-1" app:layout_height="-1">
+    <android.support.design.widget.CoordinatorLayout app:layout_width="-1" app:layout_height="-1">
+        <com.twitter.library.widget.ToolbarWrapperLayout app:layout_width="-1" app:layout_height="-1" app:relayoutToolbar="?unknown_attr_ref: 7f01006f">
+            <RelativeLayout app:id="0x7f13042c" app:layout_width="-1" app:layout_height="-1">
+                <com.twitter.android.composer.ComposerDockLayout app:id="0x7f1302c3" app:layout_width="-1" app:layout_height="-1" app:topDockId="0x7f13042d" app:turtle="?unknown_attr_ref: 7f0100ba">
+                    <android.support.v4.view.ViewPager app:id="0x7f130349" app:layout_width="-1" app:layout_height="-1" />
+                    <LinearLayout app:orientation="1" app:id="0x7f13042d" app:layout_width="-1" app:layout_height="-2" style="?unknown_attr_ref: 7f010095">
+                        <com.twitter.library.widget.StatusToolBar app:id="@bcx/toolbar" style="?unknown_attr_ref: 7f010049" />
+                        <com.twitter.internal.android.widget.HorizontalListView app:id="0x7f13034b" app:splitMotionEvents="false" style="?unknown_attr_ref: 7f010048" />
+                    </LinearLayout>
+                </com.twitter.android.composer.ComposerDockLayout>
+                <com.twitter.media.ui.AnimatingProgressBar app:id="0x7f13042e" app:visibility="2" style="0x7f0d005d" />
+            </RelativeLayout>
+        </com.twitter.library.widget.ToolbarWrapperLayout>
+        <include layout="0x7f04004e" />
+        <android.support.design.widget.FloatingActionButton app:id="0x7f13034e" app:visibility="2" app:layout_anchor="0x7f13042c" style="0x7f0d0192" />
+    </android.support.design.widget.CoordinatorLayout>
+    <com.twitter.library.client.navigation.ModernDrawerView app:layout_gravity="800003" app:id="@bcx/drawer" app:layout_width="0x7f0f0300" app:layout_height="-1" app:itemIconTint="0x7f120064" app:itemTextColor="0x7f120009" app:headerLayout="0x7f04021c" />
+</com.twitter.ui.view.ModernDrawerLayout>

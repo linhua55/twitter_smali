@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.InlineActionBar twitter:id="0x7f1301be" twitter:paddingLeft="0x7f0f004d" twitter:paddingRight="0x7f0f004d" twitter:layout_width="-1" twitter:layout_height="0x7f0f0251" twitter:layout_marginLeft="0x7f0f0250" twitter:layout_marginRight="0x7f0f0250">
+    <com.twitter.library.widget.InlineActionView twitter:id="@bcx/inline_reply" twitter:layout_width="-2" twitter:layout_height="-2" twitter:iconPaddingNormal="0x7f0f024f" style="0x7f0d01d4" />
+    <com.twitter.library.widget.InlineActionView twitter:id="@bcx/inline_retweet" twitter:layout_width="-2" twitter:layout_height="-2" twitter:iconPaddingNormal="0x7f0f024f" style="0x7f0d01d5" />
+    <com.twitter.library.widget.InlineActionView twitter:id="@bcx/inline_like" twitter:layout_width="-2" twitter:layout_height="-2" twitter:iconPaddingNormal="0x7f0f024f" style="0x7f0d01d3" />
+    <com.twitter.library.widget.InlineActionView twitter:id="@bcx/inline_analytics" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:iconPaddingNormal="0x7f0f024f" style="0x7f0d01d1" />
+</com.twitter.library.widget.InlineActionBar>

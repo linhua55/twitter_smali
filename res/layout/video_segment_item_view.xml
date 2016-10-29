@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.media.widget.VideoSegmentListItemView twitter:orientation="0" twitter:background="@mx/View_android_theme" twitter:layout_width="-2" twitter:layout_height="-1" twitter:aspect_ratio="1.0">
+    <FrameLayout twitter:id="0x7f1305ed" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1">
+        <ImageView twitter:layout_gravity="11" twitter:id="0x7f1306e0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020a78" twitter:contentDescription="@mx/View_android_theme" />
+        <ImageView twitter:layout_gravity="11" twitter:id="0x7f1306e1" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:scaleType="5" twitter:contentDescription="@mx/View_android_theme" />
+    </FrameLayout>
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f13038a" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleType="1">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <com.twitter.library.media.widget.VideoDurationView twitter:layout_gravity="53" twitter:id="0x7f1306e2" twitter:background="0x7f02007d" twitter:padding="4dp" twitter:layout_width="-2" twitter:layout_height="16dp" twitter:layout_margin="4dp" twitter:text_size="11dp" twitter:text_face="1" twitter:text_color="0x7f12015d" twitter:time_format="2" />
+</com.twitter.android.media.widget.VideoSegmentListItemView>

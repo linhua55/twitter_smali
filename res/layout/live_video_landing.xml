@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:id="0x7f13040a" android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <FrameLayout android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0268">
+            <com.twitter.android.av.video.VideoContainerHost android:id="0x7f13040b" android:layout_width="-1" android:layout_height="-2" />
+            <com.twitter.android.livevideo.player.LiveVideoPlayerChrome android:layout_gravity="50" android:id="0x7f13040c" android:layout_width="-1" android:layout_height="-1" />
+        </FrameLayout>
+        <FrameLayout android:id="0x7f13040d" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+    <include android:layout_gravity="50" android:id="0x7f13040e" android:layout_width="-1" android:layout_height="-2" layout="0x7f04015e" />
+    <include android:id="@bcx/toolbar" layout="0x7f04036a" />
+</android.support.design.widget.CoordinatorLayout>

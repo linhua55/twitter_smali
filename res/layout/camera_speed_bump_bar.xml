@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <View android:visibility="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+    <ImageView android:id="0x7f1301b7" android:background="0x7f0200d5" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f02063c" android:scaleType="7" android:contentDescription="@mx/View_android_theme" />
+    <View android:visibility="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+    <ImageView android:id="0x7f1301b8" android:background="0x7f0200d5" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f02063a" android:scaleType="7" android:contentDescription="@mx/View_android_theme" />
+    <View android:visibility="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+    <ImageView android:id="0x7f1301b9" android:background="0x7f0200d5" android:layout_width="90dp" android:layout_height="90dp" android:src="0x7f02063b" android:scaleType="7" android:contentDescription="@mx/View_android_theme" />
+    <View android:visibility="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+</merge>

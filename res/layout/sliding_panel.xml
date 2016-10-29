@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <View android:id="@bcx/sliding_panel_top_header_divider" android:layout_width="-1" android:layout_height="1dp" style="?unknown_attr_ref: 7f01007f" />
+    <FrameLayout android:id="@bcx/header_container" android:layout_width="-1" android:layout_height="-2" />
+    <View android:id="@bcx/sliding_panel_bottom_header_divider" android:layout_width="-1" android:layout_height="1dp" style="?unknown_attr_ref: 7f01007f" />
+    <FrameLayout android:id="@bcx/sliding_panel_content" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+</LinearLayout>

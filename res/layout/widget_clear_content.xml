@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <TextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120023" android:gravity="1" android:id="0x7f1306fb" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="-1" android:layout_height="-2" />
+    <TextView android:textSize="0x7f0f0047" android:textColor="0x7f120023" android:gravity="1" android:id="0x7f1306fc" android:paddingLeft="20dp" android:paddingRight="20dp" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f1306fb" />
+</merge>

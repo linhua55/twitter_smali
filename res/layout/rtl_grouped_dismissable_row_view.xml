@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView android:background="0x7f120000" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:background="0x7f120041" android:layout_width="-1" android:layout_height="-2" android:minHeight="0dp">
+        <ImageView android:id="@bcx/dismiss" android:contentDescription="0x7f0a00c4" android:alpha="0.5" style="0x7f0d01a4" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0048" android:textColor="0x7f1200fc" android:ellipsize="3" android:id="@k/title" android:background="0x7f120041" android:layout_width="0dp" android:layout_height="-2" android:maxLines="1" android:layout_weight="1.0" style="0x7f0d0201" />
+    </LinearLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

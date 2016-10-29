@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:focusableInTouchMode="true" android:descendantFocusability="0" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04036b" />
+        <ScrollView android:layout_width="-1" android:layout_height="-1" android:layout_below="@bcx/toolbar">
+            <include layout="0x7f0400d3" />
+        </ScrollView>
+    </RelativeLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

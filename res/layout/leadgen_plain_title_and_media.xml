@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1301fe" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f0100" twitter:singleLine="true" />
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1301fa" twitter:background="0x7f120085" twitter:layout_width="-1" twitter:layout_height="-2" twitter:contentDescription="0x7f0a0400" twitter:defaultDrawable="0x7f120004" />
+</LinearLayout>

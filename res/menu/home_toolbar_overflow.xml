@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu>
+    <item twitter:icon="0x7f020601" twitter:id="@bcx/my_profile" twitter:title="0x7f0a063d" twitter:showAsAction="0" twitter:order="1" twitter:overflowIcon="0x7f020090" twitter:groupId="1" twitter:component="drawer" twitter:drawerTitle="0x7f0a030b" />
+    <item twitter:icon="0x7f0205fb" twitter:id="0x7f130724" twitter:title="0x7f0a0654" twitter:showAsAction="0" twitter:order="4" twitter:groupId="1" twitter:component="drawer" twitter:drawerTitle="0x7f0a030a" />
+    <item twitter:id="0x7f130725" twitter:visible="false" twitter:title="0x7f0a054c" twitter:showAsAction="0" twitter:order="2" twitter:groupId="1" twitter:component="drawer" twitter:drawerIcon="0x7f0205fe" />
+    <item twitter:icon="0x7f0205f9" twitter:id="0x7f130726" twitter:title="0x7f0a03de" twitter:showAsAction="0" twitter:order="3" twitter:groupId="1" twitter:component="drawer" />
+    <item twitter:id="0x7f130727" twitter:visible="false" twitter:title="0x7f0a0914" twitter:showAsAction="0" twitter:groupId="1" twitter:component="drawer" twitter:drawerIcon="0x7f0205f8" />
+    <item twitter:id="0x7f130728" twitter:visible="false" twitter:title="0x7f0a0555" twitter:showAsAction="0" twitter:actionLayout="0x7f040334" twitter:component="drawer" />
+    <item twitter:id="@bcx/accounts" twitter:title="0x7f0a003b" twitter:showAsAction="0" twitter:component="drawer" />
+    <item twitter:id="0x7f130729" twitter:visible="false" twitter:title="0x7f0a0476" twitter:showAsAction="0" twitter:order="1003" twitter:component="drawer" />
+    <item twitter:id="0x7f13072a" twitter:visible="false" twitter:title="0x7f0a0059" twitter:showAsAction="0" twitter:component="drawer" />
+</menu>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="1" twitter:orientation="1" twitter:background="0x7f020aac" twitter:layout_width="-2" twitter:layout_height="-2">
+    <com.twitter.android.widget.DMAvatar twitter:id="0x7f13028a" twitter:layout_width="0x7f0f0034" twitter:layout_height="0x7f0f0034" twitter:dmImageSize="0x7f0f0034" />
+    <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="0x7f0f0034" twitter:layout_height="0x7f0f0034" twitter:userImageSize="0x7f0f0034" twitter:imageCornerRadius="0x7f0f0034" twitter:roundingStrategy="2" />
+    <com.twitter.ui.widget.UnpaddedTypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f120140" twitter:ellipsize="3" twitter:gravity="1" twitter:id="@k/title" twitter:paddingTop="0x7f0f042e" twitter:layout_width="-1" twitter:layout_height="-2" twitter:maxLines="1" twitter:singleLine="true" />
+</LinearLayout>

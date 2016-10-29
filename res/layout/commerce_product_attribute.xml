@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2" android:layout_margin="0x7f0f013d">
+    <com.twitter.android.commerce.view.ErrorTextView android:textSize="0x7f0f0134" android:textColor="0x7f1200cd" android:layout_gravity="3" android:id="0x7f130232" android:padding="0x7f0f0131" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f012d" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0135" android:textColor="0x7f1200fc" android:layout_gravity="13" android:id="0x7f130233" android:layout_width="0px" android:layout_height="-2" android:text="Size" android:singleLine="true" android:includeFontPadding="false" android:layout_weight="2.4" />
+        <Spinner android:textSize="0x7f0f0133" android:layout_gravity="13" android:id="0x7f130234" android:focusable="true" android:layout_width="0px" android:layout_height="0x7f0f014c" android:hint="0x7f0a01e7" android:prompt="0x7f0a01e7" android:layout_weight="10.0" style="0x7f0d0148" />
+    </LinearLayout>
+</LinearLayout>

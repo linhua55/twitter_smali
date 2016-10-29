@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:layout_gravity="50" twitter:orientation="1" twitter:id="0x7f13001c" twitter:background="0x7f120159" twitter:paddingBottom="0x7f0f019d" twitter:layout_width="-1" twitter:layout_height="-2">
+    <ImageView twitter:layout_gravity="3" twitter:id="0x7f130013" twitter:paddingLeft="0x7f0f019c" twitter:paddingTop="0x7f0f019c" twitter:paddingRight="0x7f0f019b" twitter:paddingBottom="0x7f0f019b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020652" twitter:contentDescription="@mx/View_android_theme" />
+    <LinearLayout twitter:gravity="1" twitter:orientation="1" twitter:id="0x7f130019" twitter:layout_width="-1" twitter:layout_height="-2">
+        <ImageView twitter:layout_gravity="10" twitter:id="0x7f13001a" twitter:layout_width="-1" twitter:layout_height="-2" twitter:src="0x7f020aa5" twitter:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="24sp" twitter:textStyle="1" twitter:textColor="0x106000b" twitter:gravity="11" twitter:layout_gravity="11" twitter:id="0x7f13001d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="5dp" twitter:text="@mx/View_android_theme" twitter:freezesText="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="16sp" twitter:textColor="0x106000b" twitter:gravity="11" twitter:layout_gravity="11" twitter:id="0x7f13001b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="10dp" twitter:text="@mx/View_android_theme" twitter:freezesText="true" />
+        <LinearLayout twitter:gravity="11" twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:weightSum="1.0">
+            <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130015" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_marginRight="8dp" twitter:layout_weight="0.4" twitter:fillColor="0x7f12015d" style="0x7f0d03b6" />
+            <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130014" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:text="@mx/View_android_theme" twitter:layout_weight="0.4" twitter:bounded="true" style="0x7f0d03bb" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

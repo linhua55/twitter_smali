@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <com.twitter.internal.android.widget.DockLayout twitter:id="0x7f1302c3" twitter:layout_width="-1" twitter:layout_height="-1" twitter:topDockId="0x7f13042d" twitter:turtle="4dp">
+            <android.support.v4.view.ViewPager twitter:id="0x7f130349" twitter:layout_width="-1" twitter:layout_height="-1" />
+            <LinearLayout twitter:orientation="1" twitter:id="0x7f13042d" twitter:layout_width="-1" twitter:layout_height="-2">
+                <com.twitter.internal.android.widget.HorizontalListView twitter:id="0x7f13034b" style="0x7f0d025d" />
+            </LinearLayout>
+        </com.twitter.internal.android.widget.DockLayout>
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+    <LinearLayout android:gravity="1" android:orientation="1" android:background="0x7f0204b0" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:layout_gravity="1" android:background="0x106000d" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0025" android:src="0x7f020aa6" android:contentDescription="@mx/View_android_theme" />
+        <View android:visibility="1" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <View android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1.0" />
+            <LinearLayout android:gravity="1" android:layout_gravity="1" android:orientation="1" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="4.0">
+                <com.twitter.ui.widget.TypefacesTextView android:layout_width="-1" android:layout_marginTop="0x7f0f0030" android:layout_marginBottom="0x7f0f0027" android:text="0x7f0a03ba" style="0x7f0d027a" />
+                <com.twitter.ui.widget.TypefacesTextView android:layout_width="-1" android:layout_marginBottom="0x7f0f0023" android:text="0x7f0a03b9" style="0x7f0d027a" />
+                <com.twitter.ui.widget.TwitterButton android:id="0x7f13038b" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0014" android:text="0x7f0a042b" style="0x7f0d0278" />
+                <CheckBox android:textSize="0x7f0f0047" android:textColor="0x7f12015d" android:gravity="30" android:layout_gravity="30" android:id="0x7f13038c" android:paddingLeft="0x7f0f0053" android:paddingRight="0x7f0f0053" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="0x7f0f0013" android:checked="true" android:button="0x7f020a19" android:text="0x7f0a07de" android:lineSpacingExtra="2sp" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0047" android:textColor="0x7f12015d" android:id="0x7f13038d" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0013" android:text="0x7f0a0053" android:lineSpacingExtra="2sp" />
+            </LinearLayout>
+            <View android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

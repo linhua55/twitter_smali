@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.library.widget.ToolbarWrapperLayout twitter:id="0x7f13036b" twitter:layout_width="-1" twitter:layout_height="-1">
+        <LinearLayout twitter:orientation="1" twitter:id="0x7f13036c" twitter:layout_width="-1" twitter:layout_height="-1">
+            <include layout="0x7f04036a" />
+            <com.twitter.android.composer.ComposerDockLayout twitter:id="0x7f1302c3" twitter:layout_width="-1" twitter:layout_height="-1">
+                <FrameLayout twitter:id="0x7f130133" twitter:layout_width="-1" twitter:layout_height="-1" />
+            </com.twitter.android.composer.ComposerDockLayout>
+        </LinearLayout>
+    </com.twitter.library.widget.ToolbarWrapperLayout>
+    <android.support.design.widget.FloatingActionButton twitter:id="0x7f13034e" twitter:visibility="2" twitter:layout_anchor="0x7f13036c" style="0x7f0d0192" />
+</android.support.design.widget.CoordinatorLayout>

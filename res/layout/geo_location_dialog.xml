@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130384" android:layout_width="-1" android:layout_height="-2" android:layout_margin="8dp" android:singleLine="false" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_margin="4dp">
+        <Spinner android:id="0x7f130385" android:layout_width="-2" android:layout_height="-2" />
+        <EditText android:id="0x7f130386" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:inputType="2002" />
+        <Spinner android:id="0x7f130387" android:visibility="2" android:layout_width="-2" android:layout_height="-2" />
+    </LinearLayout>
+</LinearLayout>

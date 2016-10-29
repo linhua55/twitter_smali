@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:paddingBottom="0x7f0f005f" twitter:layout_width="-1" twitter:layout_height="-2" twitter:animateLayoutChanges="true">
+    <com.twitter.ui.widget.TwitterButton twitter:id="0x7f13019e" twitter:text="0x7f0a00bf" twitter:nodpiBaseIconName="ic_compose_dm" style="0x7f0d0124" />
+</FrameLayout>

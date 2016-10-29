@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <ScrollView android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <LinearLayout android:orientation="1" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-2">
+            <com.twitter.ui.widget.TypefacesTextView android:textAppearance="?unknown_attr_ref: 1010042" android:id="@k/message" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="5dp" android:text="0x7f0a008f" />
+            <com.twitter.ui.widget.TypefacesTextView android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0094" />
+            <com.twitter.ui.widget.TypefacesTextView android:textAppearance="?unknown_attr_ref: 1010042" android:id="0x7f130425" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="2dp" android:layout_marginBottom="8dp" android:singleLine="true" />
+            <com.twitter.ui.widget.TypefacesTextView android:textAppearance="?unknown_attr_ref: 1010042" android:textStyle="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="2dp" android:text="0x7f0a0092" android:singleLine="true" />
+            <EditText android:id="0x7f130426" android:layout_width="-1" android:layout_height="-2" android:minWidth="250dp" android:scrollHorizontally="true" android:singleLine="true" android:inputType="81">
+                <requestFocus />
+            </EditText>
+        </LinearLayout>
+    </ScrollView>
+    <FrameLayout android:background="0x7f1200b3" android:paddingLeft="2dp" android:paddingTop="4dp" android:paddingRight="2dp" android:layout_width="-1" android:layout_height="-2" android:minHeight="54dp">
+        <Button android:layout_gravity="1" android:id="0x7f13017b" android:layout_width="-2" android:layout_height="-2" android:minWidth="100dp" android:text="0x7f0a0091" android:onClick="onClickHandler" />
+    </FrameLayout>
+</LinearLayout>

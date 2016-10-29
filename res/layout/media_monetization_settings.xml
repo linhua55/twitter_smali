@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:animateLayoutChanges="true">
+        <include layout="0x7f04036a" />
+        <Switch android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120023" android:id="0x7f13043f" android:background="?unknown_attr_ref: 101030e" android:padding="0x7f0f028d" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a04df" />
+        <LinearLayout android:orientation="1" android:id="0x7f130440" android:background="?unknown_attr_ref: 101030e" android:padding="0x7f0f028d" android:layout_width="-1" android:layout_height="-2">
+            <TextView android:textSize="0x7f0f0045" android:textColor="0x7f120023" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a04e1" />
+            <TextView android:textSize="0x7f0f0047" android:textColor="0x7f1200c9" android:id="0x7f130441" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f028e" />
+        </LinearLayout>
+        <View android:background="0x7f120089" android:layout_width="-1" android:layout_height="1dp" />
+        <TextView android:textSize="0x7f0f0047" android:textColor="0x7f1200c9" android:padding="0x7f0f028d" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a04de" />
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

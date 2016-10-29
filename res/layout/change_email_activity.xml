@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <ScrollView twitter:background="0x7f1200ba" twitter:layout_width="-1" twitter:layout_height="-1">
+            <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2"
+                <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d02c5">
+                    <com.twitter.ui.widget.TwitterEditText twitter:id="0x7f1301c1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:singleLine="true" twitter:inputType="21" twitter:imeOptions="10000000" twitter:labelText="0x7f0a07c7" style="0x7f0d03ef" />
+                    <com.twitter.ui.widget.TwitterEditText twitter:id="0x7f1301c2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:singleLine="true" twitter:inputType="81" twitter:imeOptions="10000000" twitter:labelText="0x7f0a07d5" style="0x7f0d03ef" />
+                </LinearLayout>
+                <View twitter:id="0x7f1301c3" twitter:layout_marginBottom="5dp" style="0x7f0d01c7" />
+                <Button twitter:enabled="false" twitter:id="0x7f1301c4" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d" twitter:text="0x7f0a072b" style="0x7f0d012f" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

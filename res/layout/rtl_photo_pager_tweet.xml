@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.library.widget.TweetView android:id="0x7f130599" android:layout_width="-1" android:layout_height="-2" style="0x7f0d03af" />
+</merge>

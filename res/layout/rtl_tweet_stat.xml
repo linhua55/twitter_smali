@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130676" android:layout_toRightOf="@bcx/name" style="0x7f0d03a4" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/name" android:layout_alignBaseline="0x7f130676" style="0x7f0d03a2" />
+</merge>

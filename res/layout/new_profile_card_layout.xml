@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ProfileCardView app:background="0x7f020a34" app:padding="0x7f0f038b" app:layout_width="-1" app:layout_height="-2" app:bylineSize="0x7f0f0047" app:contentSize="0x7f0f0045" app:profileImageTopMarginRatio="2.1" app:profileUserImageStrokeWidth="0x7f0f03a7" app:profileDescriptionFontSize="0x7f0f0047">
+    <include app:id="@bcx/header" layout="0x7f040223" />
+    <include app:layout_width="-1" app:layout_height="-2" app:layout_below="@bcx/header" app:layout_alignParentBottom="true" layout="0x7f040225" />
+</com.twitter.library.widget.ProfileCardView>

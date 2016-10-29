@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="?unknown_attr_ref: 101030e" style="0x7f0d01d6">
+    <com.twitter.ui.widget.TypefacesTextView android:textStyle="1" android:textColor="0x7f120008" android:id="@bcx/feedback_text" android:layout_width="-1" android:layout_height="-2" />
+</LinearLayout>

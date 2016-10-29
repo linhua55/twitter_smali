@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="0">
+    <stroke android:width="0x7f0f03b7" android:color="0x7f120159" android:dashWidth="0x7f0f03b8" android:dashGap="0x7f0f03b6" />
+    <corners android:radius="0x7f0f03b5" />
+</shape>

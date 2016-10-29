@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f0401db" />
+    <com.twitter.android.moments.ui.FillCropFrameLayout android:id="0x7f130494" android:layout_width="-1" android:layout_height="-1" />
+    <com.twitter.android.moments.ui.video.MomentsVideoPlayerChromeView android:layout_gravity="50" android:id="0x7f130495" android:background="0x7f02006b" android:visibility="1" android:layout_width="-1" android:layout_height="-2" />
+    <include layout="0x7f0401dc" />
+</FrameLayout>

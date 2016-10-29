@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:focusableInTouchMode="true" twitter:layout_width="-1" twitter:layout_height="-1">
+    <LinearLayout twitter:id="0x7f130285" twitter:background="0x7f120000" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.android.autocomplete.ListViewSuggestionEditText twitter:gravity="10" twitter:id="0x7f130286" twitter:layout_width="0dp" twitter:layout_height="0x7f0f0264" twitter:layout_marginLeft="16dp" twitter:layout_marginRight="12dp" twitter:layout_marginBottom="5dp" twitter:drawableLeft="0x7f0208ed" twitter:drawablePadding="5dp" twitter:layout_weight="1.0" twitter:inputType="1" twitter:imeOptions="10000003" twitter:lengthThreshold="0" style="0x7f0d03e5" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:textColor="0x7f120159" twitter:gravity="10" twitter:id="0x7f130287" twitter:layout_width="-2" twitter:layout_height="-1" twitter:layout_marginRight="15dp" twitter:text="0x7f0a00f9" twitter:textAllCaps="true" />
+    </LinearLayout>
+    <View twitter:id="0x7f130288" twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" twitter:layout_alignParentTop="true" />
+    <ListView twitter:id="0x7f130289" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_below="0x7f130288" style="0x7f0d01df" />
+    <FrameLayout twitter:id="0x1020004" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1">
+        <com.twitter.ui.widget.TypefacesTextView twitter:layout_gravity="31" twitter:id="0x7f13003c" twitter:paddingTop="0x7f0f004e" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0433" style="0x7f0d017e" />
+    </FrameLayout>
+</RelativeLayout>

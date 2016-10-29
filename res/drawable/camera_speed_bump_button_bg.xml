@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_pressed="true">
+        <shape android:shape="1">
+            <solid android:color="0x7f120157" />
+        </shape>
+    </item>
+    <item android:drawable="0x7f120041" />
+</selector>

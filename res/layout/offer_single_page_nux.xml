@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ScrollView android:scrollbars="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="0.8" android:overScrollMode="2">
+        <LinearLayout android:gravity="31" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0137" android:textColor="0x7f120009" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f013f" android:layout_marginBottom="0x7f0f013f" android:text="0x7f0a01a1" android:includeFontPadding="false" />
+            <LinearLayout android:gravity="31" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f013f">
+                <ImageView android:visibility="0" android:layout_width="0dp" android:layout_height="-2" android:src="0x7f0209d7" android:adjustViewBounds="true" android:layout_weight="0.33" android:contentDescription="@mx/View_android_theme" />
+                <LinearLayout android:gravity="10" android:layout_gravity="10" android:orientation="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="0.66">
+                    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0135" android:gravity="3" android:id="0x7f130553" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0140" android:text="0x7f0a01a2" />
+                    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0133" android:textColor="0x7f120064" android:gravity="3" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a01a4" />
+                </LinearLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="31" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f013f" android:weightSum="1.0">
+                <ImageView android:visibility="0" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0209d8" android:adjustViewBounds="true" android:layout_weight="0.33" android:contentDescription="@mx/View_android_theme" />
+                <RelativeLayout android:gravity="10" android:layout_gravity="10" android:orientation="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="0.66">
+                    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0135" android:gravity="3" android:id="0x7f130554" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0140" android:text="0x7f0a01a5" />
+                </RelativeLayout>
+            </LinearLayout>
+            <LinearLayout android:gravity="31" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:weightSum="1.0">
+                <ImageView android:visibility="0" android:layout_width="0dp" android:layout_height="-1" android:src="0x7f0209d9" android:adjustViewBounds="true" android:layout_weight="0.33" android:contentDescription="@mx/View_android_theme" />
+                <RelativeLayout android:gravity="10" android:layout_gravity="10" android:orientation="1" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="0.66">
+                    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0135" android:gravity="3" android:id="0x7f130555" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0140" android:text="0x7f0a01a7" />
+                </RelativeLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <LinearLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="0.2">
+        <com.twitter.ui.widget.TwitterButton android:id="0x7f130556" android:layout_width="-1" android:layout_height="0x7f0f0123" android:layout_marginLeft="0x7f0f013d" android:layout_marginRight="0x7f0f013d" android:layout_marginBottom="0x7f0f0152" android:text="0x7f0a01a0" style="0x7f0d03c7" />
+    </LinearLayout>
+</LinearLayout>

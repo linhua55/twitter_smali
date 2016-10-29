@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:id="0x7f130328" android:layout_width="-1" android:layout_height="-1">
+        <include android:id="@bcx/toolbar" layout="0x7f04036a" />
+        <include layout="0x7f0403bd" />
+        <com.twitter.android.composer.ComposerDockLayout android:id="0x7f1302c3" android:layout_width="-1" android:layout_height="-1" android:layout_below="@bcx/toolbar">
+            <FrameLayout android:id="0x7f130133" android:layout_width="-1" android:layout_height="-1" android:layout_below="@bcx/toolbar" />
+        </com.twitter.android.composer.ComposerDockLayout>
+    </RelativeLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

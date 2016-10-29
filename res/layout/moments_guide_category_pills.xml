@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.moments.ui.DisallowInterceptTouchFrameLayout android:layout_width="-1" android:layout_height="-2">
+    <include android:id="0x7f130496" android:layout_width="-1" android:layout_height="0x7f0f0306" layout="0x7f04021f" />
+</com.twitter.android.moments.ui.DisallowInterceptTouchFrameLayout>

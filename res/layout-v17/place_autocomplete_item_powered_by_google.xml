@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-2">
+    <View android:id="@bcx/place_autocomplete_separator" android:background="0x7f1200f7" android:visibility="2" android:layout_width="-1" android:layout_height="1dp" android:layout_marginLeft="0x7f0f034e" android:layout_marginStart="0x7f0f034e" />
+    <include android:layout_width="0x7f0f034d" android:layout_height="0x7f0f034d" android:layout_marginLeft="0x7f0f034c" android:layout_marginRight="0x7f0f034c" android:layout_below="@bcx/place_autocomplete_separator" android:layout_centerVertical="true" layout="0x7f040268" />
+    <ImageView android:id="@bcx/place_autocomplete_powered_by_google" android:layout_width="-2" android:layout_height="0x7f0f0346" android:layout_marginLeft="0x7f0f0347" android:src="0x7f020a2d" android:scaleType="5" android:layout_toRightOf="@bcx/place_autocomplete_progress" android:layout_below="@bcx/place_autocomplete_separator" android:layout_marginStart="0x7f0f0347" android:layout_toEndOf="@bcx/place_autocomplete_progress" />
+</RelativeLayout>

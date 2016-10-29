@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.MediaImageView twitter:visibility="2" twitter:layout_width="0dp" twitter:layout_height="0x7f0f0004" twitter:layout_margin="0x7f0f033c" twitter:layout_weight="1.0" twitter:defaultDrawable="0x7f120004" twitter:scaleType="1">
+    <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:contentDescription="0x7f0a03fd" twitter:overlayDrawable="0x7f0209db" />
+</com.twitter.media.ui.image.MediaImageView>

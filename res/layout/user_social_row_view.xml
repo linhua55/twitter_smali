@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserSocialView android:layout_width="-1" android:layout_height="-2" style="0x7f0d0200">
+    <com.twitter.library.widget.SocialBylineView android:id="@bcx/social_byline" android:visibility="2" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02d5" />
+    <RelativeLayout android:layout_width="-1" android:layout_height="-2" android:layout_below="@bcx/social_byline">
+        <include layout="0x7f0403a7" />
+    </RelativeLayout>
+</com.twitter.library.widget.UserSocialView>

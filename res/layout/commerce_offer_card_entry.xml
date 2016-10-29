@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f130210" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0127" android:layout_marginRight="0x7f0f0127">
+        <FrameLayout android:layout_width="-2" android:layout_height="-2">
+            <ImageView android:id="0x7f130211" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200ec" android:contentDescription="@mx/View_android_theme" />
+            <ImageView android:id="0x7f130212" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200e7" android:contentDescription="@mx/View_android_theme" />
+        </FrameLayout>
+        <com.twitter.android.commerce.widget.creditcard.CardEntryContainer android:id="0x7f130213" android:layout_width="-2" android:layout_height="-2" />
+    </LinearLayout>
+    <View android:background="0x7f120001" android:visibility="0" android:layout_width="-1" android:layout_height="1px" android:layout_marginLeft="0x7f0f0126" android:layout_marginRight="0x7f0f0126" />
+</LinearLayout>

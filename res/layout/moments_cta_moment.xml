@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="10" twitter:id="0x7f13046f" twitter:background="0x7f0209fd" twitter:paddingTop="0x7f0f02e4" twitter:paddingBottom="0x7f0f02e4" twitter:layout_width="-1" twitter:layout_height="-2" twitter:foreground="0x7f020a80">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f130470" twitter:layout_width="0x7f0f02f0" twitter:layout_height="0x7f0f02ef" twitter:layout_marginLeft="0x7f0f02e4" twitter:layout_marginRight="0x7f0f02e4" twitter:defaultDrawable="0x7f120004" twitter:errorDrawable="0x7f020098">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:cornerRadius="0x7f0f0178" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f13046b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f02e4">
+        <include layout="0x7f0401b0" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f13046c" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d022f" />
+        <LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-1">
+            <ImageView twitter:id="0x7f13046d" twitter:visibility="0" twitter:contentDescription="@mx/View_android_theme" style="0x7f0d0049" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a0529" style="0x7f0d0233" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

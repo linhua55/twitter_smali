@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-2">
+    <include android:id="0x7f130677" layout="0x7f0400a9" />
+    <LinearLayout android:layout_below="0x7f130677" style="0x7f0d03a8">
+        <com.twitter.android.widget.TweetStatView android:id="0x7f13045e" style="0x7f0d0394" />
+        <com.twitter.android.widget.TweetStatView android:id="0x7f130466" style="0x7f0d039f" />
+    </LinearLayout>
+</RelativeLayout>

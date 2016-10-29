@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.av.video.VideoContainerHost android:id="@bcx/player" android:layout_width="-1" android:layout_height="-2" />

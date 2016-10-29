@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <FrameLayout android:layout_gravity="11" android:id="0x7f1303b8" android:layout_width="-2" android:layout_height="-2">
+        <ImageView android:layout_gravity="11" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020984" android:contentDescription="@mx/View_android_theme" />
+        <ProgressBar android:layout_gravity="11" android:id="0x7f1301b2" android:layout_width="0x7f0f021a" android:layout_height="0x7f0f021a" android:indeterminateDrawable="0x7f020574" />
+    </FrameLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0233" android:textColor="0x7f12015d" android:gravity="11" android:layout_gravity="11" android:id="@k/loading_text" android:paddingLeft="0x7f0f026a" android:paddingRight="0x7f0f026a" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0269" style="0x7f0d01b1" />
+    <com.twitter.ui.widget.TwitterButton android:enabled="true" android:layout_gravity="11" android:id="0x7f1303ba" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0269" android:text="0x7f0a0475" style="0x7f0d03cc" />
+</LinearLayout>

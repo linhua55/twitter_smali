@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.InlineDismissView android:background="0x7f120006" android:padding="0x7f0f0257" android:layout_width="-1" android:layout_height="-2" android:measureAllChildren="false" />

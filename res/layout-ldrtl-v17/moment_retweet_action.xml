@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="0x7f130465" android:layout_width="-2" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:gravity="5" android:layout_gravity="11" android:id="0x7f130466" android:layout_width="-2" android:layout_height="-2" style="0x7f0d0224" />
+    <com.twitter.android.widget.ToggleImageButton android:id="0x7f130126" android:background="@mx/View_android_theme" android:layout_width="0x7f0f02f2" android:layout_height="0x7f0f02f2" android:src="0x7f0209f5" android:contentDescription="0x7f0a08be" />
+</LinearLayout>

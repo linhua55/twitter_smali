@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0047" android:textStyle="1" android:textColor="0x7f1200c9" android:background="0x7f0200a2" android:paddingLeft="20dp" android:paddingTop="10dp" android:paddingRight="20dp" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-2" android:textAllCaps="true" />

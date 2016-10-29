@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:layout_width="-1" twitter:layout_height="-1" twitter:fillViewport="true">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+        <include layout="0x7f040330" />
+        <com.twitter.ui.widget.TwitterEditText twitter:enabled="false" twitter:id="0x7f13032c" twitter:visibility="2" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginBottom="0x7f0f0433" twitter:labelText="0x7f0a0258" style="0x7f0d03ef" />
+        <com.twitter.internal.android.widget.PopupEditText twitter:id="0x7f13032d" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginBottom="0x7f0f0433" twitter:drawableRight="0x7f020925" twitter:inputType="21" twitter:imeOptions="5" twitter:labelText="0x7f0a07c7" style="0x7f0d03ef" />
+        <View twitter:id="@k/spacer" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130147" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f0415" style="0x7f0d0279" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f13032e" twitter:visibility="2" style="0x7f0d027b" />
+    </LinearLayout>
+</ScrollView>

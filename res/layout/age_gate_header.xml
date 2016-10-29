@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:duplicateParentState="true" style="0x7f0d01ed">
+    <com.twitter.library.media.widget.UserImageView android:id="0x7f130142" android:layout_width="-2" android:layout_height="-2" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130143" android:duplicateParentState="true" android:layout_toRightOf="0x7f130142" style="0x7f0d013e" />
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="10dp" custom:layout_marginTop="6dp">
+    <tv.periscope.android.view.PsTextView custom:textSize="@dimen/abc_text_size_body_2_material" custom:textColor="@h/ps__white" custom:id="@k/broadcast_live_label" custom:layout_width="-2" custom:layout_height="-2" custom:text="@o/ps__broadcast_live_label" custom:ps__font="fonts/MuseoSans-300.otf" />
+    <tv.periscope.android.view.PsTextView custom:textSize="@dimen/abc_text_size_headline_material" custom:textColor="@h/ps__white" custom:layout_width="-2" custom:layout_height="-2" custom:text="@o/ps__broadcasting_live" custom:drawableRight="0x7f020a69" custom:drawablePadding="8dp" custom:layout_below="@k/broadcast_live_label" custom:drawableEnd="0x7f020a69" custom:ps__font="fonts/MuseoSans-700.otf" />
+</RelativeLayout>

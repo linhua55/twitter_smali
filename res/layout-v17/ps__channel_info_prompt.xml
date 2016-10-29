@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tv.periscope.android.view.PsTextView custom:textSize="16sp" custom:textColor="@h/ps__white" custom:id="@k/text" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="10dp" custom:layout_marginTop="6dp" custom:layout_marginStart="10dp" custom:ps__font="fonts/MuseoSans-300.otf" />

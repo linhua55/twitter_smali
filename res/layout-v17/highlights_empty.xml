@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+        <View twitter:background="0x7f020569" twitter:layout_width="-1" twitter:layout_height="0x7f0f0221" twitter:layout_weight="0.1" />
+        <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="0x7f0f0208">
+            <ImageView twitter:layout_width="-1" twitter:layout_height="-1" twitter:src="0x7f020567" twitter:scaleType="1" twitter:contentDescription="@mx/View_android_theme" />
+        </com.twitter.media.ui.image.AspectRatioFrameLayout>
+        <ScrollView twitter:background="0x7f1200a1" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:fillViewport="true" twitter:layout_weight="1.0">
+            <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:paddingLeft="0x7f0f0207" twitter:paddingRight="0x7f0f0206" twitter:layout_width="-1" twitter:layout_height="-2" twitter:paddingStart="0x7f0f0207" twitter:paddingEnd="0x7f0f0206">
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0233" twitter:textColor="0x7f12015d" twitter:gravity="11" twitter:id="0x7f1303a6" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a03cc" twitter:lineSpacingMultiplier="0x7f0f022a" style="0x7f0d01b1" />
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0230" twitter:textColor="0x7f12015d" twitter:gravity="11" twitter:id="0x7f1303a7" twitter:layout_width="-2" twitter:layout_height="-2" twitter:lineSpacingMultiplier="0x7f0f0228" />
+            </LinearLayout>
+        </ScrollView>
+        <FrameLayout twitter:background="0x7f020568" twitter:layout_width="-1" twitter:layout_height="0x7f0f0204" twitter:layout_weight="0.15">
+            <com.twitter.ui.widget.TwitterButton twitter:layout_gravity="1" twitter:id="0x7f1303a8" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0205" style="0x7f0d03c7" />
+        </FrameLayout>
+    </LinearLayout>
+</merge>

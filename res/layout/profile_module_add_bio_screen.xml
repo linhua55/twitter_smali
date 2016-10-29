@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.profilecompletionmodule.addbio.AddBioScreen twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <com.twitter.library.widget.ObservableScrollView twitter:id="0x7f13014d" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:fillViewport="true" twitter:layout_weight="1.0">
+        <FrameLayout twitter:layout_width="-1" twitter:layout_height="-1">
+            <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+                <include twitter:id="@bcx/header" layout="0x7f040330" />
+                <View twitter:id="0x7f1305ed" twitter:layout_width="-1" twitter:layout_height="0dp" />
+                <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d">
+                    <android.support.v7.widget.RecyclerView twitter:id="0x7f1303fc" twitter:paddingLeft="0x7f0f004d" twitter:paddingRight="0x7f0f004d" twitter:paddingBottom="0x7f0f025e" twitter:visibility="2" twitter:clipToPadding="false" twitter:layout_width="-1" twitter:layout_height="-2" />
+                </LinearLayout>
+            </LinearLayout>
+            <com.twitter.ui.widget.TwitterEditText twitter:id="0x7f130321" twitter:background="0x7f120000" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d" twitter:inputType="24001" twitter:labelText="0x7f0a063e" twitter:maxCharacterCount="0x7f100039" twitter:characterCounterMode="2" style="0x7f0d03e5" />
+        </FrameLayout>
+    </com.twitter.library.widget.ObservableScrollView>
+    <include layout="0x7f0400d9" />
+</com.twitter.android.profilecompletionmodule.addbio.AddBioScreen>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout twitter:id="0x7f130679" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentRight="true" twitter:layout_centerVertical="false">
+        <com.twitter.ui.widget.TintableImageView twitter:layout_gravity="11" twitter:id="@bcx/muted_item" twitter:paddingTop="0x7f0f00df" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0208a8" twitter:contentDescription="@mx/View_android_theme" twitter:tintColorList="0x7f120171" />
+        <com.twitter.library.widget.ActionButton twitter:id="@bcx/block_button" twitter:background="0x7f0200b2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f02061e" twitter:tintColorList="0x7f120171" style="0x7f0d0001" />
+        <com.twitter.library.widget.ActionButton twitter:id="@bcx/action_button" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d0001" />
+    </LinearLayout>
+    <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f024c" twitter:layout_alignParentTop="true" twitter:singleImageView="true" />
+    <RelativeLayout twitter:id="0x7f1301cd" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="0x7f130679" twitter:layout_toRightOf="@bcx/user_image" twitter:layout_alignParentTop="true">
+        <include layout="0x7f0403a1" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/screenname_item" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="0x7f130123" style="?unknown_attr_ref: 7f0100cb" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/profile_description_item" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="2sp" twitter:layout_toRightOf="@bcx/user_image" twitter:layout_below="0x7f1301cd" twitter:lineSpacingExtra="2sp" style="?unknown_attr_ref: 7f0100c9" />
+    <include layout="0x7f0403a2" />
+</merge>

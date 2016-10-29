@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textColor="0x7f120140" android:id="@bcx/follows_you" android:text="0x7f0a03b1" style="0x7f0d029d" />
+</merge>

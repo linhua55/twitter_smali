@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:layout_gravity="50" android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f02e4">
+    <include layout="0x7f0401af" />
+    <include layout="0x7f0401ab" />
+    <View android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1.0" />
+    <include layout="0x7f0401c1" />
+</LinearLayout>

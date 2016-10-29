@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a0262" android:key="category_developer" android:order="10000">
+        <Preference android:title="Debug" android:key="pref_debug" />
+        <Preference android:title="0x7f0a0a2e" android:key="pref_feature_switches" android:summary="0x7f0a0a2d" />
+    </PreferenceCategory>
+</PreferenceScreen>

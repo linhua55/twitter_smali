@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="-1">
+    <tv.periscope.android.view.PsRecyclerView android:id="@k/chat_list" android:background="@h/ps__transparent" android:layout_width="-1" android:layout_height="-1" android:layout_alignParentLeft="true" android:layout_alignParentStart="true" />
+</merge>

@@ -1,0 +1,29 @@
+package com.squareup.okhttp.v_1_5_1;
+
+import java.util.LinkedHashSet;
+import java.util.Set;
+
+/* compiled from: Twttr */
+public final class RouteDatabase {
+    private final Set<Route> failedRoutes;
+
+    public RouteDatabase() {
+        this.failedRoutes = new LinkedHashSet();
+    }
+
+    public synchronized void failed(Route route) {
+        this.failedRoutes.add(route);
+    }
+
+    public synchronized void connected(Route route) {
+        this.failedRoutes.remove(route);
+    }
+
+    public synchronized boolean shouldPostpone(Route route) {
+        return this.failedRoutes.contains(route);
+    }
+
+    public synchronized int failedRoutesCount() {
+        return this.failedRoutes.size();
+    }
+}

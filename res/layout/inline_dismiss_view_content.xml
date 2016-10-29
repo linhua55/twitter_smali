@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout android:gravity="11" android:layout_width="-1" android:layout_height="-1">
+        <ProgressBar android:layout_width="-2" android:layout_height="-2" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:background="0x7f0209dc" android:layout_width="-1" android:layout_height="-2">
+        <RelativeLayout style="0x7f0d01d6">
+            <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f120008" android:id="@bcx/confirmation_text" android:layout_width="-2" android:layout_height="-2" style="0x7f0d0008" />
+            <com.twitter.ui.widget.TypefacesTextView android:textStyle="1" android:textColor="0x7f120183" android:id="@bcx/undo_feeback" android:focusable="true" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0405" android:contentDescription="0x7f0a0405" style="0x7f0d0009" />
+        </RelativeLayout>
+        <LinearLayout android:orientation="1" android:id="@bcx/feedback_items" android:layout_width="-1" android:layout_height="-2" android:divider="0x7f0209dd" android:showDividers="3" /> />
+</merge>

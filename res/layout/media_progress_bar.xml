@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.media.ui.AnimatingProgressBar android:layout_gravity="11" android:id="@bcx/media_progress_bar" android:layout_width="-1" android:layout_height="4.5dp" android:layout_marginLeft="50dp" android:layout_marginRight="50dp" android:max="100" android:indeterminate="false" android:progressDrawable="0x7f0209f0" style="@*style/Widget.ProgressBar.Horizontal" />
+</FrameLayout>

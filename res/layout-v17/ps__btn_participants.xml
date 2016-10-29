@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout custom:gravity="11" custom:orientation="0" custom:layout_width="-2" custom:layout_height="-2" custom:minWidth="0x7f0f03f8" custom:minHeight="0x7f0f03f8" custom:paddingStart="0x7f0f03e8" custom:paddingEnd="0x7f0f03e8">
+    <ImageView custom:id="@k/num_people_icon" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a6a" custom:scaleType="5" />
+    <tv.periscope.android.view.PsTextView custom:textSize="16sp" custom:textColor="@h/ps__white" custom:id="@k/num_people_text" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="6dp" custom:layout_marginStart="6dp" custom:ps__font="fonts/MuseoSans-700.otf" />
+</LinearLayout>

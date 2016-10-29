@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView android:id="@k/icon" android:background="0x7f020a10" android:layout_width="0x1050005" android:layout_height="0x1050006" android:src="0x7f020970" android:scaleType="7" android:layout_alignParentLeft="true" android:contentDescription="@mx/View_android_theme" />

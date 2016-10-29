@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.library.widget.LandscapeAwareAspectRatioFrameLayout android:id="0x7f13036d" android:background="0x7f120023" android:layout_width="-1" android:layout_height="-2" />
+</LinearLayout>

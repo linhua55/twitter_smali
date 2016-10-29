@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserView twitter:gravity="11" twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.media.ui.image.BackgroundImageView twitter:id="0x7f1304cb" twitter:layout_width="-1" twitter:layout_height="-1" twitter:tint="0x7f12008d" twitter:defaultDrawable="0x7f120064">
+        <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:paddingTop="18dp" twitter:paddingBottom="14dp" twitter:layout_width="-1" twitter:layout_height="-1">
+            <include layout="0x7f0400f2" />
+            <include layout="0x7f0400f3" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f12015d" twitter:ellipsize="3" twitter:id="@bcx/social_byline" twitter:paddingTop="14dp" twitter:visibility="1" twitter:clickable="false" twitter:layout_width="-2" twitter:layout_height="-2" />
+        </LinearLayout>
+    </com.twitter.media.ui.image.BackgroundImageView>
+</com.twitter.library.widget.UserView>

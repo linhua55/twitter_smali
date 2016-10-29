@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge app:orientation="1" app:layout_width="-1" app:layout_height="-2">
+    <View app:layout_width="-1" app:layout_height="1dp" style="0x7f0d01c7" />
+    <RelativeLayout app:padding="10dp" app:layout_width="-1" app:layout_height="-2">
+        <com.twitter.ui.widget.TwitterButton app:id="@bcx/skip" app:layout_width="-2" app:layout_height="-2" app:text="0x7f0a0561" app:layout_alignParentLeft="true" app:labelMargin="0dp" style="0x7f0d03cf" />
+        <com.twitter.ui.widget.TwitterButton app:enabled="false" app:id="0x7f130189" app:layout_width="-2" app:layout_height="-2" app:text="0x7f0a0553" app:layout_alignParentRight="true" style="0x7f0d03c7" />
+    </RelativeLayout>
+</merge>

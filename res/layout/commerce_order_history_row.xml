@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="0x7f0d01fd">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f13022a" twitter:layout_width="0x7f0f0052" twitter:layout_height="0x7f0f0052" twitter:defaultDrawable="0x7f12005a" twitter:scaleType="1" />
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f011b" twitter:layout_toRightOf="0x7f13022a"
+        <LinearLayout twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f014b">
+            <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f120140" twitter:gravity="3" twitter:id="0x7f13022b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="Sept 1, 2014" twitter:includeFontPadding="false" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f12005b" twitter:gravity="3" twitter:id="0x7f13022c" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f011c" twitter:text=" • Processing" twitter:includeFontPadding="false" />
+        </LinearLayout>
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0132" twitter:textColor="0x7f120009" twitter:gravity="3" twitter:id="0x7f130219" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="Lorem ipsum dolor sit amet" twitter:includeFontPadding="false" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0133" twitter:textColor="0x7f120140" twitter:gravity="3" twitter:id="0x7f13022d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f012e" twitter:text="Sold by Taylor Swift Official Online Store" twitter:includeFontPadding="false" />
+    </LinearLayout>
+</RelativeLayout>

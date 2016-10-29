@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:id="0x7f1301f9" twitter:background="0x7f020a39" twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1301fa" twitter:padding="0x7f0f0035" twitter:layout_width="72dp" twitter:layout_height="-2" twitter:contentDescription="0x7f0a0401" twitter:defaultDrawable="0x7f120004" twitter:errorDrawable="0x7f020098" />
+    <View twitter:background="0x7f120001" twitter:layout_width="1dp" twitter:layout_height="-1" />
+    <RelativeLayout twitter:id="0x7f13051c" twitter:padding="0x7f0f0035" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="1.0">
+        <TextView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1301fe" twitter:layout_width="-1" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_alignParentLeft="true" />
+        <RelativeLayout twitter:id="0x7f13051d" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_below="0x7f1301fe" twitter:layout_alignParentLeft="true">
+            <RatingBar twitter:id="0x7f13051e" twitter:layout_width="-2" twitter:layout_height="11dp" twitter:progressDrawable="0x7f020a3b" twitter:numStars="5" twitter:rating="0.0" twitter:isIndicator="true" twitter:layout_alignParentLeft="true" twitter:layout_centerVertical="true" />
+            <TextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120140" twitter:ellipsize="3" twitter:id="0x7f13051f" twitter:paddingLeft="4dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_toRightOf="0x7f13051e" />
+        </RelativeLayout>
+        <TextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120140" twitter:ellipsize="3" twitter:id="0x7f1304e9" twitter:layout_width="-1" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_below="0x7f13051d" twitter:layout_alignParentLeft="true" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TwitterButton twitter:textSize="0x7f0f0045" twitter:id="0x7f1301fd" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0035" twitter:layout_marginRight="0x7f0f0035" twitter:layout_marginBottom="0x7f0f0035" twitter:text="0x7f0a0068" style="0x7f0d03ce" />
+</LinearLayout>

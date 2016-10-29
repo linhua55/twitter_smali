@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.smartfollow.sharelocation.ShareLocationScreen android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <ScrollView android:layout_width="-1" android:layout_height="-1" android:fillViewport="true">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <include android:id="@bcx/header" layout="0x7f040330" />
+            <View android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+            <include layout="0x7f040337" />
+            <View android:layout_width="-1" android:layout_height="0x7f0f0019" />
+        </LinearLayout>
+    </ScrollView>
+</com.twitter.android.smartfollow.sharelocation.ShareLocationScreen>

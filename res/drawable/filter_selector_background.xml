@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:drawable="0x7f020068" />
+    <item android:left="-1dp" android:top="-1dp" android:right="-1dp">
+        <shape android:shape="0">
+            <solid android:color="0x106000d" />
+            <stroke android:width="0.5dp" android:color="0x7f12008f" />
+        </shape>
+    </item>
+</layer-list>

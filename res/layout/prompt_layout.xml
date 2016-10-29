@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:orientation="1" android:id="@bcx/prompt_inner_container" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02ae">
+        <com.twitter.media.ui.image.MediaImageView android:layout_gravity="11" android:id="@bcx/prompt_icon" android:visibility="2" android:layout_width="-1" android:layout_height="0x7f0f03e1" android:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/prompt_title" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02ac" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/prompt_subtitle" android:visibility="2" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02aa" />
+        <com.twitter.ui.widget.TwitterButton android:layout_gravity="11" android:id="@bcx/prompt_btn" android:visibility="2" android:layout_width="-2" android:layout_height="-2" style="0x7f0d02a9" />
+    </LinearLayout>
+    <ImageView android:id="@bcx/dismiss" android:padding="0x7f0f03e0" android:visibility="2" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:src="0x7f020642" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:contentDescription="?unknown_attr_ref: 7f01001c" />
+</merge>

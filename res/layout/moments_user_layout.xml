@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="50" android:orientation="0" android:id="0x7f1304ba" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f02e4" android:layout_marginBottom="0x7f0f02d9">
+    <com.twitter.library.media.widget.UserImageView android:id="0x7f1302e1" android:layout_width="0x7f0f02e6" android:layout_height="0x7f0f02e6" android:layout_marginRight="0x7f0f02e5" android:imageType="profile" android:userImageSize="0x7f0f02e6" android:imageCornerRadius="0x7f0f0178" />
+    <RelativeLayout android:padding="0x7f0f02c6" android:layout_width="-2" android:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02e8" android:id="0x7f13046e" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" style="0x7f0d0041" />
+        <ImageView android:id="0x7f130469" android:paddingBottom="0x7f0f02c8" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f02e5" android:src="0x7f0207d3" android:layout_toRightOf="0x7f13046e" android:layout_alignBottom="0x7f13046e" android:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02e9" android:textColor="0x7f1200e6" android:id="0x7f130476" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f13046e" android:layout_alignParentLeft="true" />
+    </RelativeLayout>
+</LinearLayout>

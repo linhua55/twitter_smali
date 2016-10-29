@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory twitter:title="0x7f0a0728" twitter:key="category_privacy">
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0797" twitter:key="protected" twitter:summary="0x7f0a0796" />
+        <com.twitter.android.settings.MultilineCheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0678" twitter:key="allow_dms_from" twitter:summary="0x7f0a0679" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a02c5" twitter:key="dm_read_receipts" twitter:summary="0x7f0a02c4" />
+        <com.twitter.android.settings.CheckBoxListPreference twitter:persistent="false" twitter:entries="0x7f0b0017" twitter:title="0x7f0a0758" twitter:key="allow_media_tagging" twitter:summary="%s" twitter:defaultValue="none" twitter:entryValues="0x7f0b0018" twitter:offValue="none" />
+        <com.twitter.android.settings.MultilineCheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0737" twitter:key="discoverable_by_email" twitter:summary="0x7f0a0735" />
+        <com.twitter.android.settings.MultilineCheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a073a" twitter:key="discoverable_by_mobile_phone" twitter:summary="0x7f0a0738" />
+        <com.twitter.android.settings.MultilineTitlePreference twitter:title="0x7f0a020b" twitter:key="contacts_sync" twitter:summary="" />
+        <com.twitter.android.settings.MultilineTitlePreference twitter:title="0x7f0a0721" twitter:key="app_graph" twitter:summary="" />
+        <com.twitter.android.settings.MultilineTitlePreference twitter:persistent="false" twitter:title="0x7f0a0783" twitter:key="personalized_ads" twitter:summary="" />
+    </PreferenceCategory>
+    <PreferenceCategory twitter:title="0x7f0a0726" twitter:key="category_content">
+        <com.twitter.android.settings.MultilineCheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a073d" twitter:key="display_sensitive_media" twitter:summary="0x7f0a073c" />
+        <Preference twitter:title="0x7f0a00ab" twitter:key="block_list" />
+        <Preference twitter:title="0x7f0a0537" twitter:key="mute_list" />
+        <com.twitter.android.widget.UrlLinkableCheckboxPreference twitter:persistent="false" twitter:title="0x7f0a0720" twitter:key="smart_mute" twitter:summary="0x7f0a071f" twitter:clickableUrl="0x7f0a09df" />
+    </PreferenceCategory>
+</PreferenceScreen>

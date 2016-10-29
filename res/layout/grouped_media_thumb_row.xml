@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true">
+    <com.twitter.internal.android.widget.HorizontalListView twitter:id="0x7f130391" twitter:minHeight="0x7f0f029b" twitter:dividerWidth="0x7f0f033a" twitter:edgePadding="0x7f0f033b" twitter:fillWidthHeightRatio="3.0" style="0x7f0d01f6" />
+</com.twitter.internal.android.widget.GroupedRowView>

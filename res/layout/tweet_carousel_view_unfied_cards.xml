@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.TweetCarouselView twitter:orientation="1" twitter:background="0x7f020a9f" twitter:layout_width="-2" twitter:layout_height="-2">
+    <RelativeLayout twitter:id="0x7f130452" twitter:paddingTop="0x7f0f004e" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.library.media.widget.UserImageView twitter:id="0x7f1302e1" twitter:background="0x7f120041" twitter:paddingLeft="0x7f0f004d" twitter:clickable="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a0400" twitter:userImageSize="-1" style="0x7f0d0007" />
+        <ImageView twitter:id="@bcx/dismiss" twitter:paddingRight="0x7f0f004d" twitter:paddingBottom="0x7f0f0468" twitter:clickable="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0208ba" twitter:contentDescription="0x7f0a08b7" style="0x7f0d0005" />
+        <LinearLayout twitter:orientation="1" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" style="0x7f0d0006">
+            <com.twitter.ui.widget.TweetHeaderView twitter:id="@bcx/header" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0469" twitter:layout_marginRight="0x7f0f0469" style="0x7f0d0396" />
+        </LinearLayout>
+        <com.twitter.library.widget.TextContentView twitter:id="0x7f130018" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="10dp" twitter:layout_marginRight="0x7f0f004d" twitter:layout_marginBottom="12dp" twitter:maxLines="0x7f100049" twitter:minLines="0x7f100049" twitter:layout_below="0x7f1302e1" twitter:lineSpacingExtra="0x7f0f0263" twitter:contentColor="0x7f1200fc" twitter:linkColor="0x7f1200b8" />
+    </RelativeLayout>
+    <include layout="0x7f040059" />
+    <com.twitter.ui.widget.BadgeView twitter:id="0x7f1303ff" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="0dp" twitter:layout_marginRight="0x7f0f004d" twitter:layout_marginBottom="12dp" style="0x7f0d00ea" />
+</com.twitter.android.widget.TweetCarouselView>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout custom:orientation="1" custom:layout_width="-1" custom:layout_height="-2"
+    <LinearLayout custom:gravity="10" custom:orientation="0" custom:id="@k/info_container" custom:layout_width="-1" custom:layout_height="-2" custom:layout_marginTop="0x7f0f03f9" custom:layout_marginBottom="0x7f0f03fd" custom:layout_marginStart="0x7f0f03fd" custom:layout_marginEnd="0x7f0f03fd">
+        <tv.periscope.android.view.PsTextView custom:textSize="0x7f0f03ff" custom:textColor="@h/ps__white" custom:id="@k/info" custom:layout_width="-2" custom:layout_height="-2" custom:ps__font="fonts/MuseoSans-300.otf" />
+    </LinearLayout>
+    <FrameLayout custom:id="@k/message_container" custom:layout_width="-1" custom:layout_height="-2">
+        <LinearLayout custom:orientation="0" custom:id="@k/message" custom:paddingTop="0x7f0f03fd" custom:paddingBottom="0x7f0f03f9" custom:clipToPadding="false" custom:layout_width="-1" custom:layout_height="-2" custom:minHeight="0x7f0f03ee" custom:paddingStart="0x7f0f03fd" custom:paddingEnd="0x7f0f03fd">
+            <FrameLayout custom:background="0x7f020a52" custom:paddingTop="0x7f0f03fd" custom:layout_width="0x7f0f03ee" custom:layout_height="-2" custom:minHeight="0x7f0f03ee">
+                <ImageView custom:layout_gravity="51" custom:id="@k/avatar" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a65" custom:alpha="0.3" />
+            </FrameLayout>
+            <tv.periscope.android.view.PsTextView custom:textSize="0x7f0f03ef" custom:textColor="@h/ps__dark_grey" custom:gravity="10" custom:id="@k/message_moderate_body" custom:background="0x7f020a49" custom:paddingLeft="8dp" custom:paddingTop="0x7f0f03f9" custom:paddingRight="0x7f0f03f9" custom:paddingBottom="0x7f0f03f9" custom:layout_width="-2" custom:layout_height="-1" custom:layout_marginRight="30dp" custom:paddingStart="8dp" custom:paddingEnd="0x7f0f03f9" custom:layout_marginEnd="30dp" custom:ps__font="fonts/MuseoSans-300.otf" />
+        </LinearLayout>
+    </FrameLayout>
+    <ProgressBar custom:id="@k/timer" custom:layout_width="-1" custom:layout_height="0x7f0f03fa" custom:layout_marginStart="0x7f0f03fd" custom:layout_marginEnd="0x7f0f03fd" style="0x7f0d045c" />
+    <FrameLayout custom:id="@k/moderator_verdict_container" custom:layout_width="-1" custom:layout_height="-2" custom:layout_margin="3dp">
+        <LinearLayout custom:layout_gravity="50" custom:orientation="0" custom:id="@k/moderator_out_of_time" custom:paddingLeft="0x7f0f03fd" custom:visibility="2" custom:layout_width="-1" custom:layout_height="47dp" custom:paddingStart="0x7f0f03fd">
+            <tv.periscope.android.view.PsTextView custom:textSize="14sp" custom:textColor="@h/ps__white" custom:gravity="10" custom:id="@k/did_not_vote" custom:layout_width="-2" custom:layout_height="-1" custom:layout_marginRight="5dp" custom:text="@o/ps__moderator_did_not_vote" custom:layout_marginEnd="5dp" custom:ps__font="fonts/MuseoSans-500.otf" />
+            <tv.periscope.android.view.PsTextView custom:textSize="14sp" custom:textColor="@h/ps__light_blue" custom:gravity="10" custom:id="@k/learn_more_about_moderation" custom:layout_width="-2" custom:layout_height="-1" custom:text="@o/ps__moderator_learn_more" custom:ps__font="fonts/MuseoSans-500.otf" />
+        </LinearLayout>
+        <LinearLayout custom:layout_gravity="50" custom:orientation="0" custom:id="@k/buttons_container" custom:layout_width="-1" custom:layout_height="-2" custom:layout_marginTop="0x7f0f03fd">
+            <tv.periscope.android.view.PsButton custom:textSize="14sp" custom:id="@k/negative" custom:background="0x7f020a46" custom:layout_width="0dp" custom:layout_height="45dp" custom:layout_margin="0x7f0f03fd" custom:text="@o/ps__moderator_negative" custom:layout_weight="1.0" custom:textAllCaps="false" custom:ps__font="fonts/MuseoSans-700.otf" style="0x7f0d0455" />
+            <tv.periscope.android.view.PsButton custom:textSize="14sp" custom:id="@k/positive" custom:background="0x7f020a43" custom:layout_width="0dp" custom:layout_height="45dp" custom:layout_margin="0x7f0f03fd" custom:text="@o/ps__moderator_positive" custom:layout_weight="1.0" custom:textAllCaps="false" custom:ps__font="fonts/MuseoSans-700.otf" style="0x7f0d0455" />
+            <tv.periscope.android.view.PsButton custom:textSize="14sp" custom:id="@k/neutral" custom:background="0x7f020a45" custom:layout_width="0dp" custom:layout_height="45dp" custom:layout_margin="0x7f0f03fd" custom:text="@o/ps__moderator_neutral" custom:layout_weight="1.0" custom:textAllCaps="false" custom:ps__font="fonts/MuseoSans-700.otf" style="0x7f0d0455" />
+        </LinearLayout>
+    </FrameLayout>
+</LinearLayout>

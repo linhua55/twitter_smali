@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="10dp" custom:layout_marginTop="6dp" custom:layout_marginRight="10dp" custom:layout_marginStart="10dp" custom:layout_marginEnd="10dp">
+    <LinearLayout custom:orientation="0" custom:id="@k/chat_message_container" custom:layout_width="-2" custom:layout_height="-2" custom:minHeight="0x7f0f03ee">
+        <tv.periscope.android.view.MaskImageView custom:id="@k/avatar" custom:background="0x7f020a4a" custom:layout_width="0x7f0f03ee" custom:layout_height="-1" custom:scaleType="6" custom:minHeight="0x7f0f03ee" />
+        <LinearLayout custom:orientation="1" custom:id="@k/chat_text_container" custom:background="0x7f020a49" custom:paddingLeft="8dp" custom:paddingTop="4dp" custom:paddingRight="10dp" custom:paddingBottom="4dp" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginRight="0x7f0f0031" custom:minHeight="0x7f0f03ee" custom:paddingStart="8dp" custom:paddingEnd="10dp" custom:layout_marginEnd="0x7f0f0031"
+            <LinearLayout custom:orientation="0" custom:id="@k/username_container" custom:layout_width="-2" custom:layout_height="-2">
+                <tv.periscope.android.view.PsTextView custom:textSize="12sp" custom:textColor="@h/ps__light_grey" custom:id="@k/username" custom:layout_width="-2" custom:layout_height="-2" custom:ps__font="fonts/MuseoSans-300.otf" />
+                <ImageView custom:layout_gravity="10" custom:id="@k/block_count_icon" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="4dp" custom:src="0x7f020a67" custom:layout_marginStart="4dp" />
+                <tv.periscope.android.view.PsTextView custom:textSize="12sp" custom:textColor="@h/ps__light_grey" custom:id="@k/block_count" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="2dp" custom:src="0x7f020a67" custom:layout_marginStart="2dp" custom:ps__font="fonts/MuseoSans-300.otf" />
+            </LinearLayout>
+            <tv.periscope.android.view.PsTextView custom:textSize="14sp" custom:textColor="@h/ps__dark_grey" custom:id="@k/chat_body" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginTop="2dp" custom:layout_weight="1.0" custom:ps__font="fonts/MuseoSans-300.otf" />
+        </LinearLayout>
+    </LinearLayout>
+    <ImageView custom:id="@k/reply_indicator" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="20dp" custom:layout_marginTop="7dp" custom:src="0x7f020a6e" custom:layout_marginStart="20dp" />
+    <ImageView custom:id="@k/block_indicator" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="8dp" custom:layout_marginTop="10dp" custom:src="0x7f020a66" custom:layout_marginStart="8dp" />
+</RelativeLayout>

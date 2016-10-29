@@ -1,0 +1,14 @@
+package org.spongycastle.asn1.ess;
+
+import org.spongycastle.asn1.ASN1Object;
+import org.spongycastle.asn1.ASN1OctetString;
+import org.spongycastle.asn1.ASN1Primitive;
+
+/* compiled from: Twttr */
+public class ContentIdentifier extends ASN1Object {
+    ASN1OctetString a;
+
+    public ASN1Primitive d() {
+        return this.a;
+    }
+}

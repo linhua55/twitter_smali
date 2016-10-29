@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:id="0x7f1303eb" twitter:paddingLeft="0x7f0f0218" twitter:paddingTop="0x7f0f020e" twitter:paddingRight="0x7f0f0218" twitter:paddingBottom="0x7f0f01fc" twitter:layout_width="-1" twitter:layout_height="-1">
+    <include layout="0x7f040152" />
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:id="0x7f1301bf" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f020d" twitter:layout_below="0x7f130054" twitter:aspect_ratio="0x7f0f0212">
+        <com.twitter.library.media.widget.TweetMediaView twitter:id="0x7f1303db" twitter:layout_width="-1" twitter:layout_height="-1" twitter:defaultDrawable="0x7f020aae" />
+    </com.twitter.media.ui.image.AspectRatioFrameLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0236" twitter:id="0x7f1303bb" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f020d" twitter:layout_below="0x7f1301bf" twitter:lineSpacingMultiplier="0x7f0f0227" style="0x7f0d01b1" />
+    <include twitter:layout_width="-1" twitter:layout_height="0x7f0f020c" twitter:layout_marginBottom="0x7f0f0238" twitter:layout_below="0x7f1303bb" layout="0x7f040151" />
+</RelativeLayout>

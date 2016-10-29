@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="@k/chat_container" android:layout_width="-1" android:layout_height="-1" android:layout_marginTop="24dp" android:layout_above="@k/composer_moderator_container">
+        <tv.periscope.android.ui.love.HeartContainerView android:id="@k/hearts_view" android:layout_width="0x7f0f03f5" android:layout_height="-1" android:layout_alignParentRight="true" android:layout_alignWithParentIfMissing="true" android:layout_alignParentEnd="true" style="0x7f0d001a" />
+        <tv.periscope.android.ui.chat.ChatMessageContainerView android:id="@k/chat_messages_view" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="0x7f0f03fe" android:layout_toLeftOf="@k/hearts_view" android:layout_alignWithParentIfMissing="true" android:layout_toStartOf="@k/hearts_view" />
+    </RelativeLayout>
+    <View android:id="@k/moderator_overlay" android:background="@h/ps__bg_moderator_overlay" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+    <ViewStub android:id="@k/composer_moderator_container" android:layout="@m/ps__composer_moderator_container" android:inflatedId="@k/composer_moderator_container" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true" />
+    <include android:id="@k/participants" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="3dp" android:layout_alignParentRight="true" android:layout_alignParentBottom="true" android:layout_alignParentEnd="true" layout="@m/ps__btn_participants" />
+</RelativeLayout>

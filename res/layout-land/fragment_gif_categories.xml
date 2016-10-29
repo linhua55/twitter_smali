@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+        <include layout="0x7f040110" />
+        <com.twitter.android.media.widget.GifCategoriesView twitter:id="0x7f130366" twitter:saveEnabled="false" twitter:layout_width="-1" twitter:layout_height="-1" twitter:gifCategoriesSpacing="4dp" twitter:gifCategoriesColumnCount="3" style="0x7f0d01e2" />
+    </LinearLayout>
+    <ProgressBar twitter:layout_gravity="11" twitter:id="0x7f130357" twitter:layout_width="-2" twitter:layout_height="-2" style="?unknown_attr_ref: 101007a" />
+    <include layout="0x7f040176" />
+</FrameLayout>

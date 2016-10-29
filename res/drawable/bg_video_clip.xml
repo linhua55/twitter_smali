@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:id="0x1020000" android:drawable="0x7f0208ee" />
+    <item android:drawable="0x7f0208f2" />
+    <item android:id="0x102000d">
+        <clip android:gravity="3" android:clipOrientation="1">
+            <nine-patch android:src="0x7f0208f1" android:dither="true" />
+        </clip>
+    </item>
+    <item android:drawable="0x7f0208f0" />
+    <item>
+        <bitmap android:gravity="11" android:src="0x7f0208ef" />
+    </item>
+</layer-list>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ProgressBar android:layout_gravity="11" android:id="0x7f130357" android:layout_width="-2" android:layout_height="-1" />
+    <com.twitter.moments.core.ui.widget.capsule.WidthMatchFirstChildFrameLayout android:layout_gravity="1" android:id="0x7f130132" android:background="0x7f02007e" android:duplicateParentState="true" android:layout_width="-2" android:layout_height="0x7f0f02bb" android:layout_marginTop="0x7f0f02e5" android:layout_marginBottom="0x7f0f02e5">
+        <com.twitter.ui.widget.TypefacesTextView android:ellipsize="0" android:layout_gravity="11" android:id="@k/text" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f02e4" android:layout_marginRight="0x7f0f02e4" android:singleLine="true" />
+        <com.twitter.moments.core.ui.widget.capsule.NotClippedTextView android:textSize="0x7f0f0047" android:textColor="0x7f1200d2" android:ellipsize="0" android:layout_gravity="10" android:id="0x7f13046a" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f02e4" android:layout_marginRight="0x7f0f02e4" android:singleLine="true" />
+    </com.twitter.moments.core.ui.widget.capsule.WidthMatchFirstChildFrameLayout>
+</merge>

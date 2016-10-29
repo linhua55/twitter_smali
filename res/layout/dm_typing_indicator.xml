@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:id="0x7f1302f0" android:visibility="2" android:descendantFocusability="2" android:layout_width="-1" android:layout_height="-2" style="0x7f0d0175">
+    <LinearLayout android:orientation="0" android:id="0x7f1302f1" android:layout_width="-2" android:layout_height="0x7f0f048a" android:layout_alignParentLeft="true" android:contentDescription="" />
+    <LinearLayout android:layout_gravity="30" android:orientation="0" android:id="0x7f1302e7" android:padding="0x7f0f0488" android:layout_width="-2" android:layout_height="0x7f0f0487" android:layout_marginTop="0x7f0f0489" android:layout_toRightOf="0x7f1302f1" android:contentDescription="" style="0x7f0d0167">
+        <ImageView android:id="0x7f1302f2" android:contentDescription="@mx/View_android_theme" style="0x7f0d03f2" />
+        <ImageView android:id="0x7f1302f3" android:contentDescription="@mx/View_android_theme" style="0x7f0d03f2" />
+        <ImageView android:id="0x7f1302f4" android:contentDescription="@mx/View_android_theme" style="0x7f0d03f2" />
+    </LinearLayout>
+</RelativeLayout>

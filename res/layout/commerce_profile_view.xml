@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <include android:id="0x7f1301d6" layout="0x7f04006d" />
+    <LinearLayout android:orientation="1" android:id="0x7f130235" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120009" android:gravity="11" android:id="0x7f13022e" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f012a" android:text="0x7f0a0470" android:lineSpacingExtra="0x7f0f0263" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f120140" android:gravity="11" android:id="0x7f13022f" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0145" android:text="0x7f0a0470" />
+        <ProgressBar android:layout_gravity="11" android:id="0x7f130215" android:layout_width="-2" android:layout_height="-2" style="?unknown_attr_ref: 101007a" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f130236" android:visibility="0" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f013c" android:layout_marginTop="0x7f0f013b" android:layout_marginRight="0x7f0f013c" android:layout_marginBottom="0x7f0f013b">
+            <ImageView android:layout_gravity="3" android:orientation="1" android:id="0x7f130237" android:paddingLeft="0x7f0f013c" android:focusable="false" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200e5" android:scaleType="6" android:contentDescription="@mx/View_android_theme" />
+            <TextView android:textSize="0x7f0f0135" android:textColor="0x7f1200fc" android:layout_gravity="53" android:id="0x7f130238" android:paddingLeft="0x7f0f013c" android:layout_width="-2" android:layout_height="-2" android:text="Card ending in 2008" android:singleLine="true" android:includeFontPadding="false" />
+        </LinearLayout>
+        <include android:id="0x7f130239" layout="0x7f04006d" />
+        <LinearLayout android:orientation="0" android:id="0x7f13023a" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f0157" android:layout_marginBottom="0x7f0f013b">
+            <ImageView android:layout_gravity="33" android:orientation="1" android:id="0x7f13023b" android:paddingLeft="0x7f0f013c" android:focusable="false" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f013c" android:src="0x7f020655" android:scaleType="6" android:contentDescription="@mx/View_android_theme" />
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <TextView android:textSize="0x7f0f0135" android:textColor="0x7f120009" android:gravity="3" android:layout_gravity="30" android:id="0x7f130225" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f012a" android:layout_marginRight="0x7f0f012a" android:text="sample text" android:includeFontPadding="false" />
+                <TextView android:textSize="0x7f0f0135" android:textColor="0x7f120009" android:gravity="3" android:layout_gravity="30" android:id="0x7f1301e0" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f012a" android:layout_marginRight="0x7f0f012a" android:layout_marginBottom="0x7f0f0155" android:text="0x7f0a010c" android:includeFontPadding="false" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:id="0x7f13023c" android:layout_width="-1" android:layout_height="-2">
+                <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f1200b8" android:gravity="3" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f012a" android:layout_marginTop="0x7f0f014f" android:layout_marginBottom="0x7f0f012a" android:text="0x7f0a01c3" android:includeFontPadding="false" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f13023d" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+                <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f1200b8" android:gravity="3" android:layout_width="-2" android:layout_height="-2" android:layout_margin="0x7f0f0130" android:text="0x7f0a01c2" android:includeFontPadding="false" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:id="0x7f13023e" android:visibility="0" android:layout_width="-1" android:layout_height="-1">
+        <include android:id="0x7f13023f" layout="0x7f04006d" />
+        <LinearLayout android:orientation="1" android:background="0x7f120006" android:visibility="0" android:layout_width="-1" android:layout_height="-1"
+            <LinearLayout android:orientation="1" android:id="0x7f130240" android:background="0x7f120000" android:visibility="0" android:layout_width="-1" android:layout_height="-2">
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120009" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f012a" android:text="0x7f0a01e3" android:lineSpacingExtra="0x7f0f0263" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f120140" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f0145" android:text="0x7f0a01e2" />
+            </LinearLayout>
+            <LinearLayout android:orientation="1" android:id="0x7f130241" android:background="0x7f120000" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f013c" android:layout_marginRight="0x7f0f013c" android:layout_marginBottom="0x7f0f013b" /> /> /> />

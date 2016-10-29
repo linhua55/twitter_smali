@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:id="0x7f13030a" twitter:background="0x7f120023" twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.ui.view.LockableViewPager twitter:id="0x7f13030b" twitter:layout_width="-1" twitter:layout_height="-1" />
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f13030c" twitter:layout_width="-1" twitter:layout_height="-1" />
+    <com.twitter.android.media.widget.FilterFilmstripView twitter:id="0x7f13030d" twitter:background="0x7f0204a9" twitter:paddingBottom="10dp" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_above="0x7f13030e" twitter:scrollPadding="5dp" twitter:filterNames="0x7f0b0020" twitter:filterIds="0x7f0b0021" twitter:filterIntensities="0x7f0b001f" twitter:filterLayoutId="0x7f0400f9" />
+    <LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:id="0x7f13030e" twitter:background="0x7f0209da" twitter:layout_width="-1" twitter:layout_height="0x7f0f01db" twitter:layout_alignParentBottom="true">
+        <ImageButton twitter:id="0x7f13030f" twitter:background="@mx/View_android_theme" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:src="0x7f0206ec" twitter:scaleType="3" twitter:layout_weight="1.0" twitter:contentDescription="0x7f0a00da" />
+        <ImageButton twitter:id="0x7f130310" twitter:background="@mx/View_android_theme" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:src="0x7f0206e2" twitter:scaleType="3" twitter:layout_weight="1.0" twitter:contentDescription="0x7f0a00da" />
+        <ImageButton twitter:id="0x7f130311" twitter:background="@mx/View_android_theme" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:src="0x7f0206e7" twitter:scaleType="3" twitter:layout_weight="1.0" twitter:contentDescription="0x7f0a00d5" />
+        <ImageButton twitter:id="0x7f130312" twitter:background="@mx/View_android_theme" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:src="0x7f0206f0" twitter:scaleType="3" twitter:layout_weight="1.0" twitter:contentDescription="0x7f0a00e6" />
+    </LinearLayout>
+    <LinearLayout twitter:gravity="10" twitter:id="0x7f130313" twitter:background="0x7f120060" twitter:visibility="2" twitter:clickable="true" twitter:layout_width="-1" twitter:layout_height="0x7f0f01da" twitter:layout_alignParentBottom="true"
+        <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:id="0x7f130314" twitter:clickable="true" twitter:layout_width="0dp" twitter:layout_height="-1" twitter:layout_marginLeft="20dp" twitter:layout_weight="1.0">
+            <ImageView twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0206e8" twitter:scaleType="3" twitter:contentDescription="@mx/View_android_theme" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f12015d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a00de" />
+        </LinearLayout>
+        <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:id="0x7f130315" twitter:clickable="true" twitter:layout_width="0dp" twitter:layout_height="-1" twitter:layout_weight="1.0">
+            <ImageView twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0206eb" twitter:scaleType="3" twitter:contentDescription="@mx/View_android_theme" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f12015d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a00ed" />
+        </LinearLayout>
+        <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:id="0x7f130316" twitter:clickable="true" twitter:layout_width="0dp" twitter:layout_height="-1" twitter:layout_weight="1.0">
+            <ImageView twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0206ea" twitter:scaleType="3" twitter:contentDescription="@mx/View_android_theme" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f12015d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a00e3" />
+        </LinearLayout>
+        <ImageButton twitter:layout_gravity="11" twitter:id="0x7f130317" twitter:background="@mx/View_android_theme" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_marginRight="20dp" twitter:src="0x7f0206e9" twitter:scaleType="3" twitter:layout_weight="1.0" twitter:contentDescription="0x7f0a00e0" />
+    </LinearLayout>
+    <FrameLayout twitter:id="0x7f130318" twitter:background="0x7f02006a" twitter:padding="5dp" twitter:layout_width="-1" twitter:layout_height="0x7f0f01cc">
+        <LinearLayout twitter:gravity="11" twitter:layout_gravity="13" twitter:id="0x7f130319" twitter:background="0x7f02004c" twitter:layout_width="-2" twitter:layout_height="-2">
+            <ImageView twitter:id="0x7f13031a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020640" twitter:contentDescription="0x7f0a00db" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00e8" twitter:textStyle="1" twitter:textColor="0x106000b" twitter:id="0x7f130143" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="2dp" twitter:text="0x7f0a00a4" />
+        </LinearLayout>
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00e8" twitter:textStyle="1" twitter:textColor="0x106000b" twitter:gravity="10" twitter:layout_gravity="5" twitter:id="0x7f130141" twitter:layout_width="-2" twitter:layout_height="-1" twitter:layout_marginRight="9dp" twitter:text="0x7f0a0305" twitter:textAllCaps="true" />
+    </FrameLayout>
+</RelativeLayout>

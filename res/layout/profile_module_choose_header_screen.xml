@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.profilecompletionmodule.chooseheader.ChooseHeaderScreen android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <ScrollView android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <RelativeLayout android:layout_width="-1" android:layout_height="-2">
+            <include android:id="@bcx/header" layout="0x7f040330" />
+            <include android:layout_gravity="11" android:id="0x7f1305d8" android:layout_width="-1" android:layout_height="0x7f0f03c6" android:layout_marginLeft="0x7f0f004d" android:layout_marginRight="0x7f0f004d" android:layout_below="@bcx/header" layout="0x7f040291" />
+        </RelativeLayout>
+    </ScrollView>
+    <include layout="0x7f0400d9" />
+</com.twitter.android.profilecompletionmodule.chooseheader.ChooseHeaderScreen>

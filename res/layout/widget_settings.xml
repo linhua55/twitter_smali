@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ListView android:scrollbarAlwaysDrawVerticalTrack="true" android:id="0x102000a" android:layout_width="-1" android:layout_height="0dp" android:drawSelectorOnTop="false" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="0" android:background="0x1080095" android:layout_width="-1" android:layout_height="54dp">
+        <View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+        <Button android:id="0x7f130141" android:focusable="true" android:layout_width="0dp" android:layout_height="-2" android:layout_marginTop="5dp" android:text="0x7f0a0305" android:layout_weight="2.0" />
+        <View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+    </LinearLayout>
+</LinearLayout>

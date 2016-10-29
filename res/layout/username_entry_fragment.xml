@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_marginLeft="0x7f0f005a" twitter:layout_marginRight="0x7f0f005a">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+        <include layout="0x7f040330" />
+        <com.twitter.ui.widget.TwitterEditText twitter:id="@k/username" twitter:layout_marginTop="0x7f0f0433" twitter:maxLength="0x7f10004e" twitter:drawableLeft="0x7f020726" twitter:drawableRight="0x7f020925" twitter:inputType="80001" twitter:imeOptions="5" twitter:labelText="0x7f0a07e1" style="0x7f0d03ed" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f1306cc" twitter:visibility="0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginBottom="0x7f0f0433" style="0x7f0d0279" />
+    </LinearLayout>
+</ScrollView>

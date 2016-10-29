@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<searchable android:label="0x7f0a06ed" android:hint="0x7f0a06eb" android:searchSuggestAuthority="com.twitter.android.provider.SuggestionsProvider" android:searchSuggestIntentAction="com.twitter.android.action.SEARCH" android:includeInGlobalSearch="true" android:searchSettingsDescription="0x7f0a06f8" />

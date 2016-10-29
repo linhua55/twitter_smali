@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true">
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d01ed">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f004a" twitter:id="0x7f13067c" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="0x7f13067d" twitter:layout_alignParentLeft="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:id="0x7f13067e" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="0x7f13067d" twitter:layout_below="0x7f13067c" twitter:layout_alignParentLeft="true" />
+        <ImageButton twitter:id="0x7f13067d" twitter:background="@mx/View_android_theme" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f02063d" twitter:layout_alignParentTop="true" twitter:layout_alignParentRight="true" twitter:contentDescription="0x7f0a06fe" />
+    </RelativeLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

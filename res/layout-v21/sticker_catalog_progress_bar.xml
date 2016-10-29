@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProgressBar android:layout_gravity="11" android:id="0x7f1301b2" android:layout_width="-2" android:layout_height="-2" android:indeterminateOnly="true" android:indeterminateTint="0x7f12015d" android:indeterminateTintMode="5" style="?unknown_attr_ref: 1010077" />

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout custom:id="@k/chat_row_container" custom:background="0x7f020a47" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="10dp" custom:layout_marginTop="6dp" custom:layout_marginRight="16dp">
+    <tv.periscope.android.view.PsTextView custom:textSize="12sp" custom:textColor="@h/ps__white" custom:id="@k/status_item" custom:paddingTop="8dp" custom:paddingBottom="8dp" custom:layout_width="-2" custom:layout_height="-2" custom:ps__font="fonts/MuseoSans-500.otf" />
+    <ImageView custom:id="@k/status_icon" custom:paddingRight="10dp" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a72" custom:layout_toRightOf="@k/status_item" custom:layout_centerVertical="true" />
+</RelativeLayout>

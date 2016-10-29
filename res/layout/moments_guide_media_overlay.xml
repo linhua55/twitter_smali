@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <View twitter:id="0x7f13049c" twitter:background="0x7f020085" twitter:layout_width="-1" twitter:layout_height="0x7f0f02cf" />
+    <LinearLayout twitter:layout_gravity="50" twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+        <include twitter:layout_gravity="50" twitter:layout_width="-1" twitter:layout_height="-2" layout="0x7f0401da" />
+        <ViewStub twitter:id="0x7f13047b" twitter:layout="0x7f0401d9" twitter:inflatedId="0x7f13047c" twitter:layout_width="-1" twitter:layout_height="-2" />
+    </LinearLayout>
+</FrameLayout>

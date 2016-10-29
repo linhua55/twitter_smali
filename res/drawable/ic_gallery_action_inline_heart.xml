@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item twitter:state_pressed="true" twitter:drawable="0x7f020995" twitter:state_toggled_on="true" />
+    <item twitter:drawable="0x7f020994" twitter:state_toggled_on="true" />
+    <item twitter:state_pressed="true" twitter:drawable="0x7f020992" />
+    <item twitter:drawable="0x7f020996" />
+</selector>

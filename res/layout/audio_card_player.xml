@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge twitter:layout_width="-1" twitter:layout_height="-2">
+    <FrameLayout twitter:id="0x7f130162" twitter:layout_width="-1" twitter:layout_height="-1">
+        <com.twitter.media.ui.image.RichImageView twitter:id="0x7f130163" twitter:background="0x7f020061" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleType="3" twitter:contentDescription="0x7f0a0089" twitter:fixedSize="false" twitter:cornerRadiusTopLeft="0x7f0f0179" twitter:cornerRadiusTopRight="0x7f0f0179" />
+    </FrameLayout>
+    <RelativeLayout twitter:id="0x7f130164" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_above="0x7f130165">
+        <LinearLayout twitter:orientation="0" twitter:id="0x7f130166" twitter:clipChildren="false" twitter:layout_width="-1" twitter:layout_height="-2">
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:gravity="11" twitter:id="@bcx/time_current" twitter:paddingLeft="0x7f0f035b" twitter:paddingRight="0x7f0f035b" twitter:layout_width="-2" twitter:layout_height="-1" twitter:layout_marginRight="0x7f0f00c5" twitter:minWidth="0x7f0f00e9" twitter:text="0x7f0a04e6" />
+            <SeekBar twitter:id="@bcx/mediacontroller_progress" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="1.0" style="0x7f0d00ce" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:gravity="11" twitter:id="@k/time" twitter:paddingLeft="0x7f0f035b" twitter:paddingRight="0x7f0f035b" twitter:layout_width="-2" twitter:layout_height="-1" twitter:layout_marginLeft="0x7f0f00c5" twitter:minWidth="0x7f0f00e9" twitter:text="0x7f0a04e6" />
+        </LinearLayout>
+        <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f00c6" twitter:layout_marginBottom="0x7f0f00c6" twitter:layout_below="0x7f130166">
+            <ImageView twitter:id="@bcx/pause" twitter:padding="0x7f0f042d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0209ce" twitter:layout_alignParentLeft="true" twitter:layout_alignParentTop="true" twitter:layout_centerVertical="true" twitter:contentDescription="0x7f0a0611" />
+            <ProgressBar twitter:id="0x7f13016b" twitter:padding="0x7f0f00c4" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:indeterminate="true" twitter:layout_alignLeft="@bcx/pause" twitter:layout_alignTop="@bcx/pause" twitter:layout_alignRight="@bcx/pause" twitter:layout_alignBottom="@bcx/pause" />
+            <ImageView twitter:id="0x7f13016c" twitter:padding="0x7f0f042d" twitter:layout_width="0x7f0f00e9" twitter:layout_height="0x7f0f00e9" twitter:scaleType="7" twitter:layout_alignBottom="@bcx/pause" twitter:layout_alignParentRight="true" twitter:layout_centerVertical="true" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00c3" twitter:ellipsize="3" twitter:id="0x7f13016d" twitter:layout_width="-1" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_toLeftOf="0x7f13016c" twitter:layout_toRightOf="@bcx/pause" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00ea" twitter:id="0x7f13016e" twitter:paddingBottom="0x7f0f0433" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_toLeftOf="0x7f13016c" twitter:layout_below="0x7f13016d" twitter:layout_alignLeft="0x7f13016d" />
+        </RelativeLayout>
+    </RelativeLayout>
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f13016f" twitter:layout_width="-1" twitter:layout_height="-2">
+        <View twitter:background="0x7f120085" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" />
+        <com.twitter.android.av.audio.ExternalActionButtonImpl twitter:id="0x7f130165" twitter:background="0x7f0200d6" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="0x7f0f00e9" twitter:actionTextSize="0x7f0f00c3" />
+    </LinearLayout>
+</merge>

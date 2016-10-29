@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.library.widget.TweetView twitter:id="0x7f130599" twitter:layout_width="-1" twitter:layout_height="-2" twitter:autoLink="false" style="0x7f0d03ae" />
+</merge>

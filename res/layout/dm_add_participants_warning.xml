@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingLeft="0x7f0f0419" android:paddingTop="0x7f0f0419" android:paddingRight="0x7f0f0419" android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f041b" android:textColor="0x7f120140" android:gravity="11" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a07c1" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0417" android:textColor="0x7f120140" android:gravity="11" android:paddingTop="10dp" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a07be" />
+</LinearLayout>

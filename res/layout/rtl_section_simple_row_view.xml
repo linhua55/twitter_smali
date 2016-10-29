@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="0x7f0d01ed">
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13027b" android:layout_alignParentLeft="true" style="0x7f0d02c6" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="@k/title" android:layout_toRightOf="0x7f13027b" android:layout_alignParentRight="true" style="0x7f0d02c8" />
+</RelativeLayout>

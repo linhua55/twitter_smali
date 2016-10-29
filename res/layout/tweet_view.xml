@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.library.view.SocialProofView twitter:id="@bcx/tweet_social_proof" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d02d6" />
+    <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/tweet_profile_image" twitter:paddingTop="1dp" twitter:paddingBottom="1dp" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d0011" />
+    <com.twitter.ui.widget.TweetHeaderView twitter:id="@bcx/tweet_header" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="1dp" twitter:layout_marginBottom="2dp" style="0x7f0d0396" />
+    <com.twitter.ui.widget.TextLayoutView twitter:id="@bcx/tweet_reply_context" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d02b3" />
+    <com.twitter.library.widget.TextContentView twitter:id="@bcx/tweet_content_text" twitter:layout_width="-1" twitter:layout_height="-2" twitter:contentColor="?unknown_attr_ref: 7f010097" twitter:linkColor="0x7f1200b8" />
+    <include twitter:id="@bcx/tweet_user_forward" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f048d" layout="0x7f04039c" />
+    <include twitter:layout_gravity="800005" twitter:id="@bcx/tweet_inline_actions" twitter:layout_width="-1" twitter:layout_height="-2" layout="0x7f04018b" />
+    <com.twitter.library.view.QuoteView twitter:id="@bcx/tweet_quote" twitter:background="0x7f020a77" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="7dp" style="0x7f0d02b1" />
+    <com.twitter.ui.widget.TextLayoutView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120063" twitter:id="@bcx/tweet_attribution" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" />
+    <com.twitter.ui.widget.TextLayoutView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120064" twitter:id="@bcx/tweet_media_tags" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="8dp" twitter:layout_marginBottom="3dp" />
+    <View twitter:layout_gravity="800005" twitter:id="@bcx/tweet_curation_action" twitter:background="0x7f020aa0" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0463" twitter:layout_marginTop="0x7f0f0463" twitter:layout_marginRight="0x7f0f0463" twitter:layout_marginBottom="0x7f0f0463" />
+    <com.twitter.library.view.TweetPivotView twitter:id="@bcx/tweet_pivot" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d039c" />
+    <ViewStub twitter:id="@bcx/tweet_action_prompt_stub" twitter:layout="0x7f040382" twitter:layout_width="-1" twitter:layout_height="-2" />
+    <com.twitter.ui.widget.BadgeView twitter:id="@bcx/tweet_promoted_badge" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d00ea" />
+</merge>

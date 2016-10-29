@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item twitter:state_highlighted="true">
+        <shape twitter:shape="0">
+            <stroke twitter:width="0x7f0f0466" twitter:color="0x7f120001" />
+            <solid twitter:color="0x7f12000c" />
+        </shape>
+    </item>
+    <item twitter:state_pressed="true">
+        <shape twitter:shape="0">
+            <stroke twitter:width="0x7f0f0466" twitter:color="0x7f120001" />
+            <solid twitter:color="0x7f120005" />
+        </shape>
+    </item>
+    <item twitter:state_activated="true">
+        <shape twitter:shape="0">
+            <stroke twitter:width="0x7f0f0466" twitter:color="0x7f120001" />
+            <solid twitter:color="0x7f120005" />
+        </shape>
+    </item>
+    <item twitter:state_focused="true">
+        <shape twitter:shape="0">
+            <stroke twitter:width="0x7f0f0466" twitter:color="0x7f120001" />
+            <solid twitter:color="0x7f120002" />
+        </shape>
+    </item>
+    <item twitter:state_selected="true">
+        <shape twitter:shape="0">
+            <stroke twitter:width="0x7f0f0466" twitter:color="0x7f120001" />
+            <solid twitter:color="0x7f120002" />
+        </shape>
+    </item>
+    <item>
+        <shape twitter:shape="0">
+            <stroke twitter:width="0x7f0f0466" twitter:color="0x7f120001" />
+            <solid twitter:color="0x7f120000" />
+        </shape>
+    </item>
+</selector>

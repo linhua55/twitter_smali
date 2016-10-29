@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-2" twitter:layout_height="-2">
+    <RadioGroup twitter:orientation="1" twitter:id="0x7f1306bb" twitter:layout_width="-1" twitter:layout_height="-2">
+        <RadioButton twitter:id="0x7f1306bc" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="TwitterAccess Off" />
+        <RadioButton twitter:id="0x7f1306bd" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="TwitterAccess On" />
+        <com.twitter.ui.widget.TwitterEditText twitter:enabled="false" twitter:id="0x7f1306be" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_marginLeft="40dp" twitter:inputType="1" twitter:labelText="Test on carrier:" style="0x7f0d03e5" />
+        <com.twitter.ui.widget.TwitterEditText twitter:enabled="false" twitter:id="0x7f1306bf" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_marginLeft="40dp" twitter:inputType="2" twitter:labelText="Interval:" style="0x7f0d03e5" />
+    </RadioGroup>
+    <LinearLayout twitter:gravity="1" twitter:orientation="1" twitter:id="0x7f13033e" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1">
+        <com.twitter.ui.widget.TypefacesTextView twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="Validating..." />
+        <ProgressBar twitter:layout_width="-2" twitter:layout_height="-2" twitter:indeterminate="true" style="@*style/Widget.ProgressBar.Small" />
+    </LinearLayout>
+</FrameLayout>

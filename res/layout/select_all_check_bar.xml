@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="14dp" android:paddingBottom="10dp" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f1200c9" android:id="0x7f130672" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f004d" android:layout_alignParentLeft="true" />
+    <CheckBox android:id="0x7f130670" android:paddingRight="0x7f0f004d" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="-5dp" android:layout_marginRight="-5dp" android:checked="false" android:layout_alignParentRight="true" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f1200c9" android:id="0x7f130671" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a070b" android:layout_toLeftOf="0x7f130670" />
+</RelativeLayout>

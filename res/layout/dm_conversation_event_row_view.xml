@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="1" android:layout_width="-1" android:layout_height="-2" style="0x7f0d0175">
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f120140" android:ellipsize="3" android:gravity="11" android:id="@k/text" android:layout_width="-2" android:layout_height="-2" android:lineSpacingExtra="0x7f0f0263" />
+</LinearLayout>

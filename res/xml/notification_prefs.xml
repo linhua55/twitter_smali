@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <CheckBoxPreference android:title="0x7f0a07ad" android:key="vibrate" android:summary="0x7f0a07ac" />
+    <RingtonePreference android:title="0x7f0a079c" android:key="ringtone" android:summary="0x7f0a079b" android:ringtoneType="2" android:showDefault="true" android:showSilent="true" />
+    <CheckBoxPreference android:title="0x7f0a07a9" android:key="use_led" android:summary="0x7f0a07a8" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a0770" android:key="notif_timeline" android:defaultValue="false" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a0764" android:key="notif_mentions" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a076d" android:key="notif_retweets" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a0762" android:key="notif_favorites" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a075c" android:key="notif_follows" android:defaultValue="true" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a075a" android:key="notif_direct_messages" android:defaultValue="true" />
+</PreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-2"
+    <LinearLayout twitter:orientation="1" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="0x7f100036">
+        <include twitter:id="0x7f1304b4" twitter:layout_width="-1" twitter:layout_height="-2" layout="0x7f0401e0" />
+        <include twitter:id="0x7f1304b5" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02e4" layout="0x7f0401e0" />
+    </LinearLayout>
+    <View twitter:id="0x7f1304b6" twitter:layout_width="0x7f0f0001" twitter:layout_height="-1" twitter:layout_marginRight="0x7f0f02e4" />
+    <TextSwitcher twitter:gravity="800005" twitter:id="0x7f1304b7" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:inAnimation="0x10a0000" twitter:outAnimation="0x10a0001" twitter:layout_weight="0x7f100037" />
+</LinearLayout>

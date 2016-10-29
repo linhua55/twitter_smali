@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:gravity="50" android:layout_gravity="50" android:orientation="1" android:id="@bcx/av_media_controller_controls" android:background="0x7f120060" android:paddingRight="2dp" android:visibility="1" android:layout_width="-1" android:layout_height="-2">
+        <ImageButton android:layout_gravity="3" android:id="@bcx/pause" android:background="@mx/View_android_theme" android:paddingTop="4dp" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0209bc" android:layout_alignParentLeft="true" android:contentDescription="0x7f0a0611" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="13sp" android:textColor="0x7f12015d" android:id="@bcx/countdown" android:paddingRight="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_toRightOf="@bcx/pause" android:layout_centerVertical="true" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="13sp" android:textColor="0x7f12015d" android:id="@bcx/time_current" android:paddingRight="4dp" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="@bcx/pause" android:layout_centerVertical="true" />
+        <ImageButton android:id="@bcx/fullscreen" android:background="@mx/View_android_theme" android:paddingLeft="-4dp" android:paddingTop="4dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0209b6" android:layout_alignParentRight="true" android:contentDescription="0x7f0a009f" />
+        <LinearLayout android:gravity="10" android:id="@bcx/skip" android:paddingRight="6dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="@bcx/fullscreen" android:layout_alignTop="@bcx/pause" android:layout_alignBottom="@bcx/pause" android:layout_alignWithParentIfMissing="true">
+            <include layout="0x7f040043" />
+        </LinearLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="13sp" android:textColor="0x7f12015d" android:id="@k/time" android:paddingLeft="4dp" android:paddingRight="10dp" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="@bcx/skip" android:layout_centerVertical="true" android:layout_alignWithParentIfMissing="true" />
+        <com.twitter.library.av.control.SeekBarContainer android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="@k/time" android:layout_toRightOf="@bcx/time_current" android:layout_centerVertical="true">
+            <SeekBar android:id="@bcx/mediacontroller_progress" android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="-1" android:layout_height="32dp" style="0x7f0d00ce" />
+        </com.twitter.library.av.control.SeekBarContainer>
+    </RelativeLayout>
+</FrameLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_gravity="10" twitter:orientation="1" twitter:layout_width="-2" twitter:layout_height="-1">
+    <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130419" twitter:layout_marginRight="0x7f0f026c" twitter:text="0x7f0a01f7" twitter:nodpiBaseIconName="ic_search" style="0x7f0d01d7" />
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.SportsEventView twitter:id="0x7f130134" style="0x7f0d0187">
+    <LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:id="0x7f13034f" twitter:background="0x7f12015d" twitter:layout_width="-1" twitter:layout_height="54dp" twitter:layout_alignParentTop="true">
+        <com.twitter.android.widget.SportsTeamRowView twitter:id="0x7f130136" twitter:paddingLeft="0x7f0f004d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:customRowLayout="0x7f040346" twitter:abbreviatedTeamNames="true" />
+        <com.twitter.android.widget.SportsTeamRowView twitter:gravity="1" twitter:id="0x7f130137" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="1.0" twitter:customRowLayout="0x7f040346" twitter:abbreviatedTeamNames="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130139" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d018d" />
+    </LinearLayout>
+    <View twitter:background="0x7f020097" twitter:layout_width="-1" twitter:layout_height="8dp" twitter:layout_below="0x7f13034f" />
+</com.twitter.android.widget.SportsEventView>

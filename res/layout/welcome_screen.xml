@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView app:layout_width="-1" app:layout_height="-1" app:fillViewport="true">
+    <LinearLayout app:gravity="1" app:orientation="1" app:background="0x7f0204b0" app:fitsSystemWindows="true" app:layout_width="-1" app:layout_height="-2">
+        <ImageView app:layout_gravity="1" app:background="0x106000d" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0x7f0f0025" app:src="0x7f020aa6" app:contentDescription="@mx/View_android_theme" />
+        <View app:visibility="1" app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0" />
+        <com.twitter.ui.widget.TypefacesTextView app:layout_width="-1" app:layout_marginTop="0x7f0f0030" app:layout_marginBottom="0x7f0f0027" app:text="0x7f0a0963" style="0x7f0d027d" />
+        <com.twitter.ui.widget.TypefacesTextView app:layout_width="-1" app:layout_marginBottom="0x7f0f0023" app:text="0x7f0a0962" style="0x7f0d027d" />
+        <LinearLayout app:orientation="0" app:id="@k/buttons_container" app:layout_width="-1" app:layout_height="-2">
+            <View app:layout_width="0dp" app:layout_height="0dp" app:layout_weight="1.0" />
+            <LinearLayout app:gravity="1" app:layout_gravity="1" app:orientation="1" app:layout_width="0dp" app:layout_height="-2" app:layout_weight="4.0">
+                <com.twitter.ui.widget.TwitterButton app:id="0x7f1306f9" app:layout_width="-1" app:layout_height="-2" app:layout_marginBottom="0x7f0f0026" app:text="0x7f0a07db" style="0x7f0d0278" />
+                <com.twitter.ui.widget.TwitterButton app:gravity="1" app:id="0x7f1306fa" app:layout_width="-2" app:layout_height="-2" app:layout_marginBottom="0x7f0f0024" app:text="0x7f0a0486" app:labelColor="0x7f12015d" app:labelPressedColor="0x7f12005a" style="0x7f0d03bf" />
+            </LinearLayout>
+            <View app:layout_width="0dp" app:layout_height="0dp" app:layout_weight="1.0" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

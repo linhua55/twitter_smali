@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserForwardView android:paddingTop="0x7f0f004e" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:divider="0x7f0209e2">
+    <com.twitter.ui.widget.TextLayoutView android:textColor="0x7f1200fc" android:id="@bcx/name_item" android:layout_width="-1" android:layout_height="-2" />
+    <com.twitter.ui.widget.BadgeView android:id="@bcx/promoted" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f03de" style="0x7f0d00ea" />
+    <com.twitter.library.widget.ActionButton android:id="@bcx/action_button" android:background="0x7f0200ba" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0dp" android:layout_marginRight="0dp" android:src="0x7f0200b9" style="0x7f0d0001" />
+</com.twitter.library.widget.UserForwardView>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item>
+        <shape android:shape="0">
+            <solid android:color="0x7f120041" />
+            <size android:height="0x7f0f00cf" android:width="0x7f0f00cf" />
+        </shape>
+    </item>
+    <item android:left="0x7f0f00ce" android:top="0x7f0f00ce" android:right="0x7f0f00ce" android:bottom="0x7f0f00ce">
+        <shape android:shape="1">
+            <solid android:color="0x7f1200ec" />
+        </shape>
+    </item>
+    <item android:left="0x7f0f00cd" android:top="0x7f0f00cd" android:right="0x7f0f00cd" android:bottom="0x7f0f00cd">
+        <shape android:shape="1">
+            <solid android:color="0x7f12015d" />
+        </shape>
+    </item>
+</layer-list>

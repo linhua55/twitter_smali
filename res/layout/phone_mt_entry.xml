@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:layout_width="-1" twitter:layout_height="-1">
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2">
+        <LinearLayout twitter:orientation="1" twitter:id="0x7f130588" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d02c5">
+            <com.twitter.ui.widget.TypefacesTextView twitter:text="0x7f0a05d1" style="0x7f0d01db" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d" twitter:text="0x7f0a05ce" style="0x7f0d000e" />
+            <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d">
+                <com.twitter.ui.widget.TwitterEditText twitter:id="0x7f130589" twitter:hint="0x7f0a05d3" twitter:drawableLeft="0x7f020a1a" twitter:inputType="3" twitter:labelText="0x7f0a05d2" style="0x7f0d03ee" />
+                <com.twitter.ui.widget.TwitterSelection twitter:id="0x7f130587" twitter:layout_width="0x7f0f0336" twitter:layout_height="-2" twitter:layout_alignBaseline="0x7f130589" twitter:dialogTheme="0x7f0d0152">
+                    <com.twitter.ui.widget.TwitterEditText twitter:gravity="3" twitter:duplicateParentState="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:drawableRight="0x7f020727" style="0x7f0d03e5" />
+                </com.twitter.ui.widget.TwitterSelection>
+            </RelativeLayout>
+        </LinearLayout>
+        <View twitter:id="0x7f1301c3" twitter:layout_marginBottom="5dp" twitter:layout_below="0x7f130588" style="0x7f0d01c7" />
+        <Button twitter:enabled="false" twitter:id="0x7f13058a" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d" twitter:text="0x7f0a0208" twitter:layout_below="0x7f1301c3" style="0x7f0d012f" />
+    </RelativeLayout>
+</ScrollView>

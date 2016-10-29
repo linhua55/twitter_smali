@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_marginBottom="0x7f0f01f7" twitter:layout_weight="1.0">
+        <com.twitter.library.widget.ObservableScrollView twitter:id="0x7f1303d6" twitter:layout_width="-1" twitter:layout_height="-1" twitter:fillViewport="true" style="0x7f0d02b5">
+            <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+                <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="0x7f0f020a">
+                    <com.twitter.library.media.widget.TweetMediaView twitter:id="0x7f1303db" twitter:layout_width="-1" twitter:layout_height="-2" twitter:defaultDrawable="0x7f020aae" twitter:cardBadgeSpacing="0x7f0f0218" />
+                </com.twitter.media.ui.image.AspectRatioFrameLayout>
+                <include layout="0x7f04013e" />
+            </LinearLayout>
+        </com.twitter.library.widget.ObservableScrollView>
+        <include layout="0x7f04013b" />
+    </RelativeLayout>
+</merge>

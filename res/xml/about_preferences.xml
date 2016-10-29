@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a084e">
+        <Preference android:title="0x7f0a084f" android:key="support_link" />
+        <com.twitter.android.settings.ReportProblemDialogPreference android:title="0x7f0a069a" android:key="report_problem" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0a042a">
+        <Preference android:title="0x7f0a042a" android:key="legal" />
+        <Preference android:title="0x7f0a04aa" android:key="tos" />
+        <Preference android:title="0x7f0a0636" android:key="pp" />
+        <Preference android:title="0x7f0a0218" android:key="cu" />
+    </PreferenceCategory>
+</PreferenceScreen>

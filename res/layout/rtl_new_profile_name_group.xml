@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="8dp" android:minHeight="0x7f0f0490">
+    <ImageView android:layout_gravity="10" android:id="@bcx/protected_item" android:layout_width="-2" android:layout_height="-2" android:contentDescription="0x7f0a03f8" style="0x7f0d0298" />
+    <ImageView android:layout_gravity="10" android:id="@bcx/verified_item" android:layout_width="-2" android:layout_height="-2" android:contentDescription="0x7f0a03f9" style="0x7f0d029a" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/name_item" android:layout_width="-2" android:layout_height="-2" style="0x7f0d0296" />
+</LinearLayout>

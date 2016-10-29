@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-2" android:layout_height="-2">
+    <RadioGroup android:orientation="1" android:id="0x7f1306c0" android:layout_width="-1" android:layout_height="-1">
+        <RadioButton android:id="0x7f1306c1" android:layout_width="-2" android:layout_height="-2" android:text="Disable Force Campaign" />
+        <RadioButton android:id="0x7f1306c2" android:layout_width="-2" android:layout_height="-2" android:text="Enable Force Campaign" />
+        <com.twitter.ui.widget.TypefacesTextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:text="Campaign ID" />
+        <EditText android:enabled="false" android:id="0x7f1306c3" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:hint="89" android:inputType="2003" />
+        <com.twitter.ui.widget.TypefacesTextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:text="Cookie" />
+        <EditText android:id="0x7f1306c4" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="40dp" android:hint="experiment_key=bucket_name" />
+        <CheckBox android:id="0x7f1306c5" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:text="Sticky (client only)" />
+        <TextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:text="Ensure you're on Dodo or VPN" />
+    </RadioGroup>
+</FrameLayout>

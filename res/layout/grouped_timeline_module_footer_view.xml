@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView android:background="0x7f0209e7" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:id="@k/text" android:layout_width="-1" android:layout_height="-2" style="0x7f0d021d" />
+</com.twitter.internal.android.widget.GroupedRowView>

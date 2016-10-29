@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WebView android:layout_gravity="1" android:id="@bcx/webview" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="5dp" android:layout_width="-2" android:layout_height="-2" />

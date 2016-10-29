@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.profilecompletionmodule.chooselocation.ChooseLocationScreen twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <ScrollView twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+        <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+            <include twitter:id="@bcx/header" layout="0x7f040330" />
+            <FrameLayout twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d">
+                <com.twitter.internal.android.widget.PopupEditText twitter:id="0x7f130322" twitter:layout_marginBottom="0x7f0f0264" twitter:maxLength="0x7f10003c" twitter:inputType="82001" twitter:imeOptions="10000000" twitter:threshold="0" twitter:labelText="0x7f0a033d" style="0x7f0d03e4" />
+            </FrameLayout>
+        </LinearLayout>
+    </ScrollView>
+    <include layout="0x7f0400d9" />
+</com.twitter.android.profilecompletionmodule.chooselocation.ChooseLocationScreen>

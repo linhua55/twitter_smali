@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <include layout="0x7f0400aa" />
+    <LinearLayout android:gravity="10" android:orientation="0" android:paddingLeft="0x7f0f0433" android:paddingRight="0x7f0f0433" android:clickable="false" android:layout_width="-1" android:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1306e3" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0953" style="0x7f0d0198" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1306e4" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0955" style="0x7f0d0198" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1306e5" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0957" style="0x7f0d0198" />
+        <android.support.v4.widget.Space android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+        <ImageView android:id="0x7f1306e6" android:background="?unknown_attr_ref: 7f01013a" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0207ce" android:adjustViewBounds="true" android:tint="0x7f120140" android:contentDescription="0x7f0a071d" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <FrameLayout android:id="0x7f130133" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="1" android:id="0x7f130362" android:layout_width="-1" android:layout_height="-2">
+        <View android:layout_width="-1" android:layout_height="1dp" style="0x7f0d01c7" />
+        <RelativeLayout android:padding="10dp" android:layout_width="-1" android:layout_height="-2">
+            <com.twitter.ui.widget.TwitterButton android:id="@bcx/skip" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0561" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:layout_alignParentStart="true" style="0x7f0d027c" />
+            <com.twitter.ui.widget.TwitterButton android:id="0x7f130189" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0553" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_alignParentEnd="true" style="0x7f0d03c7" />
+        </RelativeLayout>
+    </LinearLayout>
+    <include layout="0x7f040169" />
+</LinearLayout>

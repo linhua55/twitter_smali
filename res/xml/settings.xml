@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="@account" android:key="category_account" android:order="10">
+        <Preference android:title="0x7f0a071b" android:key="pref_account" android:order="10" />
+        <Preference android:title="0x7f0a0777" android:key="pref_notifications" android:order="20" />
+        <Preference android:title="0x7f0a0794" android:key="pref_privacy_and_content" android:order="30" />
+        <Preference android:title="0x7f0a0781" android:key="pref_orders_and_payments" android:order="40" />
+        <Preference android:title="0x7f0a079e" android:key="pref_sign_out" android:order="50" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0a0727" android:key="category_general" android:order="20">
+        <Preference android:title="0x7f0a073b" android:key="pref_display_and_sound" android:order="10" />
+        <Preference android:title="0x7f0a0731" android:key="pref_data" android:order="15" />
+        <Preference android:title="0x7f0a0751" android:key="pref_location_and_proxy" android:order="20" />
+        <Preference android:key="pref_about" android:summary="0x7f0a0035" android:order="30" />
+    </PreferenceCategory>
+</PreferenceScreen>

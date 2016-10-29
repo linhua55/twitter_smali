@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <ScrollView android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+                <Spinner android:id="0x7f13063c" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" />
+                <Button android:id="0x7f13063d" android:layout_width="-1" android:layout_height="-2" android:text="Issue push check in" />
+                <RadioGroup android:id="0x7f13063e" android:layout_width="-1" android:layout_height="-2">
+                    <RadioButton android:id="0x7f130127" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Favorited Tweet" />
+                    <RadioButton android:id="0x7f130126" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Retweet" />
+                    <RadioButton android:id="0x7f13063f" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Follow" />
+                    <RadioButton android:id="0x7f130640" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Follow request" />
+                    <RadioButton android:id="0x7f130641" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Favorite Person Tweets" />
+                    <RadioButton android:id="0x7f130642" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Event Parrot" />
+                    <RadioButton android:id="0x7f130643" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="World Cup" />
+                    <RadioButton android:id="0x7f130644" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="MagicRecs User" />
+                    <RadioButton android:id="0x7f130645" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="MagicRecs Tweet" />
+                    <RadioButton android:id="0x7f130646" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="MagicRecs Hashtag" />
+                    <RadioButton android:id="0x7f130647" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="MagicRecs Experiment: Follow" />
+                    <RadioButton android:id="0x7f130648" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="MagicRecs Experiment: Tweet" />
+                    <RadioButton android:id="0x7f130649" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="MagicRecs Experiment: WTDF" />
+                    <RadioButton android:id="0x7f13064a" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Highlights" />
+                    <RadioButton android:id="0x7f1303ca" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Highlights w/ opt-out" />
+                    <RadioButton android:id="0x7f13064b" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Highlights as MagicRec" />
+                    <RadioButton android:id="0x7f13064c" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Highlights as Rich MagicRec" />
+                    <RadioButton android:id="0x7f13064d" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="0x7f0a0529" />
+                    <RadioButton android:id="0x7f13064e" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="News" />
+                    <RadioButton android:id="0x7f13027a" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f0264" android:text="Poll" />
+                </RadioGroup>
+                <Button android:id="0x7f13064f" android:layout_width="-1" android:layout_height="-2" android:text="Send logged in push" />
+            </LinearLayout>
+        </ScrollView>
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

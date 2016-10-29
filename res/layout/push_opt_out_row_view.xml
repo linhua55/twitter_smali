@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:cardStyle="0" style="0x7f0d01a7">
+    <LinearLayout twitter:orientation="0" twitter:background="0x7f0209e7" twitter:layout_width="-1" twitter:layout_height="-2">
+        <ImageView twitter:paddingLeft="10dp" twitter:paddingRight="10dp" twitter:layout_width="-2" twitter:layout_height="-1" twitter:src="0x7f020959" twitter:contentDescription="0x7f0a03ff" />
+        <com.twitter.android.widget.TextSwitcherView twitter:id="0x7f130650" twitter:layout_width="-1" twitter:layout_height="-2">
+            <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130651" style="0x7f0d01b0" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130652" style="0x7f0d01b0" />
+        </com.twitter.android.widget.TextSwitcherView>
+    </LinearLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

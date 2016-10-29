@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <com.twitter.android.widget.UrlLinkableCheckboxPreference twitter:persistent="false" twitter:checked="false" twitter:title="0x7f0a066d" twitter:key="ranked_timeline_setting" twitter:summary="0x7f0a066c" twitter:defaultValue="false" twitter:clickableUrl="0x7f0a0a47" />
+</PreferenceScreen>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item twitter:state_enabled="false" twitter:color="0x7f120006" />
+    <item twitter:color="0x7f1200cd" twitter:state_fault="true" />
+    <item twitter:color="0x7f1200cd" twitter:state_error="true" />
+    <item twitter:state_focused="true" twitter:color="0x7f120159" />
+    <item twitter:state_pressed="true" twitter:color="0x7f120159" />
+    <item twitter:color="0x7f120001" />
+</selector>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <CheckBox android:id="@bcx/user_checkbox" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0113" android:layout_alignParentLeft="true" android:layout_centerVertical="false" />
+</merge>

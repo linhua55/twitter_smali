@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13013b" android:layout_width="-1" android:layout_height="-2" android:drawableRight="0x7f020856" style="0x7f0d00d8" />
+    <com.twitter.android.people.ui.AddressBookPromptView android:id="0x7f13013c" android:layout_width="-1" android:layout_height="-2" />
+</FrameLayout>

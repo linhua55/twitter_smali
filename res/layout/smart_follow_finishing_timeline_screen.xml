@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.smartfollow.finishingtimeline.FinishingTimelineScreen android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="0x7f0f005a" android:layout_marginRight="0x7f0f005a">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="50dp">
+        <com.twitter.ui.widget.TwitterIndeterminateProgressSpinner android:id="0x7f130687" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" style="0x7f0d03ec" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textColor="0x7f120009" android:gravity="1" android:id="0x7f130688" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f004d" android:layout_marginTop="12dp" android:layout_marginRight="0x7f0f004d" android:layout_below="0x7f130687" />
+    </RelativeLayout>
+</com.twitter.android.smartfollow.finishingtimeline.FinishingTimelineScreen>

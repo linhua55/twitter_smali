@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f130156" android:paddingTop="20dp" android:paddingBottom="20dp" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:id="0x7f130157" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" android:contentDescription="0x7f0a006b" />
+        <ImageView android:id="0x7f130158" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" android:contentDescription="0x7f0a006c" />
+        <ImageView android:id="0x7f130159" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" android:contentDescription="0x7f0a006d" />
+        <ImageView android:id="0x7f13015a" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" android:contentDescription="0x7f0a006e" />
+        <ImageView android:id="0x7f13015b" android:layout_width="-2" android:layout_height="-2" android:src="0x7f0200c4" android:contentDescription="0x7f0a006f" />
+    </LinearLayout>
+    <LinearLayout android:orientation="1" android:padding="10dp" android:layout_width="-1" android:layout_height="-2" android:minHeight="100dp">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="16sp" android:textStyle="1" android:textColor="0x7f1200fc" android:gravity="11" android:id="0x7f13015c" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a007a" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="12sp" android:textColor="0x7f1200fc" android:gravity="11" android:id="0x7f13015d" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a0077" />
+    </LinearLayout>
+    <View android:background="0x7f120001" android:layout_width="-1" android:layout_height="1px" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:minHeight="10dp">
+        <Button android:id="0x7f13015e" android:text="0x7f0a0076" style="0x7f0d02b2" />
+        <View android:background="0x7f120001" android:layout_width="1px" android:layout_height="-1" />
+        <Button android:id="0x7f13015f" android:text="0x7f0a0075" style="0x7f0d02b2" />
+        <Button android:id="0x7f130160" android:visibility="2" android:text="0x7f0a0073" style="0x7f0d02b2" />
+        <Button android:id="0x7f130161" android:visibility="2" android:text="0x7f0a0074" style="0x7f0d02b2" />
+    </LinearLayout>
+</LinearLayout>

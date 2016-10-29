@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:background="0x7f120159" style="0x7f0d01f8">
+    <ImageView android:id="0x7f1305b7" android:src="0x7f020741" android:contentDescription="0x7f0a025e" style="0x7f0d0282" />
+    <RelativeLayout android:gravity="10" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+        <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f12015d" android:id="0x7f1305b3" android:layout_alignParentRight="true" style="0x7f0d0284" />
+        <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f12015d" android:id="0x7f1305b4" android:layout_toLeftOf="0x7f1305b3" android:layout_alignBaseline="0x7f1305b3" style="0x7f0d0285" />
+        <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f12015d" android:id="0x7f1305b5" android:layout_below="0x7f1305b3" android:layout_alignParentRight="true" style="0x7f0d0285" />
+        <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f12015d" android:id="0x7f1305b6" android:layout_toLeftOf="0x7f1305b5" android:layout_below="0x7f1305b3" style="0x7f0d0285" />
+    </RelativeLayout>
+</LinearLayout>

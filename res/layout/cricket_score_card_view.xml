@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="0x7f12015d" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120009" android:ellipsize="4" android:id="0x7f130295" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f040f" android:layout_marginRight="0x7f0f040f" android:scrollHorizontally="true" android:singleLine="true" android:layout_centerHorizontal="true" android:layout_centerVertical="true" android:marqueeRepeatLimit="-1" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120009" android:ellipsize="4" android:id="0x7f130296" android:focusable="true" android:focusableInTouchMode="true" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f040f" android:layout_marginTop="0x7f0f040d" android:layout_marginRight="0x7f0f040f" android:scrollHorizontally="true" android:singleLine="true" android:layout_centerHorizontal="true" android:marqueeRepeatLimit="-1" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="1" android:textColor="0x7f1200c9" android:ellipsize="3" android:id="0x7f130297" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f040f" android:layout_marginRight="0x7f0f040f" android:singleLine="true" android:layout_below="0x7f130296" android:layout_centerHorizontal="true" />
+    <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f130296" android:layout_centerHorizontal="true">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="1" android:textColor="0x7f1200c9" android:id="0x7f130298" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f040e" android:layout_weight="1.0" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="1" android:textColor="0x7f1200c9" android:id="0x7f130299" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f040e" android:layout_weight="1.0" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="0x7f0f040e" android:baselineAligned="false" android:minHeight="64dp">
+        <RelativeLayout android:layout_gravity="10" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+            <com.twitter.library.media.widget.UserImageView android:id="0x7f13029a" android:layout_width="0x7f0f040b" android:layout_height="0x7f0f040b" android:layout_marginLeft="0x7f0f040c" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="0x7f0a0554" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0048" android:textStyle="0" android:textColor="0x7f120009" android:id="0x7f13029b" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f040a" android:layout_toRightOf="0x7f13029a" android:layout_centerVertical="true" />
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f040a" android:layout_toRightOf="0x7f13029a" android:layout_centerVertical="true">
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="0" android:textColor="0x7f120009" android:id="0x7f13029c" android:layout_width="-2" android:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textStyle="1" android:textColor="0x7f120009" android:id="0x7f13029d" android:layout_width="-2" android:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="1" android:textColor="0x7f1200c9" android:id="0x7f13029e" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+        </RelativeLayout>
+        <RelativeLayout android:layout_gravity="10" android:layout_width="-1" android:layout_height="-2" android:layout_weight="1.0">
+            <com.twitter.library.media.widget.UserImageView android:id="0x7f13029f" android:layout_width="0x7f0f040b" android:layout_height="0x7f0f040b" android:layout_marginRight="0x7f0f040c" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="0x7f0a0554" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0048" android:textStyle="0" android:textColor="0x7f120009" android:id="0x7f1302a0" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f040a" android:layout_toLeftOf="0x7f13029f" android:layout_centerVertical="true" />
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="0x7f0f040a" android:layout_toLeftOf="0x7f13029f" android:layout_centerVertical="true">
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="0" android:textColor="0x7f120009" android:layout_gravity="5" android:id="0x7f1302a1" android:layout_width="-2" android:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textStyle="1" android:textColor="0x7f120009" android:layout_gravity="5" android:id="0x7f1302a2" android:layout_width="-2" android:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textStyle="1" android:textColor="0x7f1200c9" android:layout_gravity="5" android:id="0x7f1302a3" android:layout_width="-2" android:layout_height="-2" />
+            </LinearLayout>
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

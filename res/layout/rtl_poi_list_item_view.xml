@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout style="0x7f0d01f8">
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1305b3" android:layout_alignParentRight="true" style="0x7f0d0284" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1305b4" android:layout_toLeftOf="0x7f1305b3" android:layout_alignBaseline="0x7f1305b3" style="0x7f0d0285" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1305b5" android:layout_below="0x7f1305b3" android:layout_alignParentRight="true" style="0x7f0d0285" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1305b6" android:layout_toLeftOf="0x7f1305b5" android:layout_below="0x7f1305b3" android:layout_alignWithParentIfMissing="true" style="0x7f0d0285" />
+</RelativeLayout>

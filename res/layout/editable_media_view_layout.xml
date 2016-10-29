@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.media.ui.image.FixedSizeImageView twitter:layout_gravity="53" twitter:id="@bcx/gif_badge" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="4dp" twitter:src="0x7f0204af" twitter:contentDescription="@mx/View_android_theme" />
+    <com.twitter.library.media.widget.VideoDurationView twitter:layout_gravity="53" twitter:id="@bcx/video_duration" twitter:background="0x7f020079" twitter:padding="0x7f0f00d4" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="4dp" twitter:text_size="0x7f0f0047" twitter:text_face="1" twitter:text_color="0x7f12015d" />
+    <ImageView twitter:layout_gravity="35" twitter:id="@bcx/dismiss" twitter:padding="12dp" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020658" twitter:contentDescription="0x7f0a00c4" />
+</merge>

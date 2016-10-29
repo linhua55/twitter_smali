@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f130698" android:background="0x7f120155" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+    <android.support.v7.widget.RecyclerView android:layout_gravity="50" android:id="0x7f130699" android:background="0x7f120023" android:padding="0x7f0f0406" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" />
+</FrameLayout>

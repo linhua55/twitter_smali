@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.library.widget.ToolbarWrapperLayout twitter:layout_width="-1" twitter:layout_height="-1" twitter:toolBarId="0x7f13045a" twitter:shouldDrawManualShadow="true">
+        <LinearLayout twitter:orientation="1" twitter:id="0x7f130328" twitter:layout_width="-1" twitter:layout_height="-1"
+            <LinearLayout twitter:orientation="1" twitter:id="0x7f13045a" twitter:layout_width="-1" twitter:layout_height="-2">
+                <com.twitter.library.widget.StatusToolBar twitter:id="@bcx/toolbar" twitter:layout_width="-1" twitter:layout_height="?unknown_attr_ref: 7f0100a4" />
+                <com.twitter.internal.android.widget.HorizontalListView twitter:id="0x7f13034b" style="0x7f0d025d" />
+            </LinearLayout>
+            <com.twitter.android.composer.ComposerDockLayout twitter:id="0x7f1302c3" twitter:layout_width="-1" twitter:layout_height="-1">
+                <android.support.v4.view.ViewPager twitter:id="0x7f130349" twitter:layout_width="-1" twitter:layout_height="-1" />
+                <ProgressBar twitter:layout_gravity="31" twitter:id="0x7f1303b8" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0433" twitter:indeterminate="true" twitter:layout_below="@bcx/toolbar" style="?unknown_attr_ref: 1010079" />
+            </com.twitter.android.composer.ComposerDockLayout>
+        </LinearLayout>
+    </com.twitter.library.widget.ToolbarWrapperLayout>
+    <android.support.design.widget.FloatingActionButton twitter:id="0x7f13034e" twitter:visibility="2" twitter:layout_anchor="0x7f130328" style="0x7f0d0192" />
+</android.support.design.widget.CoordinatorLayout>

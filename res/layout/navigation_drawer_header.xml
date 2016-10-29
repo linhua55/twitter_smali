@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.media.ui.image.BackgroundImageView twitter:id="@bcx/banner_image" twitter:layout_width="-1" twitter:layout_height="0x7f0f02fd" twitter:overlayDrawable="0x7f020069" twitter:crossfadeDuration="0x7f10003b" twitter:filterMaxOpacity="0.0" twitter:filterColor="0x106000d" twitter:imageType="profile_header" />
+    <LinearLayout twitter:layout_gravity="35" twitter:orientation="0" twitter:id="@bcx/other_accounts" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02ff" twitter:layout_marginRight="0x7f0f02ff" />
+    <LinearLayout twitter:layout_gravity="50" twitter:orientation="1" twitter:padding="?unknown_attr_ref: 7f010026" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/my_profile" twitter:userImageSize="0x7f0f0383" style="0x7f0d03f4" />
+        <LinearLayout twitter:orientation="0" twitter:id="0x7f13046b" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02ff"
+            <LinearLayout twitter:layout_gravity="10" twitter:orientation="1" twitter:id="0x7f130076" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="1.0">
+                <TextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f12015d" twitter:id="@bcx/name" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:drawablePadding="6dp" />
+                <TextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f12015d" twitter:id="@k/username" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="2dp" twitter:singleLine="true" />
+            </LinearLayout>
+            <ImageView twitter:layout_gravity="11" twitter:id="@bcx/accounts" twitter:background="?unknown_attr_ref: 7f01013b" twitter:layout_width="0x7f0f02fc" twitter:layout_height="0x7f0f02fc" twitter:src="0x7f0206c1" twitter:contentDescription="0x7f0a0853" twitter:rotation="90.0" />
+        </LinearLayout>
+    </LinearLayout>
+</FrameLayout>

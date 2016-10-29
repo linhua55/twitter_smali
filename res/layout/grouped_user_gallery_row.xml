@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2">
+    <RelativeLayout twitter:padding="12dp" twitter:layout_width="-1" twitter:layout_height="-2">
+        <android.support.v4.view.ViewPager twitter:id="0x7f130349" twitter:layout_width="-1" twitter:layout_height="180dp" />
+        <com.twitter.android.widget.PipView twitter:id="0x7f130394" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="0x7f130349" twitter:layout_centerHorizontal="true" twitter:numberPips="1" twitter:pipRadius="0x7f0f0344" twitter:pipPadding="0x7f0f0343" twitter:pipColor="0x7f1200f1" twitter:pipActiveColor="0x7f1200f0" />
+    </RelativeLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

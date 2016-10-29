@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.ActivityUserView android:paddingTop="12dp" android:paddingRight="12dp" android:layout_width="-1" android:layout_height="-2" style="0x7f0d01ff">
+    <include layout="0x7f0403a7" />
+</com.twitter.android.widget.ActivityUserView>

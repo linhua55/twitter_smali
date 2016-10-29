@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.android.moments.ui.VideoFillCropFrameLayout twitter:id="0x7f130494" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:foreground="0x7f020a80" />
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f130470" twitter:layout_width="-1" twitter:layout_height="-1" twitter:foreground="0x7f020a80" twitter:defaultDrawable="0x7f120004" twitter:errorDrawable="0x7f020098" twitter:scaleType="0">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:cornerRadius="0x7f0f0178" />
+    </com.twitter.media.ui.image.MediaImageView>
+</FrameLayout>

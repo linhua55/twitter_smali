@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="1" android:background="0x7f0209e7" android:minHeight="?unknown_attr_ref: 101004d" style="0x7f0d01ed">
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f1200fc" android:id="0x7f130191" android:layout_width="-2" android:layout_height="-2" style="0x7f0d01ea" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/promoted" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f00d3" style="0x7f0d02a6" />
+    <com.twitter.ui.widget.TypefacesTextView android:ellipsize="3" android:id="0x7f13067b" android:visibility="2" android:layout_marginTop="0x7f0f00d3" style="0x7f0d02d7" />
+</LinearLayout>

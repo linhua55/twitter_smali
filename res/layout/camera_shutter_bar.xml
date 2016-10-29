@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.android.media.widget.CameraModeButton twitter:id="0x7f1301b3" twitter:background="0x7f0204b1" twitter:visibility="1" twitter:layout_width="50dp" twitter:layout_height="50dp" twitter:scaleType="7" twitter:contentDescription="0x7f0a0854" twitter:cameraModeButtonGravitatedMargin="20dp" />
+    <FrameLayout twitter:layout_gravity="11" twitter:id="0x7f1301b4" twitter:layout_width="50dp" twitter:layout_height="50dp">
+        <ImageView twitter:layout_gravity="11" twitter:id="0x7f1301b5" twitter:background="@mx/View_android_theme" twitter:layout_width="40dp" twitter:layout_height="40dp" twitter:scaleType="5" twitter:contentDescription="0x7f0a00f6" />
+        <ImageView twitter:layout_gravity="11" twitter:id="0x7f1301b6" twitter:background="@mx/View_android_theme" twitter:layout_width="40dp" twitter:layout_height="40dp" twitter:contentDescription="0x7f0a00f6" />
+    </FrameLayout>
+</merge>

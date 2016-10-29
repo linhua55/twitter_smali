@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:layout_gravity="11" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d0200"
+    <RelativeLayout twitter:id="0x7f130678" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentTop="true" twitter:layout_centerHorizontal="true" twitter:userImageSize="0x7f0f0383" />
+        <com.twitter.library.widget.ActionButton twitter:gravity="10" twitter:id="@bcx/action_button" twitter:background="0x7f0200ba" twitter:visibility="0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:minWidth="0x7f0f0052" twitter:layout_alignParentRight="true" twitter:layout_centerVertical="true" style="0x7f0d0129" />
+    </RelativeLayout>
+    <LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:id="0x7f1301cd" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f00e1" twitter:layout_below="0x7f130678" twitter:layout_centerHorizontal="true">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:textColor="0x7f1200fc" twitter:id="@bcx/name_item" twitter:layout_width="-2" twitter:layout_height="-2" />
+        <ImageView twitter:id="@bcx/protected_item" twitter:paddingLeft="4dp" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020796" twitter:contentDescription="0x7f0a03f8" />
+        <ImageView twitter:id="@bcx/verified_item" twitter:paddingLeft="4dp" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0209b1" twitter:contentDescription="0x7f0a03f9" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/screenname_item" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="3dp" style="0x7f0d03fe" />
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120064" twitter:ellipsize="3" twitter:gravity="11" twitter:id="0x7f130076" twitter:paddingBottom="5dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="3" twitter:layout_below="0x7f1301cd" twitter:layout_centerHorizontal="true" />
+    <com.twitter.library.widget.SocialBylineView twitter:id="@bcx/social_byline" twitter:paddingBottom="5dp" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="0x7f130076" twitter:layout_centerHorizontal="true" twitter:labelColor="0x7f120140" twitter:labelSize="0x7f0f0047" twitter:iconMargin="2dp" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/promoted" twitter:visibility="2" twitter:layout_below="@bcx/social_byline" twitter:layout_centerHorizontal="true" style="0x7f0d02a8" />
+</RelativeLayout>

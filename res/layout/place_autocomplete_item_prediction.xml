@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:layout_width="-1" android:layout_height="0x7f0f0348">
+    <include android:layout_gravity="11" android:visibility="1" android:layout_width="0x7f0f034d" android:layout_height="0x7f0f034d" android:layout_marginLeft="0x7f0f034c" android:layout_marginRight="0x7f0f034c" android:layout_alignParentLeft="true" android:layout_centerVertical="true" layout="0x7f040268" />
+    <View android:id="@bcx/place_autocomplete_separator" android:layout_width="0dp" android:layout_height="0dp" android:layout_centerVertical="true" />
+    <TextView android:textSize="0x7f0f034a" android:textColor="0x7f1200f2" android:ellipsize="3" android:id="@bcx/place_autocomplete_prediction_primary_text" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0349" android:layout_marginRight="0x7f0f0349" android:lines="1" android:singleLine="true" android:layout_toRightOf="@bcx/place_autocomplete_progress" android:layout_above="@bcx/place_autocomplete_separator" android:layout_centerVertical="true" />
+    <TextView android:textSize="0x7f0f034b" android:textColor="0x7f1200f4" android:ellipsize="3" android:id="@bcx/place_autocomplete_prediction_secondary_text" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0349" android:layout_marginRight="0x7f0f0349" android:lines="1" android:singleLine="true" android:layout_toRightOf="@bcx/place_autocomplete_progress" android:layout_below="@bcx/place_autocomplete_separator" />
+</RelativeLayout>

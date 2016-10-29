@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout custom:orientation="1" custom:fitsSystemWindows="true" custom:layout_width="-1" custom:layout_height="-1">
+    <ImageView custom:layout_gravity="31" custom:layout_width="-2" custom:layout_height="-2" custom:layout_margin="30dp" custom:src="0x7f020a74" custom:contentDescription="@o/ps__app_name" />
+    <TextView custom:textSize="22sp" custom:gravity="11" custom:layout_gravity="31" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="50dp" custom:layout_marginRight="50dp" custom:text="@o/ps__install_description" />
+    <View custom:layout_width="0dp" custom:layout_height="0dp" custom:layout_weight="1.0" />
+    <tv.periscope.android.view.PsButton custom:textColor="@h/ps__white" custom:layout_gravity="51" custom:layout_width="-2" custom:layout_height="-2" custom:layout_margin="15dp" custom:text="@o/ps__download_periscope" custom:onClick="onInstallClick" style="0x7f0d0455" />
+    <tv.periscope.android.view.PsButton custom:layout_gravity="51" custom:background="?unknown_attr_ref: 101030e" custom:layout_width="-2" custom:layout_height="-2" custom:text="@o/ps__install_no_thanks" custom:onClick="onCancelClick" style="0x7f0d0456" />
+    <tv.periscope.android.view.TosView custom:textSize="10sp" custom:textColor="@h/ps__light_grey" custom:gravity="11" custom:layout_gravity="50" custom:id="@k/tos_line" custom:padding="0x7f0f03fe" custom:layout_width="-1" custom:layout_height="-2" custom:text="@o/ps__interstitial_tos" custom:ps__font="fonts/MuseoSans-300.otf" />
+</LinearLayout>

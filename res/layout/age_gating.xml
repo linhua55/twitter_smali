@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04036b" />
+        <ScrollView android:layout_width="-1" android:layout_height="-1" android:layout_below="@bcx/toolbar">
+            <RelativeLayout android:layout_width="-1" android:layout_height="-2">
+                <include android:id="@bcx/header_container" layout="0x7f040030" />
+                <View android:id="0x7f130145" android:background="0x7f020097" android:layout_width="-1" android:layout_height="0x7f0f0414" android:layout_below="@bcx/header_container" />
+                <LinearLayout android:gravity="11" android:orientation="1" android:background="0x106000b" android:paddingLeft="0x7f0f004d" android:paddingTop="0x7f0f004e" android:paddingRight="0x7f0f004d" android:paddingBottom="0x7f0f004e" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f130145">
+                    <DatePicker android:id="0x7f130146" android:layout_width="-2" android:layout_height="-2" android:spinnersShown="true" android:calendarViewShown="false" />
+                    <View android:background="0x7f020097" android:layout_width="-1" android:layout_height="0x7f0f0414" />
+                    <com.twitter.ui.widget.TypefacesTextView android:textColorLink="0x7f1200b8" android:id="0x7f130147" android:layout_width="-2" android:layout_height="-2" android:layout_margin="0x7f0f0103" android:text="0x7f0a0636" android:lineSpacingMultiplier="1.2" style="0x7f0d000e" />
+                </LinearLayout>
+            </RelativeLayout>
+        </ScrollView>
+    </RelativeLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

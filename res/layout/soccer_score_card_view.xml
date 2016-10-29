@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="0" twitter:background="0x7f12015d" twitter:paddingTop="0x7f0f0429" twitter:paddingBottom="0x7f0f0429" twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="13" twitter:id="0x7f13029a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f040c" twitter:contentDescription="0x7f0a0864" twitter:userImageSize="0x7f0f042c" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textStyle="0" twitter:textColor="0x7f120009" twitter:layout_gravity="13" twitter:id="0x7f13029b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f040a" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0048" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:layout_gravity="13" twitter:id="0x7f13029d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f040a" />
+    <LinearLayout twitter:gravity="11" twitter:layout_gravity="11" twitter:id="0x7f13014e" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="1.0">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textStyle="1" twitter:textColor="0x7f1200c9" twitter:ellipsize="4" twitter:gravity="11" twitter:id="0x7f130296" twitter:paddingLeft="0x7f0f042a" twitter:paddingRight="0x7f0f042a" twitter:focusable="true" twitter:focusableInTouchMode="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:scrollHorizontally="true" twitter:singleLine="true" twitter:marqueeRepeatLimit="-1" />
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0048" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:layout_gravity="15" twitter:id="0x7f1302a2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f040a" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textStyle="0" twitter:textColor="0x7f120009" twitter:layout_gravity="15" twitter:id="0x7f1302a0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f040a" />
+    <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="15" twitter:id="0x7f13029f" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f040c" twitter:contentDescription="0x7f0a0864" twitter:userImageSize="0x7f0f042c" />
+</LinearLayout>

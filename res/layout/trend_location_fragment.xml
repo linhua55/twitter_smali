@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1"
+    <LinearLayout twitter:orientation="1" twitter:padding="8dp" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="36dp">
+        <com.twitter.android.autocomplete.ListViewSuggestionEditText twitter:id="0x7f130286" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="0x7f0f0264" twitter:hint="0x7f0a0882" twitter:maxLines="1" twitter:scrollHorizontally="false" twitter:includeFontPadding="false" twitter:completionThreshold="1" twitter:inputType="a0001" twitter:imeOptions="10000000" twitter:fontFamily="sans-serif-light" twitter:lengthThreshold="0" twitter:focusOnDismiss="true" style="0x7f0d0371" />
+    </LinearLayout>
+    <View twitter:visibility="0" twitter:layout_width="-1" twitter:layout_height="1dp" />
+    <View twitter:background="0x7f120001" twitter:visibility="0" twitter:layout_width="-1" twitter:layout_height="2dp" />
+    <View twitter:visibility="0" twitter:layout_width="-1" twitter:layout_height="1dp" />
+    <FrameLayout twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+        <ListView twitter:id="0x7f130289" twitter:layout_width="-1" twitter:layout_height="-1" style="0x7f0d01df" />
+    </FrameLayout>
+</LinearLayout>

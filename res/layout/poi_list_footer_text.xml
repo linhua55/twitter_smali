@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.ui.widget.TypefacesTextView android:textAppearance="0x7f0d0284" android:textColor="0x7f1200b8" android:layout_gravity="10" android:id="0x7f1305b2" android:layout_width="-1" style="0x7f0d01f8" />
+    <include android:layout_gravity="50" android:id="@bcx/divider" android:layout_width="-1" android:layout_height="0x7f0f0001" android:layout_marginLeft="0dp" android:layout_marginRight="0dp" layout="0x7f0400a9" />
+</merge>

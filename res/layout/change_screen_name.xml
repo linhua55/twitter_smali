@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <LinearLayout android:orientation="1" android:background="0x7f1200ba" android:layout_width="-1" android:layout_height="-2"
+            <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02c5">
+                <com.twitter.ui.widget.TypefacesTextView android:text="0x7f0a08ec" style="0x7f0d01db" />
+                <EditText android:id="0x7f1301ca" android:hint="0x7f0a07e0" android:maxLength="15" android:drawableLeft="0x7f020726" android:inputType="80001" style="0x7f0d02c4" />
+                <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1301cb" style="0x7f0d01dc" />
+            </LinearLayout>
+            <View android:id="0x7f1301c3" android:layout_marginBottom="5dp" style="0x7f0d01c7" />
+            <Button android:enabled="false" android:id="0x7f1301cc" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f004d" android:layout_marginRight="0x7f0f004d" android:text="0x7f0a08de" style="0x7f0d012f" />
+        </LinearLayout>
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

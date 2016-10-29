@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout twitter:id="0x7f130679" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toRightOf="@bcx/action_button" twitter:layout_alignParentLeft="true" twitter:layout_centerVertical="false">
+        <com.twitter.library.widget.ActionButton twitter:id="@bcx/action_button" twitter:paddingLeft="0dp" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d0001" />
+        <com.twitter.library.widget.ActionButton twitter:id="@bcx/block_button" twitter:paddingLeft="0dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f02061e" twitter:tintColorList="0x7f120171" style="0x7f0d0001" />
+        <com.twitter.ui.widget.TintableImageView twitter:layout_gravity="11" twitter:id="@bcx/muted_item" twitter:paddingTop="0x7f0f00df" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0208a8" twitter:contentDescription="@mx/View_android_theme" twitter:tintColorList="0x7f120171" />
+    </LinearLayout>
+    <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f024c" twitter:layout_alignParentTop="true" twitter:layout_alignParentRight="true" twitter:singleImageView="true" />
+    <RelativeLayout twitter:id="0x7f1301cd" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0dp" twitter:layout_toLeftOf="@bcx/user_image" twitter:layout_toRightOf="0x7f130679" twitter:layout_alignParentTop="true">
+        <include layout="0x7f0403a1" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120064" twitter:id="@bcx/screenname_item" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="0x7f130123" twitter:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textStyle="0" twitter:textColor="0x7f120009" twitter:id="@bcx/profile_description_item" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="2sp" twitter:layout_toLeftOf="@bcx/user_image" twitter:layout_below="0x7f1301cd" twitter:lineSpacingExtra="2sp" />
+    <include layout="0x7f0403a2" />
+</merge>

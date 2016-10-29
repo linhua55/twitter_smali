@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.HighlightedRelativeLayout android:paddingBottom="0x7f0f00bb" style="0x7f0d000a">
+    <com.twitter.library.media.widget.UserImageView android:id="@bcx/user_image" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f024c" android:layout_marginBottom="5dp" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13012e" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="54dp" android:layout_marginBottom="0x7f0f00e2" android:includeFontPadding="false" android:layout_toRightOf="@bcx/user_image" android:lineSpacingMultiplier="1.0" style="0x7f0d0004" />
+    <com.twitter.library.widget.ActionButton android:id="@bcx/action_button" android:background="0x7f0200ba" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" android:layout_centerVertical="false" style="0x7f0d0001" />
+</com.twitter.internal.android.widget.HighlightedRelativeLayout>

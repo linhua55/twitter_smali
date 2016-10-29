@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-2" android:layout_height="-2"
+    <RelativeLayout android:id="0x7f1302db" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true">
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1302dc" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f1302dd" android:layout_alignParentTop="true" style="0x7f0d0135" />
+        <ImageView android:id="0x7f1302dd" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentRight="true" android:contentDescription="@mx/View_android_theme" style="0x7f0d0136" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1302de" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f1302db" android:layout_alignParentRight="true" style="0x7f0d0137" />
+</RelativeLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.events.sports.AdaptiveSportsEventView twitter:id="0x7f130134" twitter:padding="0x7f0f0180" twitter:layout_width="-1" twitter:layout_height="-2">
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f130135" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.android.events.sports.AdaptiveTeamRowView twitter:id="0x7f130136" twitter:layout_width="-1" twitter:layout_height="-2" twitter:customRowLayout="0x7f040098" />
+        <com.twitter.android.events.sports.AdaptiveTeamRowView twitter:id="0x7f130137" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f017f" twitter:customRowLayout="0x7f040098" />
+        <RelativeLayout twitter:gravity="5" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f017d">
+            <com.twitter.ui.widget.TypefacesTextView twitter:ellipsize="3" twitter:id="0x7f130138" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0431" twitter:singleLine="true" twitter:layout_toLeftOf="0x7f130139" twitter:layout_alignParentLeft="true" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textStyle="1" twitter:textColor="0x7f120064" twitter:id="@bcx/summary" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentRight="true" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f1200c9" twitter:id="0x7f130139" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="@bcx/summary" twitter:layout_alignParentRight="true" />
+            <CheckBox twitter:textStyle="1" twitter:textColor="0x7f0200de" twitter:gravity="800015" twitter:id="0x7f13013a" twitter:background="0x7f0200dc" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="8dp" twitter:layout_marginBottom="8dp" twitter:button="@mx/View_android_theme" twitter:minWidth="148dp" twitter:minHeight="48dp" twitter:drawableRight="0x7f0200dd" twitter:drawablePadding="8dp" twitter:layout_below="0x7f130139" twitter:layout_alignParentRight="true" />
+        </RelativeLayout>
+    </LinearLayout>
+</com.twitter.android.events.sports.AdaptiveSportsEventView>

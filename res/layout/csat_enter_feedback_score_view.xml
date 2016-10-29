@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:paddingBottom="0x7f0f0071" android:layout_width="-1" android:layout_height="-2">
+    <include layout="0x7f0400f5" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1302a9" android:layout_marginTop="0x7f0f0060" android:includeFontPadding="false" android:layout_below="0x7f130027" style="0x7f0d015a" />
+    <RelativeLayout android:id="0x7f1302aa" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f1302a9" android:layout_centerHorizontal="true">
+        <LinearLayout android:id="0x7f1302ab" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0065" android:layout_centerHorizontal="true">
+            <FrameLayout style="0x7f0d015b">
+                <include layout="0x7f0400f6" />
+                <ImageView android:id="0x7f1302ac" android:src="0x7f020948" android:contentDescription="0x7f0a022a" style="0x7f0d0158" />
+            </FrameLayout>
+            <FrameLayout style="0x7f0d015c">
+                <include layout="0x7f0400f6" />
+                <ImageView android:id="0x7f1302ad" android:src="0x7f02094b" android:contentDescription="0x7f0a022b" style="0x7f0d0158" />
+            </FrameLayout>
+            <FrameLayout style="0x7f0d015c">
+                <include layout="0x7f0400f6" />
+                <ImageView android:id="0x7f1302ae" android:src="0x7f02094e" android:contentDescription="0x7f0a022c" style="0x7f0d0158" />
+            </FrameLayout>
+            <FrameLayout style="0x7f0d015c">
+                <include layout="0x7f0400f6" />
+                <ImageView android:id="0x7f1302af" android:src="0x7f020951" android:contentDescription="0x7f0a022d" style="0x7f0d0158" />
+            </FrameLayout>
+            <FrameLayout style="0x7f0d015c">
+                <include layout="0x7f0400f6" />
+                <ImageView android:id="0x7f1302b0" android:src="0x7f020954" android:contentDescription="0x7f0a022e" style="0x7f0d0158" />
+            </FrameLayout>
+        </LinearLayout>
+        <FrameLayout android:id="0x7f1302b1" android:padding="0x7f0f0064" android:layout_width="-1" android:layout_height="-1" android:layout_alignLeft="0x7f1302ab" android:layout_alignTop="0x7f1302ab" android:layout_alignRight="0x7f1302ab" android:layout_alignBottom="0x7f1302ab">
+            <View android:layout_gravity="10" android:background="0x7f120064" android:layout_width="-1" android:layout_height="0x7f0f0062" />
+        </FrameLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1302b2" android:layout_below="0x7f1302ab" android:layout_alignLeft="0x7f1302ab" style="0x7f0d015e" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1302b3" android:layout_below="0x7f1302ab" android:layout_alignRight="0x7f1302ab" style="0x7f0d015f" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1302b4" android:layout_marginTop="0x7f0f0061" android:layout_below="0x7f1302aa" style="0x7f0d0159" />
+</RelativeLayout>

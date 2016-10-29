@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.HighlightedRelativeLayout android:paddingTop="0x7f0f00b6" android:paddingBottom="0x7f0f00b9" style="0x7f0d000a">
+    <RelativeLayout android:id="0x7f13012f" android:layout_width="0x7f0f0052" android:layout_height="-2" android:layout_marginLeft="10dp" android:layout_alignParentRight="true">
+        <ImageView android:id="@k/image" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentTop="true" android:contentDescription="@mx/View_android_theme" />
+    </RelativeLayout>
+    <RelativeLayout android:id="@bcx/header_content" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="1dp" android:layout_toLeftOf="0x7f13012f">
+        <LinearLayout android:orientation="0" android:id="0x7f130130" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="5dp" android:layout_alignParentRight="true">
+            <include layout="0x7f0401a6" />
+        </LinearLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f120009" android:id="0x7f13012e" android:layout_width="-2" android:layout_height="-2" android:includeFontPadding="false" android:layout_below="0x7f130130" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="1" android:id="@k/body" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_below="@bcx/header_content" android:layout_alignRight="@bcx/header_content">
+        <include android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0dp" layout="0x7f0401a5" />
+        <include layout="0x7f0401a5" />
+        <include layout="0x7f0401a5" />
+        <include layout="0x7f0401a5" />
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f12005a" android:id="0x7f130131" android:paddingTop="20dp" android:paddingRight="0dp" android:layout_below="@k/body" android:layout_alignRight="@bcx/header_content" style="0x7f0d00d7" />
+</com.twitter.internal.android.widget.HighlightedRelativeLayout>

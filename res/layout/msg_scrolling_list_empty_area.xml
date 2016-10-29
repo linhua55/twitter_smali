@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.library.widget.ObservableScrollView android:id="0x7f1304bd" android:scrollbars="0" android:layout_width="-1" android:layout_height="-1" android:fillViewport="false">
+        <LinearLayout android:orientation="1" android:id="0x7f13003c" android:background="0x7f120003" android:visibility="2" android:layout_width="-1" android:layout_height="-2" style="0x7f0d01ed">
+            <View android:id="0x7f1304be" android:layout_width="-1" android:layout_height="-2" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120140" android:gravity="11" android:id="0x7f130025" android:layout_width="-1" android:layout_height="-2" android:lineSpacingExtra="0x7f0f0263" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f120140" android:gravity="11" android:id="0x7f130024" android:layout_width="-1" android:layout_height="-2" />
+            <View android:id="0x7f1304bf" android:layout_width="-1" android:layout_height="-2" />
+        </LinearLayout>
+    </com.twitter.library.widget.ObservableScrollView>
+    <ProgressBar android:layout_gravity="11" android:id="0x7f13003d" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" style="?unknown_attr_ref: 1010077" />
+</FrameLayout>

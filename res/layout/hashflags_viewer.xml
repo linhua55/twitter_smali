@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textStyle="1" android:id="0x7f130398" android:paddingLeft="20dp" android:visibility="2" android:layout_width="-1" android:layout_height="-2" />
+    <ListView android:id="0x7f130399" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+</LinearLayout>

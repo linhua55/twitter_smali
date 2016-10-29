@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="11" android:layout_width="-1" android:layout_height="-1">
+    <View android:id="0x7f13049e" android:background="0x7f120060" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02ea" android:textStyle="1" android:textColor="0x7f12014b" android:gravity="11" android:layout_gravity="11" android:id="0x7f13049f" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f02e4" android:layout_marginRight="0x7f0f02e4" />
+    <ProgressBar android:layout_gravity="11" android:id="0x7f1304a0" android:visibility="2" android:layout_width="0x7f0f02c1" android:layout_height="0x7f0f02c0" android:indeterminate="false" android:progressDrawable="0x7f0209f8" style="?unknown_attr_ref: 1010078" />
+</FrameLayout>

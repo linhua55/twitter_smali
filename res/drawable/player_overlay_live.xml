@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_pressed="true">
+        <bitmap android:gravity="11" android:src="0x7f020882" />
+    </item>
+    <item>
+        <bitmap android:gravity="11" android:src="0x7f020881" />
+    </item>
+</selector>

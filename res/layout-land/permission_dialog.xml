@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout fresco:orientation="1" fresco:id="0x7f13001c" fresco:background="0x7f120159" fresco:clipChildren="false" fresco:layout_width="-1" fresco:layout_height="-1">
+    <ImageView fresco:layout_gravity="10" fresco:id="0x7f130013" fresco:paddingLeft="0x7f0f03e0" fresco:paddingRight="0x7f0f03e0" fresco:layout_width="-2" fresco:layout_height="0dp" fresco:src="0x7f020642" fresco:layout_weight="16.0" fresco:contentDescription="0x7f0a00f9" />
+    <RelativeLayout fresco:orientation="1" fresco:clipChildren="false" fresco:layout_width="-1" fresco:layout_height="0dp" fresco:layout_weight="76.0">
+        <ImageView fresco:id="0x7f13013e" fresco:layout_width="-2" fresco:layout_height="0x7f0f03e2" fresco:layout_marginBottom="0x7f0f03e2" fresco:src="0x7f020aa6" fresco:layout_alignParentTop="true" fresco:layout_centerHorizontal="true" fresco:contentDescription="@mx/View_android_theme" />
+        <ImageView fresco:id="0x7f13001a" fresco:visibility="2" fresco:layout_width="0dp" fresco:layout_height="0dp" fresco:contentDescription="@mx/View_android_theme" />
+        <com.facebook.drawee.view.SimpleDraweeView fresco:layout_gravity="11" fresco:id="0x7f13013f" fresco:visibility="2" fresco:layout_width="0dp" fresco:layout_height="0dp" fresco:contentDescription="@mx/View_android_theme" fresco:scaleType="2" />
+        <com.twitter.ui.widget.TypefacesTextView fresco:id="0x7f13001d" fresco:paddingLeft="0x7f0f0015" fresco:paddingRight="0x7f0f0015" fresco:layout_width="-2" fresco:layout_height="-2" fresco:layout_below="0x7f13013e" style="0x7f0d02ac" />
+        <com.twitter.ui.widget.TypefacesTextView fresco:id="0x7f13001b" fresco:layout_width="-2" fresco:layout_height="-2" fresco:layout_below="0x7f13001d" style="0x7f0d02aa" />
+        <com.twitter.ui.widget.TwitterButton fresco:id="0x7f130015" fresco:layout_width="-2" fresco:layout_height="-2" fresco:layout_above="0x7f130014" fresco:layout_centerHorizontal="true" fresco:layout_alignWithParentIfMissing="true" fresco:fillColor="0x7f12015d" style="0x7f0d03b6" />
+        <com.twitter.ui.widget.TwitterButton fresco:id="0x7f130014" fresco:layout_width="-2" fresco:layout_height="-2" fresco:layout_marginTop="0x7f0f03df" fresco:layout_alignParentBottom="true" fresco:layout_centerHorizontal="true" fresco:bounded="false" style="0x7f0d03bb" />
+    </RelativeLayout>
+    <View fresco:visibility="1" fresco:layout_width="-1" fresco:layout_height="0dp" fresco:layout_weight="8.0" />
+</LinearLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <include layout="0x7f04036b" />
+    <ScrollView twitter:layout_width="-1" twitter:layout_height="-2">
+        <FrameLayout twitter:layout_width="-1" twitter:layout_height="-2">
+            <LinearLayout twitter:orientation="1" twitter:id="0x7f130214" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2">
+                <ProgressBar twitter:layout_gravity="11" twitter:id="0x7f130215" twitter:layout_width="-2" twitter:layout_height="-2" style="?unknown_attr_ref: 101007a" />
+            </LinearLayout>
+            <LinearLayout twitter:orientation="1" twitter:id="0x7f130216" twitter:layout_width="-1" twitter:layout_height="-2">
+                <include twitter:id="0x7f130217" layout="0x7f04006d" />
+                <LinearLayout twitter:orientation="0" twitter:padding="0x7f0f0156" twitter:layout_width="-1" twitter:layout_height="-2"
+                    <LinearLayout twitter:orientation="0" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_weight="10.0">
+                        <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f130218" twitter:layout_width="0x7f0f0052" twitter:layout_height="0x7f0f0052" twitter:defaultDrawable="0x7f12005a" twitter:scaleType="1" />
+                        <LinearLayout twitter:orientation="1" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f011b">
+                            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0132" twitter:textColor="0x7f1200b8" twitter:gravity="3" twitter:id="0x7f130219" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="Lorem ipsum dolor sit amet" twitter:includeFontPadding="false" />
+                            <com.twitter.ui.widget.TypefacesTextView twitter:gravity="3" twitter:id="0x7f13021a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="foo . bar" twitter:includeFontPadding="false" />
+                        </LinearLayout>
+                    </LinearLayout>
+                    <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f120009" twitter:layout_gravity="11" twitter:id="0x7f13021b" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f011c" twitter:text="$29.99" twitter:includeFontPadding="false" />
+                </LinearLayout>
+                <View twitter:background="0x7f1200b3" twitter:layout_width="-1" twitter:layout_height="1px" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f13021c" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f13021d" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f13021e" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f13021f" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <include twitter:id="0x7f130220" layout="0x7f04006d" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f130221" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f130222" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f130223" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f12005a" twitter:gravity="3" twitter:id="0x7f130224" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f012a" twitter:layout_marginTop="0x7f0f0156" twitter:layout_marginRight="0x7f0f012a" twitter:layout_marginBottom="0x7f0f0138" twitter:text="Item" twitter:includeFontPadding="false" />
+                <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f120009" twitter:gravity="3" twitter:id="0x7f130225" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f012a" twitter:layout_marginRight="0x7f0f012a" twitter:layout_marginBottom="0x7f0f0157" twitter:text="sample text" twitter:includeFontPadding="false" twitter:inputType="a0001" />
+                <include twitter:id="0x7f130226" layout="0x7f04006d" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f130227" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f130228" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.android.commerce.widget.form.OrderHistoryItemAttribute twitter:id="0x7f130229" twitter:layout_width="-2" twitter:layout_height="-2" />
+            </LinearLayout>
+        </FrameLayout>
+    </ScrollView>
+</LinearLayout>

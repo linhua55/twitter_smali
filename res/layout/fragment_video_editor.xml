@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_gravity="11" twitter:id="0x7f13036d" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleMode="2">
+        <com.twitter.android.widget.ProgressReportingVideoView twitter:layout_gravity="11" twitter:id="0x7f13036e" twitter:layout_width="-1" twitter:layout_height="-1" />
+        <ImageButton twitter:layout_gravity="11" twitter:id="0x7f1301aa" twitter:background="@mx/View_android_theme" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0200c7" twitter:contentDescription="@mx/View_android_theme" />
+    </com.twitter.media.ui.image.AspectRatioFrameLayout>
+    <com.twitter.android.media.widget.VideoClipRangeSeekBar twitter:layout_gravity="50" twitter:id="0x7f13036f" twitter:background="@mx/View_android_theme" twitter:paddingLeft="15dp" twitter:paddingRight="15dp" twitter:layout_width="-1" twitter:layout_height="88dp">
+        <com.twitter.library.view.TickMarksView twitter:textSize="16sp" twitter:id="0x7f130370" twitter:background="0x7f020a9b" twitter:layout_width="-1" twitter:layout_height="48dp" twitter:layout_marginTop="25dp" twitter:tickMarksMinGap="30dp" twitter:tickMarksMarkWidth="1dp" twitter:tickMarkLabelMarginLeft="8dp" twitter:tickMarkLabelMarginTop="0dp" />
+        <ProgressBar twitter:id="0x7f130371" twitter:layout_width="0dp" twitter:layout_height="48dp" twitter:layout_marginTop="25dp" style="?unknown_attr_ref: 1010078" />
+        <ImageView twitter:id="0x7f130372" twitter:visibility="2" twitter:layout_width="15dp" twitter:layout_height="64dp" twitter:layout_marginTop="17dp" twitter:src="0x7f0206c0" twitter:scaleType="1" twitter:contentDescription="@mx/View_android_theme" />
+    </com.twitter.android.media.widget.VideoClipRangeSeekBar>
+</FrameLayout>

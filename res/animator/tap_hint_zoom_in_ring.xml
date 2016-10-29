@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set android:ordering="0">
+    <objectAnimator android:interpolator="0x7f050027" android:duration="0x7f100045" android:valueFrom="1.0f" android:valueTo="0x7f0f0443" android:propertyName="scaleX" />
+    <objectAnimator android:interpolator="0x7f050027" android:duration="0x7f100045" android:valueFrom="1.0f" android:valueTo="0x7f0f0443" android:propertyName="scaleY" />
+    <objectAnimator android:interpolator="0x7f050027" android:duration="0x7f100045" android:valueFrom="0x7f0f0441" android:valueTo="1.0f" android:propertyName="alpha" />
+</set>

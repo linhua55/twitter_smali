@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="0x7f0f03a0" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:paddingBottom="0x7f0f0394" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="0x7f0f039c" android:textStyle="1" android:textColor="0x7f1200fc" android:gravity="3" android:id="0x7f130308" android:paddingLeft="0x7f0f039a" android:paddingTop="0x7f0f039b" android:paddingBottom="0x7f0f0399" android:layout_width="-2" android:layout_height="-2" />
+        <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="0x7f0f039f" android:divider="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0398" android:textColor="0x7f120063" android:id="0x7f130309" android:paddingLeft="0x7f0f0396" android:paddingTop="0x7f0f0397" android:paddingRight="0x7f0f0396" android:paddingBottom="0x7f0f0395" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0325" />
+    </LinearLayout>
+</ScrollView>

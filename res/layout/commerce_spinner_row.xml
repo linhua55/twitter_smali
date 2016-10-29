@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="12dp">
+        <CheckedTextView android:textSize="16sp" android:textColor="0x7f1200fc" android:ellipsize="4" android:id="0x1020014" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" style="?unknown_attr_ref: 1010087" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="10sp" android:textColor="0x7f1200fc" android:ellipsize="4" android:gravity="5" android:layout_gravity="10" android:id="0x7f130242" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" style="?unknown_attr_ref: 1010089" />
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="10sp" android:textColor="0x7f1200fc" android:ellipsize="4" android:id="0x1020015" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" style="?unknown_attr_ref: 1010089" />
+    <View android:layout_width="-1" android:layout_height="12dp" />
+</LinearLayout>

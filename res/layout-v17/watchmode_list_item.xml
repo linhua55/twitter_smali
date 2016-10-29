@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.av.watchmode.view.WatchModeListItemView twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="1.21dp">
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:id="0x7f1306ed" twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="3.0" twitter:scaleMode="4">
+        <com.twitter.android.av.watchmode.view.WatchModeScalingFrameLayout twitter:id="0x7f1306ee" twitter:layout_width="-1" twitter:layout_height="-1">
+            <com.twitter.android.av.video.VideoContainerHost twitter:id="0x7f1306ef" twitter:layout_width="-1" twitter:layout_height="-1" />
+        </com.twitter.android.av.watchmode.view.WatchModeScalingFrameLayout>
+        <View twitter:id="0x7f1306f0" twitter:background="0x7f120023" twitter:layout_width="-1" twitter:layout_height="-1" />
+        <FrameLayout twitter:id="0x7f1306f1" twitter:paddingLeft="0x7f0f049c" twitter:paddingRight="0x7f0f049c" twitter:paddingBottom="0x7f0f049c" twitter:layout_width="-1" twitter:layout_height="-1">
+            <LinearLayout twitter:layout_gravity="800033" twitter:orientation="0" twitter:paddingTop="0x7f0f049e" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f049d">
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:textColor="0x7f12015d" twitter:id="0x7f1306f2" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f1200c9" twitter:id="0x7f1306f3" twitter:paddingLeft="0x7f0f049d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:paddingStart="0x7f0f049d" />
+            </LinearLayout>
+        </FrameLayout>
+    </com.twitter.media.ui.image.AspectRatioFrameLayout>
+    <com.twitter.android.av.watchmode.view.TweetSummaryView twitter:id="0x7f130641" twitter:background="0x7f120069" twitter:paddingLeft="0x7f0f04a4" twitter:paddingTop="0x7f0f04a6" twitter:paddingRight="0x7f0f04a5" twitter:paddingBottom="0x7f0f04a3" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_below="0x7f1306ed" twitter:layout_alignParentBottom="true" twitter:paddingStart="0x7f0f04a4" twitter:paddingEnd="0x7f0f04a5" />
+    <com.twitter.android.av.WatchModeVideoPlayerChromeView twitter:id="0x7f130495" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_above="0x7f130641" twitter:layout_alignParentTop="true" />
+</com.twitter.android.av.watchmode.view.WatchModeListItemView>

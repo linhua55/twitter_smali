@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.android.widget.DMAvatar twitter:id="0x7f13028a" twitter:layout_alignParentRight="true" twitter:dmImageSize="0x7f0f0052" style="0x7f0d016e" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="@k/title" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="0x7f13028a" style="0x7f0d0151" />
+</RelativeLayout>

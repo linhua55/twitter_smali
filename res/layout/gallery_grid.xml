@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="?unknown_attr_ref: 7f010031" android:layout_width="-1" android:layout_height="-1">
+    <View android:id="@bcx/divider" android:background="0x7f120001" android:layout_width="-1" android:layout_height="1dp" />
+    <View android:id="0x7f130373" android:background="?unknown_attr_ref: 7f010031" android:layout_width="-1" android:layout_height="0dp" />
+    <GridView android:id="0x7f130374" android:layout_width="-1" android:layout_height="-1" android:splitMotionEvents="false" style="0x7f0d019e" />
+</LinearLayout>

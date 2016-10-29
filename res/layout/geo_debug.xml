@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1"
+    <RelativeLayout android:id="0x7f13037f" android:layout_width="-1" android:layout_height="-1" />
+    <CheckBox android:id="0x7f130380" android:paddingRight="5dp" android:layout_marginRight="10dp" android:text="0x7f0a09d6" android:drawableLeft="0x7f0204ae" android:layout_alignParentRight="true" style="0x7f0d0048" />
+    <Button android:id="0x7f130381" android:text="0x7f0a00d4" android:layout_toLeftOf="0x7f130380" style="0x7f0d01a3" />
+    <ImageButton android:id="0x7f130382" android:src="0x7f020985" android:layout_toLeftOf="0x7f130381" android:contentDescription="0x7f0a00e2" style="0x7f0d01a3" />
+</RelativeLayout>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2">
+    <com.google.maps.android.ui.RotationLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2">
+        <TextView android:layout_gravity="1" android:id="@k/text" android:paddingLeft="10dp" android:paddingTop="5dp" android:paddingRight="10dp" android:paddingBottom="5dp" android:layout_width="-2" android:layout_height="-2" />
+    </com.google.maps.android.ui.RotationLayout>
+</LinearLayout>

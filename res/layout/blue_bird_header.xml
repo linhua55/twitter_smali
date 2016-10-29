@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ImageView android:layout_gravity="11" android:id="0x7f130198" android:layout_width="-1" android:layout_height="0x7f0f003b" android:src="0x7f02097b" android:scaleType="5" android:contentDescription="0x7f0a03ff" />
+</merge>

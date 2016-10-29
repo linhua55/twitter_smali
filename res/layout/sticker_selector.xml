@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <com.twitter.android.media.imageeditor.stickers.StickerTabLayout android:id="0x7f130695" android:background="0x7f120023" android:layout_width="-1" android:layout_height="0x7f0f0402" />
+        <com.twitter.ui.view.LockableViewPager android:id="0x7f130696" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+    </LinearLayout>
+    <include layout="0x7f04034f" />
+    <include layout="0x7f04034d" />
+    <include layout="0x7f040352" />
+</merge>

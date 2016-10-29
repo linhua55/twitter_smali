@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_enabled="false" android:color="@h/ps__text_disabled" />
+    <item android:color="@h/ps__white" />
+</selector>

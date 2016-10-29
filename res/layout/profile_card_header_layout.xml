@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="@bcx/banner_image" twitter:layout_width="-1" twitter:layout_height="0x7f0f0389" twitter:layout_alignParentTop="true" twitter:singleImageView="true">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:fixedSize="true" twitter:cornerRadiusTopLeft="0x7f0f038c" twitter:cornerRadiusTopRight="0x7f0f038c" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_below="@bcx/banner_image" twitter:defaultDrawable="0x7f120004" twitter:singleImageView="true" twitter:userImageSize="?unknown_attr_ref: 7f0102c9" />
+</RelativeLayout>

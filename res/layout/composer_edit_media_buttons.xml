@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="800005" twitter:layout_gravity="50" twitter:orientation="1" twitter:id="0x7f130272" twitter:layout_width="-1" twitter:layout_height="-2"
+    <LinearLayout twitter:orientation="0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="12dp">
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130273" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="8dp" twitter:contentDescription="0x7f0a01f8" twitter:nodpiBaseIconName="ic_smile_fill" style="0x7f0d014b" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130274" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a01ef" twitter:nodpiBaseIconName="ic_pencil" style="0x7f0d014b" />
+    </LinearLayout>
+    <Button twitter:textSize="0x7f0f00ec" twitter:textColor="0x7f12015d" twitter:ellipsize="3" twitter:gravity="800013" twitter:id="0x7f130275" twitter:background="0x7f02004f" twitter:padding="8dp" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="0dp" twitter:text="0x7f0a01ec" twitter:maxLines="1" twitter:singleLine="true" twitter:textAllCaps="false" style="0x7f0d014a" />
+</LinearLayout>

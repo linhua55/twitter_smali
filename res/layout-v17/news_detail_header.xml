@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.media.ui.image.BackgroundImageView twitter:id="0x7f13052b" twitter:layout_width="-1" twitter:layout_height="-2" twitter:defaultDrawable="0x7f12005a" twitter:crossfadeDuration="300" twitter:filterMaxOpacity="0.0" twitter:filterColor="0x106000d" twitter:imageType="cricket_hero_image" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textStyle="1" twitter:textColor="0x7f1200fc" twitter:id="0x7f13052c" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="4dp" twitter:layout_marginRight="0x7f0f004d" />
+    <RelativeLayout twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="2dp" twitter:layout_marginRight="0x7f0f004d">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f1200fc" twitter:id="0x7f13052d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="6dp" twitter:layout_centerVertical="true" twitter:layout_marginEnd="6dp" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f1200fc" twitter:id="0x7f13052e" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="10dp" twitter:layout_marginRight="0x7f0f004d" />
+    <com.twitter.ui.widget.TwitterButton twitter:layout_gravity="1" twitter:id="0x7f13052f" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="10dp" twitter:layout_marginRight="0x7f0f004d" twitter:layout_marginBottom="10dp" twitter:text="0x7f0a054d" style="0x7f0d03ce" />
+    <View twitter:background="0x7f020097" twitter:layout_width="-1" twitter:layout_height="1dp" />
+</LinearLayout>

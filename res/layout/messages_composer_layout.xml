@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:id="0x7f130430" twitter:layout_width="-1" twitter:layout_height="-2">
+    <View twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="1dp" />
+    <include layout="0x7f040058" />
+    <com.twitter.android.media.widget.InlineComposerMediaLayout twitter:layout_gravity="3" twitter:id="0x7f130450" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_marginLeft="0x7f0f0175" twitter:layout_marginTop="0x7f0f0254" twitter:layout_marginRight="0x7f0f0175" twitter:layout_weight="1.0" twitter:inlineComposerMediaMaxHeight="0x7f0f0255">
+        <com.twitter.android.media.widget.InlineComposerMediaScrollView twitter:layout_gravity="31" twitter:id="0x7f130451" twitter:layout_width="-1" twitter:layout_height="-1">
+            <com.twitter.android.media.widget.AttachmentMediaView twitter:layout_gravity="1" twitter:id="0x7f130368" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleMode="4" twitter:scaleType="1" twitter:layout="0x7f04015d" />
+        </com.twitter.android.media.widget.InlineComposerMediaScrollView>
+        <com.twitter.android.widget.FoundMediaAttributionView twitter:layout_gravity="53" twitter:id="0x7f130268" twitter:background="@mx/View_android_theme" twitter:paddingTop="0x7f0f0252" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" />
+    </com.twitter.android.media.widget.InlineComposerMediaLayout>
+    <LinearLayout android:layout_gravity="1" android:orientation="1" android:id="0x7f130452" android:visibility="2" android:layout_width="-2" android:layout_height="-2">
+        <View android:background="0x7f120001" android:layout_width="-1" android:layout_height="1dp" android:layout_marginLeft="10dp" android:layout_marginRight="10dp" />
+    </LinearLayout>
+    <LinearLayout android:gravity="50" android:orientation="0" android:layout_width="-1" android:layout_height="-2"
+        <LinearLayout android:gravity="50" android:orientation="0" android:paddingLeft="0x7f0f01a5" android:layout_width="-2" android:layout_height="-2">
+            <ImageView android:id="0x7f130453" android:paddingLeft="0x7f0f01a6" android:paddingTop="0x7f0f01a7" android:paddingRight="0x7f0f01a6" android:paddingBottom="0x7f0f01a7" android:layout_width="-2" android:layout_height="-1" android:src="0x7f0206b1" android:contentDescription="0x7f0a00cb" />
+            <ImageView android:id="0x7f130454" android:paddingLeft="0x7f0f01a6" android:paddingTop="0x7f0f01a7" android:paddingBottom="0x7f0f01a7" android:visibility="2" android:layout_width="-2" android:layout_height="-1" android:src="0x7f020121" android:contentDescription="0x7f0a00c7" />
+        </LinearLayout>
+        <LinearLayout android:orientation="0" android:id="0x7f130455" android:paddingLeft="0x7f0f0433" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false">
+            <com.twitter.android.composer.TweetBox android:layout_gravity="10" android:id="0x7f130456" android:paddingTop="5dp" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+                <include layout="0x7f040384" />
+            </com.twitter.android.composer.TweetBox>
+            <include android:layout_gravity="50" android:layout_width="-2" android:layout_height="-2" layout="0x7f0400ae" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="1.0">
+    <ImageView twitter:layout_gravity="11" twitter:id="@k/image" twitter:background="@mx/View_android_theme" twitter:layout_width="64dp" twitter:layout_height="64dp" twitter:src="0x7f020118" twitter:scaleType="7" twitter:contentDescription="0x7f0a00cb" />
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

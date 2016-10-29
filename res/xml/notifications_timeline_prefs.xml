@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a077a" android:key="timeline_filters">
+        <CheckBoxPreference android:persistent="false" android:title="0x7f0a077d" android:key="connect_tab" android:summary="0x7f0a077e" />
+        <CheckBoxPreference android:persistent="false" android:title="0x7f0a077b" android:key="notifications_follow_only" android:summary="0x7f0a077c" />
+    </PreferenceCategory>
+</PreferenceScreen>

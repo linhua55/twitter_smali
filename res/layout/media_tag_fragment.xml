@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.DraggableHeaderLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:headerId="0x7f130448" twitter:bodyId="0x7f130449" twitter:anchorMode="0" twitter:extraBodyHeight="0x7f0f028f" twitter:snapBackOnRelease="true">
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f130448" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f13044a" twitter:layout_width="-1" twitter:layout_height="-2" twitter:scaleType="1" />
+        <LinearLayout twitter:orientation="1" twitter:paddingLeft="10dp" twitter:paddingRight="10dp" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="8dp" twitter:minHeight="40dp"
+            <LinearLayout twitter:orientation="0" twitter:background="0x7f02006e" twitter:paddingBottom="6dp" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="5dp">
+                <ImageView twitter:id="0x7f13044b" twitter:layout_width="16dp" twitter:layout_height="16dp" twitter:layout_marginTop="3dp" twitter:layout_marginRight="2dp" twitter:src="0x7f0209d2" twitter:scaleType="5" twitter:contentDescription="@mx/View_android_theme" />
+                <com.twitter.android.autocomplete.ListViewSuggestionEditText twitter:textSize="14sp" twitter:textColor="0x7f120009" twitter:textColorHint="0x7f120140" twitter:id="0x7f13044c" twitter:background="@mx/View_android_theme" twitter:padding="4dp" twitter:focusableInTouchMode="true" twitter:layout_width="-1" twitter:layout_height="-2" twitter:hint="0x7f0a04e8" twitter:scrollHorizontally="false" twitter:includeFontPadding="false" twitter:inputType="a0001" twitter:imeOptions="10000000" twitter:lengthThreshold="0" twitter:focusOnDismiss="true" />
+            </LinearLayout>
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="12sp" twitter:textColor="0x7f120064" twitter:id="0x7f13044d" twitter:paddingTop="4dp" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" />
+        </LinearLayout>
+        <View twitter:id="@bcx/divider" twitter:background="0x7f120001" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="1dp" />
+    </LinearLayout>
+    <FrameLayout twitter:id="0x7f130449" twitter:layout_width="-1" twitter:layout_height="-1">
+        <ListView twitter:id="0x7f130289" twitter:layout_width="-1" twitter:layout_height="-1" style="0x7f0d01df" />
+        <View twitter:id="0x7f13044e" twitter:background="0x7f020a95" twitter:layout_width="-1" twitter:layout_height="6dp" />
+    </FrameLayout>
+</com.twitter.android.widget.DraggableHeaderLayout>

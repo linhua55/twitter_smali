@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="0x7f13069a" android:layout_width="-1" android:layout_height="0x7f0f043b" android:contentDescription="0x7f0a082e" />
+    <com.twitter.media.ui.image.MediaImageView android:layout_gravity="31" android:id="0x7f13069b" android:paddingTop="0x7f0f043d" android:layout_width="0x7f0f043c" android:layout_height="0x7f0f043c" android:scaleType="6" />
+    <RelativeLayout android:gravity="11" android:layout_gravity="51" android:id="0x7f13069c" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f043a" android:layout_marginBottom="0x7f0f0439">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f12015d" android:id="@bcx/name" android:layout_width="-2" android:layout_height="-2" android:includeFontPadding="false" android:layout_centerVertical="true" android:lineSpacingExtra="0x7f0f0263" />
+        <ImageView android:id="0x7f13069d" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f00d3" android:src="0x7f0207d3" android:layout_toRightOf="@bcx/name" android:layout_centerVertical="true" android:contentDescription="@mx/View_android_theme" />
+    </RelativeLayout>
+</FrameLayout>

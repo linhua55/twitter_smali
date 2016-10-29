@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x106000b" android:paddingLeft="0x7f0f013d" android:paddingRight="0x7f0f013d" android:paddingBottom="0x7f0f013d" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0133" android:textStyle="1" android:textColor="0x7f120009" android:gravity="3" android:paddingBottom="0x7f0f0151" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0156" android:text="0x7f0a01ce" android:includeFontPadding="false" />
+    <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="0x7f0f011d">
+        <ImageView android:layout_gravity="3" android:orientation="1" android:paddingLeft="0x7f0f013c" android:focusable="false" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02057e" android:scaleType="6" android:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView android:ellipsize="0" android:layout_gravity="10" android:paddingLeft="0x7f0f013c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0a01d0" android:maxLines="100" android:scrollHorizontally="false" android:includeFontPadding="false" android:layout_weight="1.0" android:lineSpacingMultiplier="1.2" android:inputType="a0001" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="0x7f0f011d">
+        <ImageView android:layout_gravity="3" android:orientation="1" android:paddingLeft="0x7f0f013c" android:focusable="false" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02057c" android:scaleType="6" android:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView android:ellipsize="0" android:layout_gravity="10" android:paddingLeft="0x7f0f013c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0a01cc" android:maxLines="100" android:scrollHorizontally="false" android:includeFontPadding="false" android:layout_weight="1.0" android:lineSpacingMultiplier="1.2" android:inputType="a0001" />
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+        <ImageView android:layout_gravity="3" android:orientation="1" android:paddingLeft="0x7f0f013c" android:focusable="false" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02057d" android:scaleType="6" android:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView android:ellipsize="0" android:layout_gravity="10" android:paddingLeft="0x7f0f013c" android:layout_width="0dp" android:layout_height="-2" android:text="0x7f0a01cd" android:maxLines="100" android:scrollHorizontally="false" android:includeFontPadding="false" android:layout_weight="1.0" android:lineSpacingMultiplier="1.2" android:inputType="a0001" />
+    </LinearLayout>
+</LinearLayout>

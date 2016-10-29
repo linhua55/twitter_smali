@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:id="0x7f1303d1" android:layout_width="-1" android:layout_height="0x7f0f01f7" style="0x7f0d02de">
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f1303d5" android:layout_width="-2" android:layout_height="-1" style="0x7f0d02df" />
+    <View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0" />
+    <com.twitter.library.widget.CompoundDrawableAnimButton android:id="0x7f1303d4" android:layout_width="-2" android:layout_height="-1" android:drawableRight="0x7f020562" android:contentDescription="0x7f0a0391" style="0x7f0d01b5" />
+    <com.twitter.library.widget.CompoundDrawableAnimButton android:id="0x7f1303d3" android:layout_width="-2" android:layout_height="-1" android:drawableRight="?unknown_attr_ref: 7f01003a" android:contentDescription="0x7f0a08bb" style="0x7f0d01b5" />
+    <com.twitter.library.widget.CompoundDrawableAnimButton android:id="0x7f1303d2" android:layout_width="-2" android:layout_height="-1" android:drawableRight="0x7f020565" android:drawablePadding="0x7f0f01f9" android:contentDescription="0x7f0a08be" style="0x7f0d01b5" />
+</LinearLayout>

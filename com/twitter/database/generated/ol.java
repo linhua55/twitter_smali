@@ -1,0 +1,33 @@
+package com.twitter.database.generated;
+
+import android.database.Cursor;
+import aoa;
+import com.twitter.database.internal.a;
+import com.twitter.database.internal.f;
+import com.twitter.database.internal.l;
+import com.twitter.database.internal.m;
+import com.twitter.database.model.j;
+import com.twitter.util.object.ObjectUtils;
+
+/* compiled from: Twttr */
+final class ol extends m<Object> {
+    final /* synthetic */ oi a;
+
+    @aoa
+    public ol(oi oiVar, f fVar) {
+        this.a = oiVar;
+        super(fVar);
+    }
+
+    public final String[] a() {
+        return oi.d;
+    }
+
+    protected final <T extends l> T b() {
+        return (l) ObjectUtils.a(this.a);
+    }
+
+    protected final j<Object> a(Object obj) {
+        return new a(new ok(null), (Cursor) obj);
+    }
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true">
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="@k/title" style="0x7f0d01f2" />
+</com.twitter.internal.android.widget.GroupedRowView>

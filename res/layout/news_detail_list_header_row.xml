@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:paddingLeft="0x7f0f004d" android:paddingTop="0x7f0f004e" android:paddingBottom="0x7f0f004e" android:layout_width="-1" android:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0047" android:textStyle="1" android:textColor="0x7f1200c9" android:id="0x7f13032b" android:layout_width="-2" android:layout_height="-2" />
+    </RelativeLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

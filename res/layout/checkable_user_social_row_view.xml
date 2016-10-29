@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserSocialView android:layout_width="-1" android:layout_height="-2" style="0x7f0d0200">
+    <com.twitter.library.widget.SocialBylineView android:id="@bcx/social_byline" android:visibility="2" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02d5" />
+    <RelativeLayout android:layout_width="-1" android:layout_height="-2" android:layout_below="@bcx/social_byline">
+        <include layout="0x7f040399" />
+        <com.twitter.library.media.widget.UserImageView android:id="@bcx/user_image" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentTop="true" style="?unknown_attr_ref: 7f0100c5" />
+        <RelativeLayout android:id="0x7f1301cd" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="@bcx/user_checkbox" android:layout_toRightOf="@bcx/user_image" android:layout_alignParentTop="true">
+            <include layout="0x7f0403a1" />
+            <com.twitter.ui.widget.UnpaddedTypefacesTextView android:id="@bcx/screenname_item" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="3sp" android:layout_below="0x7f130123" style="?unknown_attr_ref: 7f0100cb" />
+        </RelativeLayout>
+        <com.twitter.ui.widget.UnpaddedTypefacesTextView android:id="@bcx/profile_description_item" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="6sp" android:layout_toRightOf="@bcx/user_image" android:layout_below="0x7f1301cd" style="?unknown_attr_ref: 7f0100c9" />
+        <include layout="0x7f0403a2" />
+    </RelativeLayout>
+</com.twitter.library.widget.UserSocialView>

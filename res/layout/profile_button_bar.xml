@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout twitter:gravity="5" twitter:layout_gravity="50" twitter:orientation="0" twitter:id="0x7f130334" twitter:paddingLeft="0x7f0f03ab" twitter:paddingTop="0x7f0f03a9" twitter:paddingRight="0x7f0f03a9" twitter:visibility="1" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305cb" twitter:visibility="1" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00d2" twitter:nodpiBaseIconName="ic_open_ads" style="0x7f0d03ce" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305cc" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00d7" twitter:nodpiBaseIconName="ic_favorite" style="0x7f0d03ce" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305cd" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00d8" style="0x7f0d0277" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305ce" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00d9" style="0x7f0d029c" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305cf" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00ec" twitter:nodpiBaseIconName="ic_alerts" style="0x7f0d03ce" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d0" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00ec" style="0x7f0d00dc" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d1" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a0391" twitter:nodpiBaseIconName="ic_follow" style="0x7f0d03be" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d2" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:nodpiBaseIconName="ic_following" style="0x7f0d03c7" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d3" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a05a6" twitter:nodpiBaseIconName="ic_pending" style="0x7f0d03ce" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d4" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a08cf" twitter:iconColor="0x7f1200cd" twitter:nodpiBaseIconName="ic_blocked" style="0x7f0d03ce" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d5" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f0386" twitter:contentDescription="0x7f0a00e7" twitter:nodpiBaseIconName="ic_accounts" style="0x7f0d03ce" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f1305d6" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a032e" style="0x7f0d03ce" />
+    </LinearLayout>
+</merge>

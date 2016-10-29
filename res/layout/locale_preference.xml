@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup android:orientation="1" android:id="0x7f130414" android:layout_width="-1" android:layout_height="-2">
+    <RadioButton android:id="0x7f130415" android:layout_width="-2" android:layout_height="-2" android:text="Use system locale" />
+    <RadioButton android:id="0x7f130416" android:layout_width="-2" android:layout_height="-2" android:text="Show TTC String IDs" />
+    <RadioButton android:id="0x7f130417" android:layout_width="-2" android:layout_height="-2" android:text="Use custom locale" />
+    <Spinner android:enabled="false" android:id="0x7f130418" android:layout_width="-1" android:layout_height="-2" />
+</RadioGroup>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:paddingLeft="10dp" android:paddingRight="10dp" android:layout_width="300dp" android:layout_height="-1">
+    <include android:layout_gravity="51" android:id="@k/message" android:layout_width="-2" android:layout_height="-2" layout="@m/ps__chat_row" />
+</FrameLayout>

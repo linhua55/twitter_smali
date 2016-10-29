@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserView twitter:id="0x7f1306c9" twitter:descendantFocusability="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:politicalDrawable="0x7f0205f1" twitter:promotedDrawable="0x7f0205f2">
+    <ViewStub twitter:id="0x7f1306ca" twitter:layout="0x7f0403a3" twitter:inflatedId="0x7f1306cb" twitter:layout_width="-1" twitter:layout_height="-2" />
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_below="0x7f1306cb" style="?unknown_attr_ref: 7f010046">
+        <include layout="0x7f0403a7" />
+    </RelativeLayout>
+</com.twitter.library.widget.UserView>

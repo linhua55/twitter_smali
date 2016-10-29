@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout custom:orientation="1" custom:layout_width="-1" custom:layout_height="-1">
+    <View custom:id="@k/line" custom:background="@h/ps__white_20" custom:layout_width="-1" custom:layout_height="1dp" custom:layout_marginTop="10dp" custom:layout_marginRight="10dp" />
+    <RelativeLayout custom:layout_width="-1" custom:layout_height="-1">
+        <FrameLayout custom:id="@k/button_container" custom:layout_width="-2" custom:layout_height="-2" custom:minWidth="74dp" custom:minHeight="0x7f0f03f8" custom:layout_alignParentRight="true" custom:layout_centerVertical="true">
+            <tv.periscope.android.view.PsImageView custom:layout_gravity="11" custom:id="@k/comment_send_container" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a71" custom:scaleType="5" custom:minWidth="0x7f0f03f8" custom:minHeight="0x7f0f03f8" custom:ps__tint="@h/ps__bg_action_bar_pressable" />
+            <ImageView custom:layout_gravity="11" custom:id="@k/cross" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a68" custom:scaleType="5" custom:minWidth="0x7f0f03f8" custom:minHeight="0x7f0f03f8" />
+        </FrameLayout>
+        <FrameLayout custom:paddingTop="10dp" custom:paddingBottom="10dp" custom:layout_width="-1" custom:layout_height="-2" custom:layout_toLeftOf="@k/button_container" custom:layout_centerVertical="true">
+            <tv.periscope.android.view.PsTextView custom:textSize="16sp" custom:textColor="@h/ps__white_low_alpha" custom:gravity="800013" custom:id="@k/chat_status" custom:padding="8dp" custom:layout_width="-1" custom:layout_height="-2" custom:minHeight="0x7f0f03ee" custom:ps__font="fonts/MuseoSans-300.otf" />
+        </FrameLayout>
+        <LinearLayout custom:orientation="0" custom:id="@k/compose_layout" custom:paddingTop="10dp" custom:paddingBottom="10dp" custom:visibility="1" custom:layout_width="-1" custom:layout_height="-2" custom:layout_toLeftOf="@k/button_container" custom:layout_alignParentLeft="true" custom:layout_centerVertical="true">
+            <tv.periscope.android.view.MaskImageView custom:id="@k/avatar" custom:layout_width="0x7f0f03ee" custom:layout_height="-1" custom:scaleType="6" custom:minHeight="0x7f0f03ee" />
+            <tv.periscope.android.view.PsEditText custom:textSize="16sp" custom:textColor="@h/ps__dark_grey" custom:textColorHint="@h/ps__light_grey" custom:gravity="800013" custom:id="@k/compose_comment" custom:background="0x7f020a49" custom:padding="8dp" custom:focusableInTouchMode="true" custom:layout_width="-1" custom:layout_height="-2" custom:minHeight="0x7f0f03ee" custom:hint="@o/ps__comment_hint" custom:ps__font="fonts/MuseoSans-300.otf" />
+        </LinearLayout>
+    </RelativeLayout>
+</LinearLayout>

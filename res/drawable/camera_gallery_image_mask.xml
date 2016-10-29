@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level-list>
+    <item android:drawable="0x7f0200cb" android:maxLevel="0" />
+    <item android:drawable="0x7f0200cc" android:maxLevel="1" />
+    <item android:drawable="0x7f0200cd" android:maxLevel="2" />
+    <item android:drawable="0x7f0200ce" android:maxLevel="3" />
+</level-list>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout custom:layout_width="-1" custom:layout_height="-1"
+    <FrameLayout custom:id="@k/preview_container" custom:layout_width="-1" custom:layout_height="-1">
+        <ViewStub custom:id="@k/fuzzy_balls_stub" custom:layout="@m/ps__fuzzy_balls_import" custom:inflatedId="@k/fuzzy_ball" custom:layout_width="-1" custom:layout_height="-1" />
+        <tv.periscope.android.view.PsTextureView custom:id="@k/preview" custom:layout_width="-1" custom:layout_height="-1" custom:soundEffectsEnabled="false" />
+        <tv.periscope.android.view.PsTopCropImageView custom:id="@k/thumb" custom:layout_width="-1" custom:layout_height="-1" />
+        <View custom:layout_gravity="30" custom:background="0x7f020a4d" custom:layout_width="-1" custom:layout_height="92dp" custom:alpha="0.5" />
+        <View custom:layout_gravity="50" custom:background="0x7f020a4f" custom:layout_width="-1" custom:layout_height="0x7f0f0400" />
+        <ViewStub custom:id="@k/scrubber_stub" custom:inflatedId="@k/scrubber" custom:layout_width="-1" custom:layout_height="-1" />
+    </FrameLayout>
+    <tv.periscope.android.view.PsLoading custom:id="@k/loading_animation" custom:visibility="2" custom:layout_width="-1" custom:layout_height="236dp" />
+    <tv.periscope.android.view.PsTextView custom:textSize="15sp" custom:textColor="@h/ps__white" custom:layout_gravity="800003" custom:id="@k/loading_text" custom:padding="0x7f0f03fe" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:ps__font="fonts/MuseoSans-500.otf" />
+    <ViewStub custom:id="@k/channel_view_stub" custom:inflatedId="@k/channel_view" custom:layout_width="-1" custom:layout_height="-1" />
+    <RelativeLayout custom:layout_gravity="800033" custom:id="@k/ended_container" custom:visibility="1" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="0x7f0f03fe" custom:layout_marginTop="12dp">
+        <tv.periscope.android.view.PsTextView custom:textSize="12sp" custom:textColor="@h/ps__white" custom:id="@k/ended_title" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginRight="3dp" custom:text="@o/ps__ended_broadcast" custom:ps__font="fonts/MuseoSans-700.otf" />
+        <tv.periscope.android.view.PsTextView custom:textSize="12sp" custom:textColor="@h/ps__white" custom:id="@k/ended_time" custom:layout_width="-2" custom:layout_height="-2" custom:layout_toRightOf="@k/ended_title" custom:ps__font="fonts/MuseoSans-300.otf" />
+    </RelativeLayout>
+    <ImageView custom:layout_gravity="800055" custom:id="@k/btn_play_icon" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a6c" style="0x7f0d045a" />
+</FrameLayout>

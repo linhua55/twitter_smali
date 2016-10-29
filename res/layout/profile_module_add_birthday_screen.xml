@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.profilecompletionmodule.addbirthday.AddBirthdayScreen android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <ScrollView android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <include android:id="@bcx/header" layout="0x7f040330" />
+            <include android:layout_width="-1" android:layout_height="-2" layout="0x7f0400d3" />
+        </LinearLayout>
+    </ScrollView>
+    <include layout="0x7f0400d9" />
+</com.twitter.android.profilecompletionmodule.addbirthday.AddBirthdayScreen>

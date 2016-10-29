@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f13001c" android:background="0x7f120085" android:layout_width="-1" android:layout_height="-1">
+    <ImageView android:layout_gravity="10" android:id="0x7f130013" android:paddingLeft="0x7f0f02d4" android:paddingRight="0x7f0f02d4" android:layout_width="-2" android:layout_height="0dp" android:src="0x7f0207c0" android:tint="0x7f12005a" android:layout_weight="8.0" android:contentDescription="0x7f0a00f9" />
+    <FrameLayout android:layout_width="-1" android:layout_height="0dp" android:layout_weight="30.0">
+        <ImageView android:id="0x7f13013e" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:contentDescription="@mx/View_android_theme" />
+        <ImageView android:id="0x7f13001a" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:contentDescription="@mx/View_android_theme" />
+        <com.facebook.drawee.view.SimpleDraweeView android:id="0x7f13013f" android:visibility="1" android:layout_width="-2" android:layout_height="-2" />
+    </FrameLayout>
+    <RelativeLayout android:layout_gravity="11" android:orientation="1" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="50.0">
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13001d" android:paddingLeft="0x7f0f0015" android:paddingRight="0x7f0f0015" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentTop="true" style="0x7f0d02ad" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13001b" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f13001d" style="0x7f0d02ab" />
+        <com.twitter.ui.widget.TwitterButton android:id="0x7f130015" android:layout_width="-2" android:layout_height="-2" android:layout_above="0x7f130014" android:layout_centerHorizontal="true" android:layout_alignWithParentIfMissing="true" style="0x7f0d03cb" />
+        <com.twitter.ui.widget.TwitterButton android:id="0x7f130014" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f03df" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" style="0x7f0d03cb" />
+    </RelativeLayout>
+    <View android:visibility="1" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="10.0" />
+</LinearLayout>

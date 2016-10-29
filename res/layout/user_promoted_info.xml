@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/extra_info" android:visibility="2" android:layout_toRightOf="@bcx/user_image" android:layout_below="@bcx/profile_description_item" style="0x7f0d03f8" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/promoted" android:visibility="2" android:layout_toRightOf="@bcx/user_image" android:layout_below="@bcx/extra_info" style="0x7f0d02a8" />
+</merge>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.android.widget.MediaPlayerView twitter:id="0x7f130442" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_centerInParent="true" />
+    <com.twitter.library.media.player.InlineVideoView twitter:id="0x7f130443" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_centerInParent="true" />
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1302e4" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_centerInParent="true" twitter:scaleType="2" />
+    <ProgressBar twitter:id="0x7f130357" twitter:layout_width="-2" twitter:layout_height="-2" twitter:indeterminate="true" twitter:layout_centerInParent="true" />
+    <View twitter:layout_gravity="77" twitter:id="0x7f130444" twitter:background="0x106000c" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:alpha="0.75" />
+    <ImageButton twitter:layout_gravity="11" twitter:id="0x7f130445" twitter:background="0x106000d" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:src="0x7f020a7c" twitter:contentDescription="0x7f0a00df" />
+    <include layout="0x7f04036a" />
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f130446" twitter:background="0x7f120060" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_alignParentBottom="true">
+        <include layout="0x7f04025f" />
+        <FrameLayout twitter:id="0x7f130133" twitter:layout_width="-1" twitter:layout_height="-2" />
+    </LinearLayout>
+</RelativeLayout>

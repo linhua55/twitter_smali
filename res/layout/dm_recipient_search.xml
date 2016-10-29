@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="36dp">
+    <View twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="1dp" />
+    <com.twitter.android.autocomplete.ListViewSuggestionEditText twitter:id="0x7f130286" twitter:layout_width="-1" twitter:layout_height="-2" twitter:drawableLeft="0x7f0208ed" twitter:lengthThreshold="0" twitter:focusOnDismiss="true" style="0x7f0d0174" />
+</LinearLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:layout_width="-2" twitter:layout_height="-2">
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f13065d" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:cardStyle="2" style="0x7f0d01a5">
+            <RadioGroup twitter:id="0x7f13065e" style="0x7f0d02ba">
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f13065f" twitter:checked="true" twitter:text="0x7f0a06e1" twitter:drawableRight="0x7f0208da" style="0x7f0d02b9" />
+                <View style="0x7f0d011b" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130660" twitter:text="0x7f0a06e4" twitter:drawableRight="0x7f0208e6" style="0x7f0d02b9" />
+                <View style="0x7f0d011b" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130661" twitter:text="0x7f0a06e6" twitter:drawableRight="0x7f0208e9" style="0x7f0d02b9" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130662" twitter:visibility="2" twitter:text="0x7f0a06e3" twitter:drawableRight="0x7f0208e3" style="0x7f0d02b9" />
+                <View twitter:id="0x7f130663" twitter:visibility="2" style="0x7f0d011b" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130664" twitter:text="0x7f0a06e0" twitter:drawableRight="0x7f0208dd" style="0x7f0d02b9" />
+                <View style="0x7f0d011b" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130665" twitter:text="0x7f0a06e2" twitter:drawableRight="0x7f0208e0" style="0x7f0d02b9" />
+            </RadioGroup>
+        </com.twitter.internal.android.widget.GroupedRowView>
+        <com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true" style="0x7f0d01a5">
+            <RadioGroup twitter:id="0x7f130666" twitter:visibility="2" style="0x7f0d02ba">
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130667" twitter:checked="true" twitter:text="0x7f0a06d9" style="0x7f0d02b9" />
+                <View style="0x7f0d011b" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f130668" twitter:text="0x7f0a06e7" style="0x7f0d02b9" />
+            </RadioGroup>
+        </com.twitter.internal.android.widget.GroupedRowView>
+        <com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true" style="0x7f0d01a5">
+            <RadioGroup twitter:id="0x7f130669" twitter:visibility="2" style="0x7f0d02ba">
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f13066a" twitter:checked="true" twitter:text="0x7f0a06da" style="0x7f0d02b9" />
+                <View style="0x7f0d011b" />
+                <com.twitter.library.widget.StyleableRadioButton twitter:id="0x7f13066b" twitter:text="0x7f0a06ee" style="0x7f0d02b9" />
+            </RadioGroup>
+        </com.twitter.internal.android.widget.GroupedRowView>
+        <Button twitter:layout_gravity="11" twitter:id="0x7f13066c" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a06df" twitter:drawableLeft="0x7f0209c9" style="0x7f0d0275" />
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f13032f" twitter:contentDescription="0x7f0a034f" twitter:defaultDrawable="0x7f12005a" style="0x7f0d0186" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f12015d" twitter:gravity="11" twitter:id="0x7f130330" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="10dp" twitter:layout_marginBottom="5dp" twitter:layout_alignBottom="0x7f13032f" twitter:layout_alignParentRight="true" />
+    </RelativeLayout>
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f130331" twitter:background="0x7f12015d" twitter:paddingLeft="0x7f0f004d" twitter:paddingRight="0x7f0f004d" twitter:paddingBottom="0x7f0f004e" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="7dp">
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130332" style="0x7f0d0191" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130333" style="0x7f0d0190" />
+    </LinearLayout>
+    <FrameLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="12dp" twitter:layout_marginBottom="22dp">
+        <com.twitter.library.widget.TwitterRelativeLayout twitter:id="0x7f130334" twitter:background="@mx/View_android_theme" twitter:layout_width="-1" twitter:layout_height="-2">
+            <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130335" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentLeft="true" twitter:nodpiBaseIconName="ic_follow" style="0x7f0d03be" />
+            <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130336" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentLeft="true" twitter:nodpiBaseIconName="ic_following" style="0x7f0d03c7" />
+        </com.twitter.library.widget.TwitterRelativeLayout>
+    </FrameLayout>
+    <View twitter:layout_width="-1" twitter:layout_height="5dp" style="0x7f0d01c7" />
+</LinearLayout>

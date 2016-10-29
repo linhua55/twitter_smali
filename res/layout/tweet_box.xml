@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout twitter:focusable="true" twitter:focusableInTouchMode="true" twitter:layout_width="0px" twitter:layout_height="0px" />
+    <com.twitter.android.autocomplete.PopupSuggestionEditText twitter:textSize="0x7f0f0045" twitter:gravity="10" twitter:id="0x7f130265" twitter:scrollbars="200" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginRight="0x7f0f004d" twitter:layout_marginBottom="0x7f0f0433" twitter:maxLines="3" twitter:inputType="2c001" twitter:imeOptions="40000004" twitter:showAsDropdown="false" twitter:showFullScreen="true" twitter:removePastedStyles="true" style="0x7f0d03e7" />
+</merge>

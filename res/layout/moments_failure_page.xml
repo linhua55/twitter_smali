@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:gravity="11" android:background="0x7f120023" android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02ea" android:textStyle="1" android:textColor="0x7f12014b" android:gravity="11" android:layout_gravity="11" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f02e4" android:layout_marginRight="0x7f0f02e4" android:text="0x7f0a052a" />
+</FrameLayout>

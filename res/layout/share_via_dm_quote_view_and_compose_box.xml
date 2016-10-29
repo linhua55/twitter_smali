@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <ScrollView android:scrollbarStyle="2000000" android:id="0x7f130683" android:visibility="2" android:layout_width="-2" android:layout_height="0dp" android:fillViewport="true" android:layout_weight="1.0">
+        <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <FrameLayout android:background="0x106000d" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" />
+            <com.twitter.library.view.QuoteView android:id="0x7f130266" android:background="0x7f120000" android:layout_width="-1" android:layout_height="-2" android:layout_margin="0x7f0f041a" />
+        </LinearLayout>
+    </ScrollView>
+    <FrameLayout android:id="0x7f130684" android:background="0x7f120000" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+        <com.twitter.android.dm.widget.ShareViaDMMessageComposer android:id="0x7f1302c8" android:layout_width="-2" android:layout_height="-2" />
+    </FrameLayout>
+</merge>

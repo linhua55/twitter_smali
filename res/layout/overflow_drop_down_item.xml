@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="0x7f120000" android:paddingLeft="14dp" android:paddingTop="12dp" android:paddingRight="14dp" android:paddingBottom="12dp" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:id="@bcx/overflow_item_icon" android:visibility="2" android:layout_width="32dp" android:layout_height="32dp" android:layout_marginRight="10dp" android:scaleType="3" android:layout_centerVertical="true" android:contentDescription="@mx/View_android_theme" />
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_toRightOf="@bcx/overflow_item_icon" android:layout_alignWithParentIfMissing="true">
+        <TextView android:textAppearance="?unknown_attr_ref: 7f0100a1" android:ellipsize="3" android:id="@bcx/overflow_item_title" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" />
+        <TextView android:textAppearance="?unknown_attr_ref: 7f0100a0" android:ellipsize="3" android:id="@bcx/overflow_item_subtitle" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:singleLine="true" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+        <FrameLayout android:layout_width="0x7f0f0005" android:layout_height="-1" style="0x7f0d0022">
+            <ProgressBar android:layout_gravity="5" android:id="0x7f130051" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="30dp" android:layout_marginRight="10dp" style="?unknown_attr_ref: 1010079" />
+            <ImageView android:layout_gravity="5" android:id="0x7f130050" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="14dp" android:layout_marginRight="10dp" android:src="0x7f0208b8" android:scaleType="5" android:contentDescription="@mx/View_android_theme" />
+        </FrameLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130052" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="0x7f0f0006" android:layout_marginTop="26dp" android:text="0x7f0a0681" android:layout_weight="12.0" style="0x7f0d0023" />
+    </LinearLayout>
+    <View android:id="0x7f13004f" android:visibility="1" android:layout_width="-1" android:layout_height="10dp" android:layout_marginTop="0x7f0f0433" android:layout_alignParentBottom="true" />
+    <View android:id="0x7f13063b" android:background="0x7f120001" android:visibility="1" android:layout_width="-1" android:layout_height="0x7f0f0001" android:layout_marginTop="0x7f0f0433" android:layout_alignParentBottom="true" />
+</merge>

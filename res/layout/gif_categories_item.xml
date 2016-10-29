@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_width="-1" twitter:layout_height="-1" twitter:aspect_ratio="1.0" twitter:scaleMode="4">
+    <com.twitter.library.media.widget.AnimatedGifView twitter:id="0x7f13038a" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleType="6" />
+    <View twitter:background="0x7f020074" twitter:layout_width="-1" twitter:layout_height="-1" />
+    <TextView twitter:textSize="16sp" twitter:textColor="0x7f12015d" twitter:layout_gravity="53" twitter:id="@bcx/name" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="16dp" twitter:layout_marginBottom="16dp" />
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

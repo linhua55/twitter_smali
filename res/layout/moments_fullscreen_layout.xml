@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.ui.widget.touchintercept.TouchInterceptingFrameLayout twitter:id="0x7f130328" twitter:layout_width="-1" twitter:layout_height="-1">
+    <View twitter:id="0x7f130480" twitter:layout_width="-1" twitter:layout_height="-1" />
+    <FrameLayout twitter:id="0x7f130481" twitter:layout_width="-1" twitter:layout_height="-1"
+        <FrameLayout twitter:id="0x7f130482" twitter:background="0x7f120023" twitter:layout_width="-1" twitter:layout_height="-1"
+            <FrameLayout twitter:id="0x7f1303e5" twitter:layout_width="-1" twitter:layout_height="-1">
+                <include layout="0x7f0401bf" />
+                <com.twitter.moments.core.ui.widget.sectionpager.SectionsView twitter:id="0x7f130483" twitter:layout_width="-1" twitter:layout_height="-1" twitter:targetViewGroup="0x7f130484" />
+                <com.twitter.android.widget.ToggleImageButton twitter:layout_gravity="800033" twitter:id="0x7f130485" twitter:padding="0x7f0f02d4" twitter:layout_width="-2" twitter:layout_height="-2" twitter:foreground="0x7f020a7f" twitter:src="0x7f0207c0" twitter:scaleType="5" />
+                <LinearLayout twitter:layout_gravity="800035" twitter:orientation="0" twitter:padding="0x7f0f02d8" twitter:layout_width="-2" twitter:layout_height="-2">
+                    <com.twitter.android.widget.ToggleImageButton twitter:enabled="false" twitter:id="0x7f1303cb" twitter:padding="0x7f0f02e4" twitter:layout_width="-2" twitter:layout_height="-2" twitter:foreground="0x7f020a7f" twitter:src="0x7f020806" twitter:scaleType="5" twitter:alpha="0.0" />
+                    <ImageButton twitter:id="0x7f13047e" twitter:background="@mx/View_android_theme" twitter:padding="0x7f0f02e4" twitter:layout_width="-2" twitter:layout_height="-2" twitter:foreground="0x7f020a7f" twitter:src="0x7f0207c8" twitter:scaleType="5" twitter:contentDescription="0x7f0a0523" />
+                    <ImageButton twitter:id="0x7f130486" twitter:background="@mx/View_android_theme" twitter:padding="0x7f0f02e4" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:foreground="0x7f020a7f" twitter:src="0x7f020835" twitter:scaleType="5" twitter:contentDescription="@mx/View_android_theme" />
+                </LinearLayout>
+            </FrameLayout>
+            <FrameLayout twitter:id="0x7f130487" twitter:background="0x7f1200d3" twitter:visibility="1" twitter:layout_width="-1" twitter:layout_height="-1" />
+            <com.twitter.android.moments.ui.DoubleTapFavoriteHud twitter:layout_gravity="11" twitter:id="0x7f130488" twitter:layout_width="0x7f0f02bf" twitter:layout_height="0x7f0f02bf" />
+            <ViewStub twitter:layout_gravity="11" twitter:id="0x7f130489" twitter:layout="0x7f040361" twitter:layout_width="-2" twitter:layout_height="-2" />
+            <fragment twitter:name="com.twitter.android.moments.ui.fullscreen.DummyFragment" twitter:id="0x7f13048a" twitter:layout_width="0dp" twitter:layout_height="0dp" />
+        </FrameLayout>
+        <include twitter:id="0x7f13048b" layout="0x7f0401e5" />
+    </FrameLayout>
+</com.twitter.ui.widget.touchintercept.TouchInterceptingFrameLayout>

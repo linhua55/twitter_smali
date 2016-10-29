@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.smartfollow.waitingforsuggestions.WaitingForSuggestionsScreen android:orientation="1" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="0x7f0f005a" android:layout_marginRight="0x7f0f005a">
+    <RelativeLayout android:id="0x7f1303e5" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="50dp">
+        <com.twitter.ui.widget.TwitterIndeterminateProgressSpinner android:id="0x7f130687" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" style="0x7f0d03ec" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textColor="0x7f120009" android:gravity="1" android:id="0x7f130688" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f004d" android:layout_marginTop="12dp" android:layout_marginRight="0x7f0f004d" android:layout_below="0x7f130687" />
+    </RelativeLayout>
+    <LinearLayout android:gravity="10" android:orientation="1" android:id="0x7f1303fd" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <View android:layout_width="-1" android:layout_height="0x7f0f001c" />
+        <include layout="0x7f04004d" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textColor="0x7f120009" android:layout_gravity="1" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0426" android:layout_marginBottom="0x7f0f0426" android:text="0x7f0a0474" />
+        <TableLayout android:layout_gravity="1" android:layout_width="-2" android:layout_height="-2">
+            <TableRow android:layout_width="-2" android:layout_height="-2">
+                <com.twitter.ui.widget.TwitterButton android:id="0x7f1303ba" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0884" style="0x7f0d03df" />
+            </TableRow>
+            <TableRow android:layout_width="-2" android:layout_height="-2">
+                <com.twitter.ui.widget.TwitterButton android:id="@bcx/skip" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f001b" android:text="0x7f0a07ef" style="0x7f0d03de" />
+            </TableRow>
+        </TableLayout>
+    </LinearLayout>
+</com.twitter.android.smartfollow.waitingforsuggestions.WaitingForSuggestionsScreen>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="0x7f0d0262">
+    <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/navigation_pill_text" style="0x7f0d0260" />
+</FrameLayout>

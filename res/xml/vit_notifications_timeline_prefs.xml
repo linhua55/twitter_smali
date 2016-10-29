@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a0952">
+        <CheckBoxPreference android:title="0x7f0a095a" android:key="quality_filter" android:summary="0x7f0a0959" android:defaultValue="true" />
+    </PreferenceCategory>
+</PreferenceScreen>

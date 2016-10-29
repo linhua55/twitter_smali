@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:layout_gravity="55" android:id="0x7f13017c" android:background="0x7f02007a" android:padding="0dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_margin="0x7f0f00d4">
+    <include layout="0x7f040043" />
+</LinearLayout>

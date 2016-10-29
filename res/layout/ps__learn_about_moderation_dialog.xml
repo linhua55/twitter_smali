@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout custom:orientation="1" custom:paddingBottom="24dp" custom:layout_width="-1" custom:layout_height="-1">
+    <ScrollView custom:id="@k/scrollView" custom:layout_width="-1" custom:layout_height="0dp" custom:layout_weight="1.0">
+        <LinearLayout custom:orientation="1" custom:padding="24dp" custom:layout_width="-1" custom:layout_height="-2">
+            <tv.periscope.android.view.PsTextView custom:textSize="16sp" custom:textColor="@h/ps__dark_grey" custom:id="@k/body" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginTop="8dp" custom:text="@o/ps__dialog_moderator_learn_more_body" custom:ps__font="fonts/MuseoSans-300.otf" />
+            <tv.periscope.android.view.PsTextView custom:textSize="10sp" custom:textColor="@h/ps__light_grey" custom:id="@k/example" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginTop="32dp" custom:text="@o/ps__dialog_moderator_learn_more_example" custom:ps__font="fonts/MuseoSans-300.otf" />
+            <LinearLayout custom:orientation="1" custom:background="0x7f020a48" custom:padding="8dp" custom:layout_width="-1" custom:layout_height="-2" custom:layout_marginTop="8dp"
+                <LinearLayout custom:orientation="0" custom:id="@k/message" custom:layout_width="-1" custom:layout_height="-2">
+                    <FrameLayout custom:background="0x7f020a52" custom:layout_width="24dp" custom:layout_height="24dp">
+                        <ImageView custom:layout_gravity="51" custom:id="@k/avatar" custom:layout_width="24dp" custom:layout_height="-2" custom:src="0x7f020a65" custom:scaleType="7" custom:alpha="0.3" />
+                    </FrameLayout>
+                    <tv.periscope.android.view.PsTextView custom:textSize="0x7f0f03ff" custom:textColor="@h/ps__light_grey" custom:gravity="10" custom:id="@k/message_moderate_body" custom:background="0x7f020a49" custom:paddingLeft="8dp" custom:paddingRight="0x7f0f03f9" custom:layout_width="-2" custom:layout_height="24dp" custom:layout_marginRight="30dp" custom:text="@o/ps__dialog_moderator_learn_more_message_body" custom:ps__font="fonts/MuseoSans-300.otf" />
+                </LinearLayout>
+                <View custom:background="@h/ps__light_grey_20" custom:layout_width="-1" custom:layout_height="1dp" custom:layout_marginTop="8dp" />
+                <LinearLayout custom:layout_gravity="50" custom:orientation="0" custom:id="@k/buttons_container" custom:layout_width="-1" custom:layout_height="-2" custom:layout_marginTop="8dp">
+                    <tv.periscope.android.view.PsButton custom:textSize="0x7f0f03ff" custom:background="0x7f020a61" custom:layout_width="0dp" custom:layout_height="36dp" custom:layout_marginRight="4dp" custom:text="@o/ps__moderator_negative" custom:layout_weight="1.0" custom:textAllCaps="false" custom:ps__font="fonts/MuseoSans-700.otf" style="0x7f0d0455" />
+                    <tv.periscope.android.view.PsButton custom:textSize="0x7f0f03ff" custom:background="0x7f020a61" custom:layout_width="0dp" custom:layout_height="36dp" custom:layout_marginLeft="4dp" custom:layout_marginRight="4dp" custom:text="@o/ps__moderator_positive" custom:layout_weight="1.0" custom:textAllCaps="false" custom:ps__font="fonts/MuseoSans-700.otf" style="0x7f0d0455" />
+                    <tv.periscope.android.view.PsButton custom:textSize="0x7f0f03ff" custom:background="0x7f020a61" custom:layout_width="0dp" custom:layout_height="36dp" custom:layout_marginLeft="4dp" custom:text="@o/ps__moderator_neutral" custom:layout_weight="1.0" custom:textAllCaps="false" custom:ps__font="fonts/MuseoSans-700.otf" style="0x7f0d0455" />
+                </LinearLayout>
+            </LinearLayout>
+            <tv.periscope.android.view.PsTextView custom:textSize="0x7f0f03ff" custom:textColor="@h/ps__light_grey" custom:gravity="11" custom:id="@k/disable" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginTop="32dp" custom:text="@o/ps__dialog_moderator_learn_more_disable" custom:ps__font="fonts/MuseoSans-300.otf" />
+        </LinearLayout>
+    </ScrollView>
+    <tv.periscope.android.view.PsButton custom:id="@k/positive" custom:layout_width="-1" custom:layout_height="-2" custom:text="@o/ps__dialog_moderator_learn_more_button" style="0x7f0d0456" />
+</LinearLayout>

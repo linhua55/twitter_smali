@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="-2">
+    <RelativeLayout android:id="0x7f1306d2" android:paddingTop="6dp" android:paddingRight="12dp" android:paddingBottom="6dp" android:layout_width="-1" android:layout_height="-2">
+        <com.twitter.ui.widget.TwitterButton android:id="0x7f130165" android:layout_width="-2" android:layout_height="-2" android:minHeight="0x7f0f00e9" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:textAllCaps="false" style="0x7f0d03ce" />
+        <com.twitter.media.ui.image.MediaImageView android:id="0x7f1306d3" android:layout_width="0x7f0f00f4" android:layout_height="0x7f0f00f4" android:layout_margin="12dp" android:scaleType="3" android:layout_alignParentLeft="true" android:layout_centerVertical="true" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f00f7" android:ellipsize="3" android:id="@k/title" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" android:layout_toLeftOf="0x7f130165" android:layout_toRightOf="0x7f1306d3" />
+        <LinearLayout android:gravity="10" android:orientation="0" android:id="0x7f13051d" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f130165" android:layout_below="@k/title" android:layout_alignLeft="@k/title"
+            <LinearLayout android:gravity="11" android:orientation="0" android:id="0x7f13068e" android:paddingTop="1dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="4dp" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f00ea" android:textColor="0x7f120064" android:id="0x7f13051f" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+        </LinearLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f00ea" android:textColor="0x7f120064" android:id="0x7f13068f" android:paddingBottom="0x7f0f0433" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0612" android:singleLine="true" android:layout_toLeftOf="0x7f130165" android:layout_below="0x7f13051d" android:layout_alignLeft="0x7f13051d" />
+    </RelativeLayout>
+</merge>

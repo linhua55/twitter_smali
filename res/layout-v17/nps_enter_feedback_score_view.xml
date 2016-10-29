@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:orientation="1" twitter:paddingBottom="0x7f0f0071" twitter:layout_width="-1" twitter:layout_height="-2">
+    <include layout="0x7f0400f5" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130544" twitter:layout_marginTop="0x7f0f0075" twitter:layout_below="0x7f130027" style="0x7f0d015a" />
+    <RelativeLayout twitter:id="0x7f130545" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f007b" twitter:layout_below="0x7f130544" twitter:layout_centerHorizontal="true">
+        <com.twitter.ui.widget.TypefacesTextView twitter:layout_marginBottom="0x7f0f007a" twitter:layout_alignLeft="0x7f130546" twitter:layout_alignStart="0x7f130546" style="0x7f0d0163" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130547" twitter:layout_marginBottom="0x7f0f007a" twitter:layout_alignRight="0x7f130546" twitter:layout_alignEnd="0x7f130546" style="0x7f0d0164" />
+        <LinearLayout twitter:id="0x7f130546" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="0x7f130547" twitter:layout_centerHorizontal="true">
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f130548" twitter:scoreValue="0" style="0x7f0d0160" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f130549" twitter:scoreValue="2" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f13054a" twitter:scoreValue="4" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f13054b" twitter:scoreValue="6" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f13054c" twitter:scoreValue="8" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f13054d" twitter:scoreValue="10" style="0x7f0d0161" />
+        </LinearLayout>
+        <LinearLayout twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0079" twitter:layout_below="0x7f130546" twitter:layout_centerHorizontal="true">
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f13054e" twitter:scoreValue="1" style="0x7f0d0160" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f13054f" twitter:scoreValue="3" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f130550" twitter:scoreValue="5" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f130551" twitter:scoreValue="7" style="0x7f0d0161" />
+            <com.twitter.android.dm.cards.dmfeedbackcard.FeedbackScoreButton twitter:id="0x7f130552" twitter:scoreValue="9" style="0x7f0d0161" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f1302b4" twitter:layout_marginTop="0x7f0f007c" twitter:layout_below="0x7f130545" style="0x7f0d0159" />
+</RelativeLayout>

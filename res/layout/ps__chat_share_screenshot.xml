@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout custom:layout_width="-1" custom:layout_height="-2" custom:layout_marginLeft="10dp" custom:layout_marginTop="8dp" custom:layout_marginRight="16dp" custom:layout_marginBottom="2dp">
+    <ImageView custom:id="@k/icon" custom:layout_width="-2" custom:layout_height="-2" custom:src="0x7f020a54" />
+    <tv.periscope.android.view.PsTextView custom:textSize="16sp" custom:textColor="@h/ps__white" custom:id="@k/text" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginLeft="10dp" custom:text="@o/ps__chat_share_screenshot_twitter" custom:layout_toRightOf="@k/icon" custom:layout_centerVertical="true" custom:ps__font="fonts/MuseoSans-300.otf" />
+</RelativeLayout>

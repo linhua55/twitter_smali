@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <Preference android:title="0x7f0a077f" android:key="notif" />
+    <Preference android:title="0x7f0a0779" android:key="notifications_timeline" />
+    <CheckBoxPreference android:persistent="false" android:title="0x7f0a07a3" android:key="sync_data" />
+    <com.twitter.android.settings.ListPreference android:persistent="false" android:entries="0x7f0b0006" android:title="0x7f0a0793" android:key="polling_interval" android:summary="%s" android:dependency="sync_data" android:defaultValue="1440" android:entryValues="0x7f0b0024" />
+    <com.twitter.android.settings.ListPreference android:persistent="false" android:entries="0x7f0b0000" android:title="0x7f0a0725" android:key="launcher_icon_badge_behavior" android:defaultValue="badge_enabled" android:entryValues="@bcs/badge_behaviors_values" />
+</PreferenceScreen>

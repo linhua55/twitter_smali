@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory twitter:title="0x7f0a0778" twitter:key="notif_pref_category">
+        <Preference twitter:persistent="false" twitter:title="0x7f0a0770" twitter:key="notif_tweets" twitter:defaultValue="false" />
+        <com.twitter.android.settings.CheckBoxListPreference twitter:persistent="false" twitter:entries="0x7f0b0003" twitter:title="0x7f0a0764" twitter:key="notif_mentions_choice" twitter:defaultValue="0" twitter:entryValues="0x7f0b0022" twitter:offValue="0" />
+        <com.twitter.android.settings.CheckBoxListPreference twitter:persistent="false" twitter:entries="0x7f0b0003" twitter:title="0x7f0a076d" twitter:key="notif_retweets_choice" twitter:defaultValue="0" twitter:entryValues="0x7f0b0022" twitter:offValue="0" />
+        <com.twitter.android.settings.CheckBoxListPreference twitter:persistent="false" twitter:entries="0x7f0b0003" twitter:title="0x7f0a0762" twitter:key="notif_favorites_choice" twitter:defaultValue="0" twitter:entryValues="0x7f0b0022" twitter:offValue="0" />
+        <Preference twitter:persistent="false" twitter:title="0x7f0a076d" twitter:key="notif_retweets" twitter:defaultValue="false" />
+        <Preference twitter:persistent="false" twitter:title="0x7f0a0762" twitter:key="notif_favorites" twitter:defaultValue="false" />
+        <com.twitter.android.settings.CheckBoxListPreference twitter:persistent="false" twitter:entries="0x7f0b0005" twitter:title="0x7f0a0769" twitter:key="notif_polls_choice" twitter:defaultValue="0" twitter:entryValues="0x7f0b0022" twitter:offValue="0" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a075c" twitter:key="notif_follows" twitter:defaultValue="false" />
+        <com.twitter.android.settings.CheckBoxListPreference twitter:persistent="false" twitter:entries="0x7f0b0023" twitter:title="0x7f0a075c" twitter:key="notif_vit_follows" twitter:defaultValue="2" twitter:entryValues="0x7f0b0022" twitter:offValue="0" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a075a" twitter:key="notif_direct_messages" twitter:defaultValue="true" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0775" twitter:key="notif_vit_notable_event" twitter:summary="0x7f0a0774" twitter:defaultValue="true" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a075f" twitter:key="notif_lifeline_alerts" twitter:summary="0x7f0a075e" twitter:defaultValue="true" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0768" twitter:key="notif_offer_redemption" twitter:summary="0x7f0a0767" twitter:defaultValue="true" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0759" twitter:key="notif_address_book" twitter:defaultValue="false" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a03de" twitter:key="notif_highlights" twitter:summary="0x7f0a075d" twitter:defaultValue="false" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0529" twitter:key="notif_moments" twitter:summary="0x7f0a0765" twitter:defaultValue="false" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a076a" twitter:key="notif_recommendations" twitter:defaultValue="false" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a0766" twitter:key="notif_news" twitter:defaultValue="false" />
+        <CheckBoxPreference twitter:persistent="false" twitter:title="0x7f0a075b" twitter:key="notif_experimental" twitter:defaultValue="false" />
+    </PreferenceCategory>
+    <PreferenceCategory twitter:title="0x7f0a0776" twitter:key="notif_pref_category">
+        <CheckBoxPreference twitter:title="0x7f0a07ad" twitter:key="vibrate" twitter:summary="0x7f0a07ac" />
+        <RingtonePreference twitter:title="0x7f0a079c" twitter:key="ringtone" twitter:summary="0x7f0a079b" twitter:ringtoneType="2" twitter:showDefault="true" twitter:showSilent="true" />
+        <CheckBoxPreference twitter:title="0x7f0a07a9" twitter:key="use_led" twitter:summary="0x7f0a07a8" />
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.composer.geotag.InlinePlacePickerView android:gravity="10" android:orientation="0" android:id="0x7f1303f8" android:layout_width="-1" android:layout_height="-2">
+    <ImageView android:layout_gravity="10" android:id="0x7f1303f9" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="3dp" android:src="0x7f0209a9" android:tint="0x7f120140" android:contentDescription="@mx/View_android_theme" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0047" android:textColor="0x7f120140" android:layout_gravity="10" android:id="0x7f1303fa" android:paddingRight="0x7f0f026b" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="6dp" android:text="0x7f0a01f2" android:singleLine="true" />
+    <android.support.v7.widget.RecyclerView android:layout_gravity="10" android:id="0x7f1303fb" android:visibility="2" android:clipToPadding="false" android:layout_width="-2" android:layout_height="-2" android:overScrollMode="2" />
+</com.twitter.android.composer.geotag.InlinePlacePickerView>

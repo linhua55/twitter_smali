@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="15" android:orientation="0" android:layout_width="-1" android:layout_height="-1" android:baselineAligned="false">
+    <com.twitter.ui.widget.TwitterButton android:layout_gravity="11" android:id="0x7f130141" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f00d5" android:text="0x7f0a0305" style="0x7f0d03c1" />
+</LinearLayout>

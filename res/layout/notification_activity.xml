@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:layout_width="-1" android:layout_height="-1">
+            <include layout="0x7f04036a" />
+            <RelativeLayout android:id="0x7f130133" android:layout_width="-1" android:layout_height="-1" android:layout_below="@bcx/toolbar" /> />
+    </com.twitter.library.widget.ToolbarWrapperLayout>
+    <include layout="0x7f04004e" />
+</android.support.design.widget.CoordinatorLayout>

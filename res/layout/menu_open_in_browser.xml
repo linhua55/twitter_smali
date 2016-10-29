@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:background="0x7f02004d" android:clickable="true" android:layout_width="-1" android:layout_height="-1" android:onClick="openBrowser">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f029d" android:textStyle="1" android:textColor="0x7f12015d" android:gravity="11" android:layout_width="0x7f0f0331" android:layout_height="-1" android:text="0x7f0a0596" />
+</LinearLayout>

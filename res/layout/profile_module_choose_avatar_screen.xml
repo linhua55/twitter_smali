@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.profilecompletionmodule.chooseavatar.ChooseAvatarScreen twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <ScrollView twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+        <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2">
+            <include twitter:id="@bcx/header" layout="0x7f040330" />
+            <FrameLayout twitter:id="0x7f130327" twitter:layout_width="0x7f0f03bb" twitter:layout_height="0x7f0f03bb" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="0x7f0f03ba" twitter:layout_marginRight="0x7f0f004d" twitter:layout_below="@bcx/header">
+                <LinearLayout twitter:orientation="1" twitter:id="0x7f1305ee" twitter:background="0x7f020a35" twitter:layout_width="-1" twitter:layout_height="-1">
+                    <ImageView twitter:layout_gravity="1" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03bd" twitter:src="0x7f02061f" twitter:maxHeight="0x7f0f03be" twitter:contentDescription="@mx/View_android_theme" />
+                    <com.twitter.ui.widget.TypefacesTextView twitter:gravity="11" twitter:layout_gravity="1" twitter:paddingLeft="0x7f0f03c0" twitter:paddingRight="0x7f0f03c0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03bf" twitter:text="0x7f0a0645" style="0x7f0d029f" />
+                </LinearLayout>
+                <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="11" twitter:id="0x7f130142" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a031b" twitter:scaleType="1" twitter:userImageSize="0x7f0f03b9" twitter:imageCornerRadius="0x7f0f03b5" />
+            </FrameLayout>
+        </RelativeLayout>
+    </ScrollView>
+    <include layout="0x7f0400d9" />
+</com.twitter.android.profilecompletionmodule.chooseavatar.ChooseAvatarScreen>

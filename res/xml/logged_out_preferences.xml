@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a0728" android:key="0x7f0a0728" android:order="100">
+        <com.twitter.android.settings.MultilineCheckBoxPreference android:title="0x7f0a0741" android:key="email_disco" android:summary="0x7f0a0740" />
+        <com.twitter.android.settings.MultilineCheckBoxPreference android:title="0x7f0a078a" android:key="phone_disco" android:summary="0x7f0a0789" />
+    </PreferenceCategory>
+    <PreferenceCategory android:title="0x7f0a0798" android:key="0x7f0a0798" android:order="200">
+        <Preference android:title="0x7f0a0798" android:key="advanced_proxy" android:summary="0x7f0a0742" />
+    </PreferenceCategory>
+</PreferenceScreen>

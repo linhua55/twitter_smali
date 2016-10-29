@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.ui.widget.TwitterButton android:textSize="0x7f0f003a" android:id="0x7f1301fd" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f0100" android:text="0x7f0a0068" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="0x7f0d03c2" />
+    <RelativeLayout android:id="0x7f13068d" android:background="0x7f020066" android:clickable="true" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="0x7f1301fd" android:layout_alignParentLeft="true" android:layout_alignParentTop="true">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f003a" android:textColor="0x7f1200b8" android:ellipsize="3" android:id="0x7f1301fe" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+        <RelativeLayout android:id="0x7f13051d" android:clickable="false" android:layout_width="-2" android:layout_height="-2" android:layout_below="0x7f1301fe" android:layout_alignLeft="0x7f1301fe">
+            <LinearLayout android:orientation="0" android:id="0x7f13068e" android:paddingTop="1dp" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="4dp" android:layout_centerVertical="true" />
+            <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0046" android:textColor="0x7f120064" android:ellipsize="3" android:id="0x7f13051f" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" android:layout_toRightOf="0x7f13068e" />
+        </RelativeLayout>
+    </RelativeLayout>
+</merge>

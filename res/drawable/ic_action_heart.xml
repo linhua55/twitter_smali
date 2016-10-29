@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item twitter:state_pressed="true" twitter:drawable="0x7f0205a7" twitter:state_toggled_on="true" />
+    <item twitter:state_focused="true" twitter:drawable="0x7f0205a6" twitter:state_toggled_on="true" />
+    <item twitter:drawable="0x7f0205a5" twitter:state_toggled_on="true" />
+    <item twitter:state_enabled="false" twitter:drawable="0x7f0205a2" />
+    <item twitter:state_pressed="true" twitter:drawable="0x7f0205a4" />
+    <item twitter:state_focused="true" twitter:drawable="0x7f0205a3" />
+    <item twitter:drawable="0x7f0205a2" />
+</selector>

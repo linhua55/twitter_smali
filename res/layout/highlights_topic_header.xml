@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.MediaImageView twitter:id="0x7f13031e" twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="0x7f0f020a">
+    <ImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:contentDescription="@mx/View_android_theme" />
+    <ImageView twitter:id="0x7f1303e6" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleType="6" twitter:contentDescription="@mx/View_android_theme" />
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_gravity="50" twitter:id="0x7f1303e7" twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="0x7f0f020b" />
+    <RelativeLayout twitter:layout_gravity="50" twitter:id="@bcx/header_content" twitter:paddingBottom="0x7f0f022c" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0233" twitter:textColor="0x7f12015d" twitter:ellipsize="3" twitter:id="0x7f1303e8" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginTop="0x7f0f022b" twitter:layout_marginRight="0x7f0f0218" twitter:layout_marginBottom="0x7f0f022d" twitter:maxLines="2" style="0x7f0d01b2" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0231" twitter:textColor="0x7f12015d" twitter:ellipsize="3" twitter:id="0x7f1301cf" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginRight="0x7f0f0218" twitter:maxLines="2" twitter:layout_below="0x7f1303e8" style="0x7f0d01b1" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0231" twitter:textStyle="1" twitter:textColor="0x7f12015d" twitter:ellipsize="3" twitter:id="0x7f1302db" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginRight="0x7f0f0218" twitter:singleLine="true" twitter:layout_below="0x7f1301cf" style="0x7f0d01b2" />
+    </RelativeLayout>
+</com.twitter.media.ui.image.MediaImageView>

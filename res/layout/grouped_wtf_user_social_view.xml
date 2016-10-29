@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.android.widget.WhoToFollowUsersView twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:divider="0x7f0209e2" twitter:showDividers="2" twitter:initial_user_count="3" />
+</com.twitter.internal.android.widget.GroupedRowView>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <CheckBoxPreference android:title="0x7f0a0756" android:key="login_verification" android:summary="0x7f0a0754" android:defaultValue="false" />
+    <PreferenceScreen android:title="0x7f0a04b1" android:key="login_verification_check_requests" android:dependency="login_verification" />
+    <PreferenceScreen android:title="0x7f0a04c7" android:key="login_verification_totp_code" android:dependency="login_verification" />
+    <PreferenceScreen android:title="0x7f0a04ba" android:key="login_verification_generate_code" android:dependency="login_verification" />
+    <PreferenceScreen android:title="0x7f0a0865" android:key="temporary_app_password" android:dependency="login_verification" /> />

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <ListView android:id="0x102000a" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" style="0x7f0d00a5" />
+    <ProgressBar android:layout_gravity="11" android:id="0x1020004" android:layout_width="-2" android:layout_height="-2" android:layout_margin="0x7f0f0433" android:indeterminate="true" style="?unknown_attr_ref: 1010079" />
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" style="0x7f0d00a5">
+        <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/new_account" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a003a" style="0x7f0d00cf" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/add_account" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a0039" style="0x7f0d00cf" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item twitter:drawable="0x7f0209a0" twitter:state_inline_action_retweet_pressed="true" />
+    <item twitter:drawable="0x7f02099f" />
+</selector>

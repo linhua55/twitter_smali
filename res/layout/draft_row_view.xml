@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:minHeight="?unknown_attr_ref: 101004d" style="0x7f0d01ed">
+    <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f120009" twitter:id="0x7f130018" twitter:layout_width="-1" twitter:layout_height="-2" twitter:maxLines="4" twitter:layout_toLeftOf="0x7f1302f8" twitter:layout_centerVertical="true" />
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1302f8" twitter:layout_width="32dp" twitter:layout_height="32dp" twitter:layout_alignParentRight="true" twitter:layout_centerVertical="true" twitter:scaleType="1" />
+    <ImageView twitter:id="0x7f1302f9" twitter:visibility="2" twitter:layout_width="32dp" twitter:layout_height="32dp" twitter:layout_alignParentRight="true" twitter:layout_centerVertical="true" twitter:contentDescription="@mx/View_android_theme" />
+</RelativeLayout>

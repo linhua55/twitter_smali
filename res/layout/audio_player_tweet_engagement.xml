@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge twitter:layout_width="-2" twitter:layout_height="-1">
+    <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="10" twitter:id="0x7f130173" twitter:padding="0x7f0f0433" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentLeft="true" twitter:userImageSize="-1" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f12015d" twitter:ellipsize="3" twitter:gravity="10" twitter:layout_gravity="3" twitter:id="0x7f130174" twitter:layout_width="-2" twitter:layout_height="-1" twitter:singleLine="true" twitter:layout_toLeftOf="0x7f130124" twitter:layout_toRightOf="0x7f130173" />
+    <include twitter:id="0x7f130124" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentRight="true" layout="0x7f04015b" />
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:cardStyle="1" twitter:ignoreParentPadding="true" twitter:hideDivider="true" twitter:hideBorder="false" twitter:gapSize="0dp">
+    <LinearLayout twitter:gravity="10" twitter:orientation="0" style="0x7f0d01ed">
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@k/title" style="0x7f0d02c8" />
+        <View twitter:layout_width="0dp" twitter:layout_height="0dp" twitter:layout_weight="1.0" />
+        <com.twitter.internal.android.widget.InterestSectionBadge twitter:id="0x7f1303ff" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d01d8" />
+        <com.twitter.library.widget.CompoundDrawableAnimButton twitter:id="0x7f130392" twitter:paddingLeft="0x7f0f025c" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="@mx/View_android_theme" />
+    </LinearLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a0a27" />
+    <Preference android:title="0x7f0a0a2b" android:key="reset" android:summary="0x7f0a0a2a" />
+    <PreferenceCategory android:title="0x7f0a0a2f" android:key="fs_values" />
+</PreferenceScreen>

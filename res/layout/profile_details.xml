@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:layout_gravity="50" twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2"
+    <LinearLayout twitter:orientation="1" twitter:paddingTop="0x7f0f03ac" twitter:paddingBottom="0x7f0f03aa" twitter:layout_width="-1" twitter:layout_height="-1"
+        <LinearLayout twitter:paddingLeft="0x7f0f03a9" twitter:paddingRight="0x7f0f03a9" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="0dp">
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textStyle="1" twitter:textColor="0x7f1200fc" twitter:id="@bcx/name" twitter:padding="0dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:includeFontPadding="false" />
+            <ImageView twitter:layout_gravity="10" twitter:id="@k/icon" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0248" twitter:contentDescription="@mx/View_android_theme" />
+            <ImageView twitter:layout_gravity="10" twitter:id="0x7f1305db" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0248" twitter:contentDescription="@mx/View_android_theme" />
+        </LinearLayout>
+        <LinearLayout twitter:paddingLeft="0x7f0f03a9" twitter:paddingRight="0x7f0f03a9" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03dc" twitter:layout_marginBottom="0dp">
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120140" twitter:id="0x7f1305dc" twitter:layout_width="-2" twitter:layout_height="-2" twitter:includeFontPadding="false" />
+            <include twitter:id="@bcx/follows_you" twitter:layout_width="-2" twitter:layout_height="-2" layout="0x7f040289" />
+        </LinearLayout>
+        <LinearLayout twitter:orientation="1" twitter:id="0x7f1305dd" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03dc">
+            <com.twitter.android.widget.ProfileHeaderSocialProofCaret twitter:layout_width="-1" twitter:layout_height="0x7f0f03ae" twitter:caretFillColor="0x7f120006" twitter:caretStrokeColor="0x7f120001" twitter:caretStrokeWidth="0x7f0f03b0" />
+            <LinearLayout twitter:background="0x7f020a38" twitter:paddingLeft="0x7f0f03a9" twitter:paddingTop="0x7f0f004e" twitter:paddingRight="0x7f0f03a9" twitter:paddingBottom="0x7f0f004e" twitter:layout_width="-1" twitter:layout_height="-2">
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120140" twitter:id="0x7f1305de" twitter:layout_width="-2" twitter:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout twitter:orientation="1" twitter:id="0x7f1305df" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03dc">
+            <com.twitter.android.widget.ProfileHeaderSocialProofCaret twitter:layout_width="-1" twitter:layout_height="0x7f0f03ae" twitter:caretFillColor="0x7f120006" twitter:caretStrokeColor="0x7f120001" twitter:caretStrokeWidth="0x7f0f03b0" />
+            <ListView twitter:id="0x7f1305e0" twitter:background="0x7f120006" twitter:layout_width="-1" twitter:layout_height="-2" twitter:divider="0x7f120001" twitter:dividerHeight="0x7f0f0001" twitter:footerDividersEnabled="true" twitter:contentDescription="0x7f0a0105" />
+        </LinearLayout>
+        <LinearLayout twitter:orientation="1" twitter:id="0x7f1305e1" twitter:paddingLeft="0x7f0f03a9" twitter:paddingRight="0x7f0f03a9" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03da" twitter:layout_marginBottom="0dp">
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120009" twitter:id="0x7f130076" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="false" twitter:includeFontPadding="false" twitter:lineSpacingExtra="0x7f0f0263" />
+            <com.twitter.internal.android.widget.FlowLayout twitter:id="0x7f1305e2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03d9" twitter:horizontalSpacing="0x7f0f03b2" twitter:verticalSpacing="0x7f0f03b1" />
+        </LinearLayout>
+        <include twitter:id="0x7f1305e3" twitter:visibility="2" layout="0x7f040051" />
+        <LinearLayout twitter:id="0x7f130438" twitter:paddingLeft="0x7f0f03d0" twitter:paddingTop="0dp" twitter:paddingRight="0x7f0f03d0" twitter:paddingBottom="0dp" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03cf" twitter:layout_marginBottom="0dp" style="0x7f0d03a6">
+            <com.twitter.android.widget.TweetStatView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:id="0x7f1304af" twitter:layout_width="-2" twitter:layout_height="-1" style="0x7f0d02a3" />
+            <com.twitter.android.widget.TweetStatView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:id="0x7f1304b0" twitter:layout_width="-2" twitter:layout_height="-1" twitter:layout_marginLeft="0x7f0f03db" style="0x7f0d02a3" />
+        </LinearLayout>
+        <include twitter:id="0x7f1305e4" twitter:visibility="2" layout="0x7f040050" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f1305e5" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d02a0" />
+    </LinearLayout>
+    <ListView twitter:id="0x7f1305e6" twitter:background="0x7f120001" twitter:paddingTop="0x7f0f0001" twitter:paddingBottom="0x7f0f0001" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" />
+    <LinearLayout twitter:orientation="0" twitter:id="0x7f1305e7" twitter:background="0x7f020a3a" twitter:padding="0x7f0f0035" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:animateLayoutChanges="true" />
+    <LinearLayout twitter:orientation="0" twitter:id="0x7f1305e8" twitter:background="0x7f020097" twitter:layout_width="-1" twitter:layout_height="8dp" /> />

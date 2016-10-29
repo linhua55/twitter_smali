@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:minHeight="?unknown_attr_ref: 101004d" style="0x7f0d01f0">
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f120064" android:id="0x7f130427" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+    <FrameLayout android:id="@bcx/action_button_accept_frame" android:paddingRight="0x7f0f004d" android:clickable="true" android:layout_width="-2" android:layout_height="-1">
+        <ImageButton android:id="@bcx/action_button_accept" android:layout_width="-2" android:layout_height="0x7f0f02a6" android:src="0x7f02057f" android:contentDescription="0x7f0a00c0" style="0x7f0d0125" />
+    </FrameLayout>
+    <FrameLayout android:id="@bcx/action_button_deny_frame" android:paddingRight="0x7f0f004d" android:clickable="true" android:layout_width="-2" android:layout_height="-1">
+        <ImageButton android:id="@bcx/action_button_deny" android:layout_width="-2" android:layout_height="0x7f0f02a6" android:src="0x7f020694" android:contentDescription="0x7f0a00d6" style="0x7f0d0125" />
+    </FrameLayout>
+</LinearLayout>

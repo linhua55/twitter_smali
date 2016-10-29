@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f1303d1" android:layout_width="-1" android:layout_height="0x7f0f01f7" style="0x7f0d02a4">
+    <com.twitter.library.widget.CompoundDrawableAnimButton android:textSize="0x7f0f03d6" android:id="0x7f1305f3" android:paddingLeft="0x7f0f0244" android:paddingRight="0x7f0f0244" android:layout_width="-1" android:layout_height="-1" android:drawableLeft="0x7f020563" android:drawablePadding="0x7f0f0380" android:contentDescription="0x7f0a0391" style="0x7f0d01b5" />
+</FrameLayout>

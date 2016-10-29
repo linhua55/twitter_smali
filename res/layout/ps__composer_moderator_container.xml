@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2">
+    <tv.periscope.android.ui.broadcast.moderator.ModeratorView android:layout_gravity="50" android:id="@k/moderator_view" android:visibility="2" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" />
+    <tv.periscope.android.ui.broadcast.ChatComposer android:layout_gravity="50" android:id="@k/compose_comment_container" android:focusableInTouchMode="true" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="10dp" android:minHeight="60dp" />
+</FrameLayout>

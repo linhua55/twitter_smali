@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+    <CheckBox android:id="0x7f130521" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="30dp" android:text="Enable Simulation" />
+    <RadioGroup android:id="0x7f130522" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="40dp">
+        <RadioButton android:id="0x7f130523" android:layout_width="-2" android:layout_height="-2" />
+    </RadioGroup>
+    <LinearLayout android:orientation="1" android:id="0x7f130524" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <TextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:text="Bandwidth Limit (kbps)" />
+        <EditText android:id="0x7f130525" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:inputType="2" />
+        <TextView android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:text="Latency (ms)" />
+        <EditText android:id="0x7f130526" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" android:inputType="2" />
+    </LinearLayout>
+</LinearLayout>

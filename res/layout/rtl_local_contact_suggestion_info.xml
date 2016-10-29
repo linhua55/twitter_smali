@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.media.ui.image.MediaImageView android:id="@k/avatar" android:layout_alignParentRight="true" style="0x7f0d0171">
+        <com.twitter.media.ui.image.RichImageView android:id="@k/image" android:layout_width="-1" android:layout_height="-1" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <FrameLayout android:id="0x7f1302d7" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true" android:layout_centerVertical="true">
+        <include layout="0x7f040343" />
+    </FrameLayout>
+    <LinearLayout android:gravity="5" android:orientation="1" android:paddingRight="0x7f0f0416" android:layout_width="-2" android:layout_height="-2" android:layout_toLeftOf="@k/avatar" android:layout_toRightOf="0x7f1302d7">
+        <include layout="0x7f0400be" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ProfileCardView android:background="0x7f020a34" android:padding="0x7f0f038b" android:layout_width="-1" android:layout_height="-2">
+    <include android:id="@bcx/header" layout="0x7f040282" />
+    <include android:layout_width="-1" android:layout_height="-2" android:layout_below="@bcx/header" layout="0x7f040285" />
+</com.twitter.library.widget.ProfileCardView>

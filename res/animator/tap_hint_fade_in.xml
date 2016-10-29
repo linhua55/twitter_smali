@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<objectAnimator android:interpolator="0x7f050027" android:duration="0x7f100041" android:valueFrom="0.0f" android:valueTo="0x7f0f0441" android:propertyName="alpha" />

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-2" android:layout_height="-2">
+    <RadioGroup android:orientation="1" android:id="0x7f130339" android:layout_width="-1" android:layout_height="-1">
+        <RadioButton android:id="0x7f13033a" android:layout_width="-2" android:layout_height="-2" android:text="Enable Production" />
+        <RadioButton android:id="0x7f13033b" android:layout_width="-2" android:layout_height="-2" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13033c" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="40dp" />
+        <EditText android:enabled="false" android:id="0x7f13033d" android:layout_width="-1" android:layout_height="-1" android:layout_marginLeft="40dp" android:inputType="11" />
+    </RadioGroup>
+    <LinearLayout android:gravity="1" android:orientation="1" android:id="0x7f13033e" android:visibility="2" android:layout_width="-1" android:layout_height="-1">
+        <com.twitter.ui.widget.TypefacesTextView android:layout_width="-2" android:layout_height="-2" android:text="Validating..." />
+        <ProgressBar android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" style="@*style/Widget.ProgressBar.Small" />
+    </LinearLayout>
+</FrameLayout>

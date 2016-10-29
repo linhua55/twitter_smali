@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.smartfollow.interestpicker.InterestPickerScreen app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+    <include layout="0x7f04004d" />
+    <include app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0" layout="0x7f040160" />
+    <RelativeLayout app:id="0x7f13042f" app:padding="10dp" app:layout_width="-1" app:layout_height="-2">
+        <com.twitter.ui.widget.TwitterButton app:id="@bcx/skip" app:layout_width="-2" app:layout_height="-2" app:text="0x7f0a07e3" app:layout_alignParentLeft="true" app:labelMargin="0dp" style="0x7f0d03cf" />
+        <com.twitter.ui.widget.TwitterButton app:enabled="false" app:id="0x7f130189" app:layout_width="-2" app:layout_height="-2" app:text="0x7f0a0210" app:layout_alignParentRight="true" style="0x7f0d03c7" />
+    </RelativeLayout>
+</com.twitter.android.smartfollow.interestpicker.InterestPickerScreen>

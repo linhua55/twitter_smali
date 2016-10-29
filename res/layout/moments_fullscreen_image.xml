@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@mx/View_android_theme" android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.media.ui.image.MediaImageView android:id="0x7f13047f" android:layout_width="-1" android:layout_height="-1">
+        <com.twitter.moments.core.ui.widget.capsule.DrawableAwareImageView android:id="@k/image" android:layout_width="-1" android:layout_height="-1" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <include layout="0x7f0401db" />
+</FrameLayout>

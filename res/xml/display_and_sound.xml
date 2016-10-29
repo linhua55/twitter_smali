@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <Preference android:selectable="false" android:summary="0x7f0a0747" />
+    <CheckBoxPreference android:title="0x7f0a079f" android:key="sound_effects" android:defaultValue="true" />
+    <com.twitter.android.settings.ListPreference android:entries="0x7f0b0011" android:title="0x7f0a0746" android:key="font_size" android:summary="%s" android:defaultValue="0x7f0a09aa" android:entryValues="0x7f0b0012" />
+    <CheckBoxPreference android:title="0x7f0a079a" android:key="readability_mode" android:summary="0x7f0a0799" android:defaultValue="true" />
+    <CheckBoxPreference android:title="0x7f0a074e" android:key="in_app_browser" android:summary="0x7f0a074f" android:defaultValue="true" />
+    <Preference android:title="0x7f0a071a" android:key="pref_accessibility" />
+</PreferenceScreen>

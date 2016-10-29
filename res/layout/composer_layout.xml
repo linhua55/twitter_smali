@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <include android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0" layout="0x7f040085" />
+        <ViewStub android:id="0x7f130276" android:layout="?unknown_attr_ref: 7f010014" android:layout_width="-1" android:layout_height="56dp" android:layout_weight="0.0" />
+    </LinearLayout>
+    <com.twitter.android.widget.RevealClipFrameLayout android:id="0x7f130284" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+</android.support.design.widget.CoordinatorLayout>

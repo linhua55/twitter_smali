@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.nativecards.CardPreviewView android:id="0x7f1301ba" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f00fb" android:layout_marginTop="0x7f0f00fb" android:layout_marginRight="0x7f0f00fb" android:layout_marginBottom="0x7f0f00fb">
+    <com.twitter.android.nativecards.CardPreviewContainer android:id="0x7f1301bb" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:layout_gravity="35" android:id="0x7f1301bc" android:background="0x7f0200da" android:layout_width="0x7f0f00fd" android:layout_height="0x7f0f00fd" android:layout_marginLeft="0x7f0f00fc" android:layout_marginTop="0x7f0f00fc" android:layout_marginRight="0x7f0f00fc" android:layout_marginBottom="0x7f0f00fc" android:src="0x7f020640" android:contentDescription="@mx/View_android_theme" />
+    </com.twitter.android.nativecards.CardPreviewContainer>
+    <com.twitter.android.nativecards.CardPreviewContainer android:id="0x7f1301bd" android:visibility="2" android:layout_width="-1" android:layout_height="-2">
+        <ImageView android:layout_gravity="35" android:background="0x7f0200da" android:layout_width="0x7f0f00fd" android:layout_height="0x7f0f00fd" android:layout_marginLeft="0x7f0f00fc" android:layout_marginTop="0x7f0f00fc" android:layout_marginRight="0x7f0f00fc" android:layout_marginBottom="0x7f0f00fc" android:src="0x7f020640" android:contentDescription="@mx/View_android_theme" />
+    </com.twitter.android.nativecards.CardPreviewContainer>
+</com.twitter.android.nativecards.CardPreviewView>

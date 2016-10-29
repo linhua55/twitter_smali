@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider android:minWidth="250dp" android:minHeight="110dp" android:updatePeriodMillis="0" android:initialLayout="0x7f0403cb" android:configure="com.twitter.android.WidgetSettingsActivity" android:resizeMode="2" />

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.HighlightedRelativeLayout twitter:background="0x7f0209e7" twitter:descendantFocusability="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d020e">
+    <ImageView twitter:id="0x7f1302d1" twitter:layout_width="16dp" twitter:layout_height="16dp" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginRight="0x7f0f004d" twitter:tint="0x7f120001" twitter:layout_below="0x7f1302cf" twitter:layout_alignParentLeft="true" twitter:contentDescription="@mx/View_android_theme" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textColor="0x7f120140" twitter:id="0x7f1302cf" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f01ac" twitter:layout_marginRight="0x7f0f004d" twitter:layout_alignParentLeft="true" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:gravity="5" twitter:id="@k/preview" twitter:paddingLeft="0x7f0f02a3" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="0x7f13028a" twitter:layout_toRightOf="0x7f1302d1" twitter:layout_below="0x7f1302ce" style="0x7f0d0170" />
+    <RelativeLayout twitter:id="0x7f1302ce" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f01ac" twitter:layout_toLeftOf="0x7f13028a" twitter:layout_toRightOf="0x7f1302cf" twitter:layout_alignParentTop="true">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:layout_gravity="10" twitter:id="@bcx/name" twitter:paddingRight="5dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_alignParentRight="true" twitter:lineSpacingExtra="0x7f0f0263" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120140" twitter:ellipsize="3" twitter:layout_gravity="10" twitter:id="@k/username" twitter:paddingRight="5dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_toLeftOf="@bcx/name" twitter:lineSpacingExtra="0x7f0f0263" />
+    </RelativeLayout>
+    <com.twitter.android.widget.DMAvatar twitter:id="0x7f13028a" twitter:layout_alignParentRight="true" twitter:dmImageSize="0x7f0f0052" style="0x7f0d016e" />
+</com.twitter.internal.android.widget.HighlightedRelativeLayout>

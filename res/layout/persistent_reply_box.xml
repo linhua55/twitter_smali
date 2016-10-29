@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:background="0x7f120000" twitter:layout_width="-1" twitter:layout_height="-2" twitter:baselineAligned="false">
+    <com.twitter.android.media.widget.InlineComposerMediaLayout twitter:layout_gravity="3" twitter:id="0x7f130450" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_marginLeft="0x7f0f0175" twitter:layout_marginTop="0x7f0f0254" twitter:layout_marginRight="0x7f0f0175" twitter:layout_weight="1.0" twitter:inlineComposerMediaMaxHeight="0x7f0f0255">
+        <com.twitter.android.media.widget.InlineComposerMediaScrollView twitter:layout_gravity="31" twitter:id="0x7f130451" twitter:layout_width="-1" twitter:layout_height="-1">
+            <com.twitter.android.media.widget.AttachmentMediaView twitter:layout_gravity="1" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleMode="4" twitter:scaleType="1" />
+        </com.twitter.android.media.widget.InlineComposerMediaScrollView>
+        <com.twitter.android.widget.FoundMediaAttributionView twitter:layout_gravity="53" twitter:id="0x7f130268" twitter:background="@mx/View_android_theme" twitter:paddingTop="0x7f0f0252" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" />
+    </com.twitter.android.media.widget.InlineComposerMediaLayout>
+    <com.twitter.android.composer.TweetBox twitter:id="0x7f130263" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="8dp">
+        <include layout="0x7f040384" />
+    </com.twitter.android.composer.TweetBox>
+    <FrameLayout twitter:id="0x7f130581" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2">
+        <LinearLayout twitter:layout_gravity="13" twitter:id="0x7f130582" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0433">
+            <ImageView twitter:id="0x7f130583" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f02011f" twitter:contentDescription="0x7f0a00cb" />
+            <ImageView twitter:id="0x7f130454" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="27dp" twitter:src="0x7f020121" twitter:contentDescription="0x7f0a00c7" />
+        </LinearLayout>
+        <include twitter:layout_gravity="15" twitter:layout_width="-2" twitter:layout_height="-2" layout="0x7f040091" />
+    </FrameLayout>
+    <include twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0308" layout="0x7f040348" />
+</LinearLayout>

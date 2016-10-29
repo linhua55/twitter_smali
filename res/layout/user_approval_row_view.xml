@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserApprovalView twitter:descendantFocusability="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:politicalDrawable="0x7f0205f1" twitter:promotedDrawable="0x7f0205f2" style="0x7f0d01ed">
+    <include layout="0x7f040398" />
+</com.twitter.library.widget.UserApprovalView>

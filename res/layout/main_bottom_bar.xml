@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="0x7f13042f" android:background="0x7f020064" android:layout_width="-1" android:layout_height="0x7f0f02f9">
+    <LinearLayout android:id="0x7f130430" android:layout_width="-1" android:layout_height="-1" android:baselineAligned="false" android:minHeight="0x7f0f02f9"
+        <LinearLayout android:gravity="1" android:id="0x7f130431" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <ImageView android:layout_gravity="10" android:background="@mx/View_android_theme" android:layout_width="-2" android:layout_height="-1" android:src="0x7f0206b8" android:contentDescription="0x7f0a00d1" />
+        </LinearLayout>
+        <View android:layout_gravity="10" android:id="@bcx/divider" android:background="0x7f120085" android:layout_width="1dp" android:layout_height="0x7f0f02f8" />
+        <LinearLayout android:gravity="1" android:id="0x7f130432" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <ImageView android:layout_gravity="10" android:background="@mx/View_android_theme" android:layout_width="-2" android:layout_height="-1" android:src="0x7f0206b1" android:contentDescription="0x7f0a00c1" />
+        </LinearLayout>
+        <View android:layout_gravity="10" android:background="0x7f120085" android:layout_width="1dp" android:layout_height="0x7f0f02f8" />
+        <LinearLayout android:gravity="1" android:id="0x7f130433" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="1.0">
+            <ImageView android:layout_gravity="10" android:background="@mx/View_android_theme" android:layout_width="-2" android:layout_height="-1" android:src="0x7f0206b7" android:contentDescription="0x7f0a00cb" />
+        </LinearLayout>
+    </LinearLayout>
+    <include android:id="0x7f13041d" android:visibility="2" layout="0x7f04017d" />
+</FrameLayout>

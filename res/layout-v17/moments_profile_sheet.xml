@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout style="0x7f0d021f">
+    <LinearLayout twitter:gravity="800013" twitter:orientation="1" twitter:id="0x7f1304aa" twitter:layout_width="-1" twitter:layout_height="-2">
+        <include twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0dp" twitter:layout_marginBottom="0dp" twitter:layout_marginStart="0dp" layout="0x7f0401e6" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f02ea" twitter:id="0x7f1304ab" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02d4" style="0x7f0d0041" />
+        <LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:id="0x7f1304ac" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02d4">
+            <ImageView twitter:id="0x7f1304ad" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="4dp" twitter:src="0x7f0208a3" twitter:contentDescription="@mx/View_android_theme" twitter:layout_marginEnd="4dp" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f02ea" twitter:id="0x7f1304ae" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d0041" />
+        </LinearLayout>
+        <LinearLayout twitter:orientation="0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02d4">
+            <com.twitter.android.widget.TweetStatView twitter:id="0x7f1304af" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:nameTextColor="0x7f12015d" twitter:valueTextColor="0x7f12015d" />
+            <com.twitter.android.widget.TweetStatView twitter:id="0x7f1304b0" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f02d4" twitter:layout_marginStart="4dp" twitter:nameTextColor="0x7f12015d" twitter:valueTextColor="0x7f12015d" />
+        </LinearLayout>
+        <FrameLayout twitter:gravity="10" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f02d4">
+            <com.twitter.ui.widget.ToggleTwitterButton twitter:layout_gravity="800003" twitter:id="0x7f13047a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a0391" twitter:styleIdOn="0x7f0d03da" twitter:styleIdOff="0x7f0d03db" twitter:nodpiBaseIconName="ic_follow" style="0x7f0d03db" />
+            <ImageButton twitter:layout_gravity="800005" twitter:id="@bcx/overflow" twitter:background="0x7f020a7f" twitter:layout_width="0x7f0f02da" twitter:layout_height="0x7f0f02da" twitter:src="0x7f0207ce" twitter:scaleType="5" twitter:contentDescription="@mx/View_android_theme" />
+        </FrameLayout>
+    </LinearLayout>
+    <include twitter:visibility="2" layout="0x7f0401dc" />
+</FrameLayout>

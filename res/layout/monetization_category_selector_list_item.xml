@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.av.monetization.MonetizationCategorySelectorListItemView android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+    <LinearLayout android:layout_gravity="10" android:orientation="0" android:background="?unknown_attr_ref: 101030e" android:padding="16dp" android:layout_width="-1" android:layout_height="-2">
+        <TextView android:textSize="16sp" android:textColor="0x7f120023" android:id="0x7f1304bb" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+        <CheckBox android:id="0x7f1304bc" android:background="@mx/View_android_theme" android:clickable="false" android:layout_width="-2" android:layout_height="-2" />
+    </LinearLayout>
+    <View android:background="0x7f120089" android:layout_width="-1" android:layout_height="1dp" />
+</com.twitter.android.av.monetization.MonetizationCategorySelectorListItemView>

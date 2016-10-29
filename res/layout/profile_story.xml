@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <RelativeLayout android:layout_width="-1" android:layout_height="0dp" android:layout_marginBottom="0x7f0f01f7" android:layout_weight="1.0">
+        <ListView android:id="0x7f130069" android:layout_width="-1" android:layout_height="-2" android:listSelector="0x7f120041" android:divider="0x7f120085" android:dividerHeight="0x7f0f0001" android:headerDividersEnabled="true" android:footerDividersEnabled="true" style="0x7f0d02b5" />
+        <include layout="0x7f04013b" />
+    </RelativeLayout>
+</merge>

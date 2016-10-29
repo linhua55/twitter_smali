@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:minHeight="?unknown_attr_ref: 101004d" style="0x7f0d01ed">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f004a" android:gravity="11" android:id="0x7f13018a" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0" />
+</LinearLayout>

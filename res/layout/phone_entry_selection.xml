@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.internal.android.widget.PopupEditText android:textSize="0x7f0f0482" android:id="0x7f130585" android:hint="0x7f0a05ca" android:drawableLeft="0x7f020a1b" android:drawableRight="0x7f020925" android:inputType="3" android:imeOptions="5" android:labelText="0x7f0a05dc" android:underlineStyle="0x7f0d03eb" style="0x7f0d03ee" />
+    <com.twitter.ui.widget.TwitterSelection android:id="0x7f130587" android:layout_width="0x7f0f0337" android:layout_height="-2" android:layout_alignBaseline="0x7f130585" android:dialogTheme="0x7f0d0152">
+        <com.twitter.ui.widget.TwitterEditText android:textSize="0x7f0f0482" android:duplicateParentState="true" android:layout_width="-2" android:layout_height="-2" android:drawableRight="0x7f020727" style="0x7f0d03e5" />
+    </com.twitter.ui.widget.TwitterSelection>
+</RelativeLayout>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <RelativeLayout android:layout_width="-1" android:layout_height="0dp" android:layout_marginBottom="0x7f0f01f7" android:layout_weight="1.0">
+        <com.twitter.library.widget.ObservableScrollView android:id="0x7f1303d6" android:layout_width="-1" android:layout_height="-2" android:layout_centerInParent="true" style="0x7f0d02b5">
+            <RelativeLayout android:padding="0x7f0f0218" android:layout_width="-1" android:layout_height="-2">
+                <include layout="0x7f040152" />
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0237" android:gravity="800003" android:id="0x7f1303bb" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f0234" android:layout_below="0x7f130054" android:lineSpacingMultiplier="0x7f0f022a" style="0x7f0d01b1" />
+            </RelativeLayout>
+        </com.twitter.library.widget.ObservableScrollView>
+        <include layout="0x7f04013b" />
+    </RelativeLayout>
+</merge>

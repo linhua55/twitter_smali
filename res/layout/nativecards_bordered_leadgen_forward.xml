@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.android.revenue.card.CardMediaView twitter:id="0x7f130494" twitter:layout_width="-1" twitter:layout_height="-2" twitter:radiusTopLeft="0x7f0f0102" twitter:radiusTopRight="0x7f0f0102" />
+        <LinearLayout twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f010a" twitter:layout_marginRight="0x7f0f0101">
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:layout_gravity="10" twitter:id="0x7f1301fe" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_marginTop="12dp" twitter:layout_marginBottom="12dp" twitter:maxLines="2" twitter:layout_weight="1.0" />
+            <com.twitter.ui.widget.TwitterButton twitter:textSize="0x7f0f0039" twitter:layout_gravity="10" twitter:id="0x7f1301fd" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="4dp" twitter:layout_marginTop="0x7f0f0109" twitter:layout_marginBottom="0x7f0f0109" twitter:text="0x7f0a024c" style="0x7f0d03d3" />
+        </LinearLayout>
+    </LinearLayout>
+    <FrameLayout twitter:id="0x7f1304c6" twitter:background="0x7f120041" twitter:layout_width="-1" twitter:layout_height="-1" /> />

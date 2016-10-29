@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <FrameLayout android:id="0x7f130593" android:layout_width="-1" android:layout_height="-1">
+        <com.twitter.ui.view.ResizeOnRotateViewPager android:id="0x7f130349" android:layout_width="-1" android:layout_height="-1" />
+    </FrameLayout>
+    <com.twitter.library.widget.SlidingPanel twitter:id="0x7f1302c1" twitter:fitsSystemWindows="true" twitter:layout_width="-1" twitter:layout_height="-1" twitter:panelHeaderLayoutId="0x7f04019f" twitter:panelContentLayoutId="0x7f04019e">
+        <FrameLayout twitter:id="0x7f130594" twitter:layout_width="-1" twitter:layout_height="-1">
+            <RelativeLayout twitter:id="0x7f130595" twitter:layout_width="-1" twitter:layout_height="-1">
+                <com.twitter.android.av.GalleryVideoChromeView twitter:id="0x7f130495" twitter:visibility="1" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_above="0x7f130596" />
+                <LinearLayout twitter:orientation="1" twitter:id="0x7f130596" twitter:background="0x7f120060" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_alignParentBottom="true">
+                    <include layout="0x7f04025f" />
+                    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f1200b3" twitter:id="0x7f130597" twitter:layout_width="-2" twitter:layout_height="-2" />
+                    <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130598" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="10dp" twitter:layout_marginTop="8dp" twitter:layout_marginRight="10dp" twitter:text="0x7f0a00bc" style="0x7f0d03cc" />
+                    <FrameLayout twitter:id="0x7f130133" twitter:layout_width="-1" twitter:layout_height="-2" />
+                </LinearLayout>
+            </RelativeLayout>
+            <include layout="0x7f04036a" />
+        </FrameLayout>
+    </com.twitter.library.widget.SlidingPanel>
+</merge>

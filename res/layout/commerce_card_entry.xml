@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-2" android:layout_height="-2">
+    <FrameLayout android:id="0x7f1301d0" android:layout_width="-2" android:layout_height="-2" android:layout_alignParentLeft="true">
+        <com.twitter.android.commerce.widget.creditcard.CardNumber android:id="0x7f1301d1" android:paddingLeft="0dp" android:paddingRight="4dp" android:visibility="0" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="4dp" android:textCursorDrawable="@mx/View_android_theme" style="0x7f0d0148" />
+        <com.twitter.ui.widget.TypefacesTextView android:layout_gravity="10" android:id="0x7f1301d2" android:paddingLeft="0dp" android:paddingRight="4dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="4dp" android:text="0008" android:textCursorDrawable="@mx/View_android_theme" style="0x7f0d0148" />
+    </FrameLayout>
+    <com.twitter.android.commerce.widget.creditcard.CardExpiration android:id="0x7f1301d3" android:paddingRight="6dp" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f1301d0" android:textCursorDrawable="@mx/View_android_theme" style="0x7f0d0148" />
+    <com.twitter.android.commerce.widget.creditcard.CardCCV android:id="0x7f1301d4" android:paddingRight="7dp" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f1301d3" android:textCursorDrawable="@mx/View_android_theme" style="0x7f0d0148" />
+    <com.twitter.android.commerce.widget.creditcard.InternationalCardZip android:id="0x7f1301d5" android:visibility="1" android:layout_width="-2" android:layout_height="-2" android:layout_toRightOf="0x7f1301d4" android:textCursorDrawable="@mx/View_android_theme" style="0x7f0d0148" />
+    <View android:visibility="1" android:layout_width="1000dp" android:layout_height="10dp" android:layout_toRightOf="0x7f1301d5" />
+</RelativeLayout>

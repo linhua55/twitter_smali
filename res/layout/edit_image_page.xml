@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.android.media.stickers.StickerFilteredImageView android:id="0x7f13031b" android:clipChildren="false" android:layout_width="-1" android:layout_height="-1" />
+    <com.twitter.android.media.imageeditor.CropMediaImageView android:id="0x7f13031c" android:visibility="1" android:layout_width="-1" android:layout_height="-1" android:layout_marginBottom="0x7f0f01da" />
+    <com.twitter.android.media.imageeditor.stickers.StickerSelectorView android:id="0x7f13031d" android:background="0x7f12014c" android:paddingTop="0x7f0f01cc" android:visibility="2" android:layout_width="-1" android:layout_height="-1" />
+</FrameLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="13" twitter:orientation="0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_weight="1.0">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="@bcx/player" twitter:layout_width="0x7f0f040b" twitter:layout_height="0x7f0f040b" twitter:scaleType="1" twitter:singleImageView="true">
+        <com.twitter.android.events.sports.cricket.BezelImageView twitter:layout_gravity="11" twitter:id="@k/image" twitter:layout_width="0x7f0f0357" twitter:layout_height="0x7f0f0356" twitter:maskDrawable="0x7f0200e4" twitter:borderDrawable="0x7f0200e1" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <com.twitter.ui.widget.TypefacesTextView twitter:ellipsize="3" twitter:id="0x7f130293" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_weight="1.0" style="0x7f0d0153" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130294" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" style="0x7f0d0155" />
+</LinearLayout>

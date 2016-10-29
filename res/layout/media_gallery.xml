@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.businessprofiles.gallery.MediaGalleryView android:paddingTop="0x7f0f028b" android:paddingBottom="0x7f0f028b" android:layout_width="-1" android:layout_height="-2">
+    <android.support.v7.widget.RecyclerView android:id="0x7f13043d" android:paddingLeft="0x7f0f028a" android:paddingRight="0x7f0f028a" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" android:minHeight="0x7f0f029b" />
+</com.twitter.android.businessprofiles.gallery.MediaGalleryView>

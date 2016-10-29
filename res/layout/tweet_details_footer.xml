@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 101004d">
+    <ProgressBar android:id="@bcx/footer_progress_bar" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" style="?unknown_attr_ref: 1010079" />
+</RelativeLayout>

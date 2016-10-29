@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="10" android:orientation="1" android:background="0x7f12015d" android:padding="0x7f0f035a" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false" android:weightSum="2.0">
+        <FrameLayout android:layout_gravity="10" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <com.twitter.android.events.sports.cricket.PlayerItemViewLeft android:id="0x7f13028f" android:background="0x7f02012a" android:clickable="true" android:layout_width="-2" android:layout_height="-2" />
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="10" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <com.twitter.android.events.sports.cricket.PlayerItemViewRight android:layout_gravity="10" android:id="0x7f130290" android:background="0x7f02012a" android:clickable="true" android:layout_width="-2" android:layout_height="-2" />
+        </FrameLayout>
+    </LinearLayout>
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:baselineAligned="false" android:weightSum="2.0">
+        <FrameLayout android:layout_gravity="10" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <com.twitter.android.events.sports.cricket.PlayerItemViewLeft android:id="0x7f130291" android:background="0x7f02012a" android:clickable="true" android:layout_width="-2" android:layout_height="-2" />
+        </FrameLayout>
+        <FrameLayout android:layout_gravity="10" android:layout_width="0dp" android:layout_height="-2" android:layout_weight="1.0">
+            <com.twitter.android.events.sports.cricket.PlayerItemViewRight android:layout_gravity="10" android:id="0x7f130292" android:background="0x7f02012a" android:clickable="true" android:layout_width="-2" android:layout_height="-2" />
+        </FrameLayout>
+    </LinearLayout>
+</LinearLayout>

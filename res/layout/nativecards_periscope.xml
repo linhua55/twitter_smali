@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:id="0x7f13036d" twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="1.0" />
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:id="0x7f1304f6" twitter:background="0x7f1200ef" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="1.0">
+        <ImageView twitter:layout_width="-1" twitter:layout_height="-1" twitter:src="0x7f020a18" twitter:contentDescription="0x7f0a05af" twitter:alpha="0.35" />
+        <ImageView twitter:layout_gravity="31" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="50dp" twitter:src="0x7f020a17" twitter:contentDescription="0x7f0a05af" />
+        <TextView twitter:textSize="0x7f0f0044" twitter:textColor="0x7f1200c9" twitter:gravity="11" twitter:layout_gravity="11" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="30dp" twitter:layout_marginRight="30dp" twitter:text="0x7f0a00ba" twitter:lineSpacingMultiplier="1.25" />
+        <LinearLayout twitter:layout_gravity="51" twitter:id="0x7f1304f7" twitter:background="0x7f020a13" twitter:padding="5dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginBottom="50dp">
+            <ImageView twitter:layout_gravity="10" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020985" twitter:tint="0x7f1200c9" twitter:contentDescription="0x7f0a05b1" />
+            <TextView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:textColor="0x7f1200c9" twitter:layout_gravity="10" twitter:id="0x7f1304f8" twitter:paddingLeft="5dp" twitter:paddingRight="5dp" twitter:layout_width="-2" twitter:layout_height="-2" />
+        </LinearLayout>
+    </com.twitter.media.ui.image.AspectRatioFrameLayout>
+    <TextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f1200c9" twitter:gravity="1" twitter:id="0x7f1304f9" twitter:background="0x7f020a16" twitter:padding="16dp" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:text="0x7f0a00ba" />
+</FrameLayout>

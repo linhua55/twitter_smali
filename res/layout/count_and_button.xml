@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="5" android:orientation="0" android:layout_width="-2" android:layout_height="-2">
+    <com.twitter.android.composer.ComposerCountView android:layout_gravity="15" android:id="0x7f13027b" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f0433" android:text="0x7f0a09e7" style="0x7f0d0391" />
+    <View android:id="@bcx/divider" android:background="0x7f12001b" android:layout_width="1dp" android:layout_height="-1" android:layout_marginLeft="0x7f0f0433" android:layout_marginTop="10dp" android:layout_marginBottom="10dp" />
+    <Button android:enabled="false" android:textSize="0x7f0f0046" android:textStyle="1" android:textColor="0x7f120172" android:id="0x7f13028b" android:background="@mx/View_android_theme" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0629" />
+</LinearLayout>

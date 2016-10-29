@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <PreferenceCategory android:title="0x7f0a07b5" android:order="1">
+        <com.twitter.android.widget.RadioButtonPreference android:persistent="false" android:title="0x7f0a03f3" android:key="widget_content_tweets" android:defaultValue="true" />
+        <com.twitter.android.widget.RadioButtonPreference android:persistent="false" android:title="0x7f0a03f2" android:key="widget_content_mentions" android:defaultValue="false" />
+    </PreferenceCategory>
+</PreferenceScreen>

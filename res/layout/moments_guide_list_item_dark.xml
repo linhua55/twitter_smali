@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:background="0x7f020a80" android:layout_width="-1" android:layout_height="-1" style="0x7f0d01ed">
+    <include android:id="0x7f130497" layout="0x7f0401d6" />
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:layout_marginRight="0x7f0f02e4">
+        <include layout="0x7f0401b0" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13046c" android:layout_width="-2" android:layout_height="-2" style="0x7f0d022f" />
+        <LinearLayout android:gravity="10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+            <com.twitter.android.moments.ui.guide.KnockoutTextView android:id="0x7f130475" style="0x7f0d022c" />
+            <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13046e" android:layout_width="-2" android:layout_height="-2" style="0x7f0d0233" />
+            <com.twitter.ui.widget.BadgeView android:id="0x7f130498" style="0x7f0d00eb" />
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:id="0x7f1301f9" twitter:layout_width="-1" twitter:layout_height="-1">
+    <ViewStub twitter:id="0x7f1304e4" twitter:layout_width="-1" twitter:layout_height="-2" />
+    <RelativeLayout twitter:id="0x7f1304e5" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0100" twitter:layout_marginBottom="0x7f0f0100">
+        <FrameLayout twitter:orientation="1" twitter:id="0x7f1304e6" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f0100" twitter:layout_alignParentLeft="true" twitter:layout_alignParentTop="true">
+            <com.twitter.ui.widget.TwitterButton twitter:textSize="0x7f0f003a" twitter:id="0x7f1304e7" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d03c7" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f003a" twitter:gravity="11" twitter:id="0x7f1304e8" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:text="0x7f0a0425" />
+        </FrameLayout>
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f120064" twitter:ellipsize="3" twitter:gravity="11" twitter:id="0x7f1304e9" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f0100" twitter:singleLine="true" twitter:layout_below="0x7f1304e6" />
+        <View twitter:background="0x7f120085" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" twitter:layout_below="0x7f1304e9" />
+        <com.twitter.library.media.widget.UserImageView twitter:id="0x7f1304ea" twitter:background="0x7f120085" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_marginTop="0x7f0f010a" twitter:layout_marginBottom="0x7f0f010a" twitter:layout_below="0x7f1304e9" twitter:contentDescription="0x7f0a0400" twitter:defaultDrawable="0x7f120004" twitter:userImageSize="-1" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0039" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1304eb" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0100" twitter:singleLine="true" twitter:layout_toRightOf="0x7f1304ea" twitter:layout_alignTop="0x7f1304ea" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f120064" twitter:ellipsize="3" twitter:id="0x7f1304ec" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f0100" twitter:singleLine="true" twitter:layout_below="0x7f1304eb" twitter:layout_alignLeft="0x7f1304eb" />
+        <View twitter:background="0x7f120085" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" twitter:layout_below="0x7f1304ec" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0039" twitter:textColor="0x7f1200b8" twitter:ellipsize="3" twitter:id="0x7f1304ed" twitter:background="0x7f020066" twitter:clickable="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f010a" twitter:singleLine="true" twitter:layout_below="0x7f1304ea" />
+    </RelativeLayout>
+    <RelativeLayout twitter:id="0x7f1304ee" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0100" twitter:layout_marginBottom="0x7f0f0100">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f003a" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:id="0x7f1304ef" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f010b" twitter:text="0x7f0a0423" twitter:layout_alignParentLeft="true" twitter:layout_alignParentTop="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1304f0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginBottom="0x7f0f0100" twitter:singleLine="true" twitter:layout_below="0x7f1304ef" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0039" twitter:textColor="0x7f1200b8" twitter:ellipsize="3" twitter:id="0x7f1304f1" twitter:background="0x7f020066" twitter:clickable="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_below="0x7f1304f0" />
+    </RelativeLayout>
+</LinearLayout>

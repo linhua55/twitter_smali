@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_gravity="50" android:orientation="1" android:id="0x7f130401" android:layout_width="-1" android:layout_height="58dp">
+    <FrameLayout android:id="0x7f130402" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04029e" />
+        <TextView android:gravity="11" android:id="0x7f130403" android:layout_width="-1" android:layout_height="-1" android:text="0x7f0a0470" />
+    </FrameLayout>
+    <com.twitter.library.widget.StatusToolBar android:id="@bcx/toolbar" android:layout_width="-1" android:layout_height="?unknown_attr_ref: 7f0100a4" style="0x7f0d0366" />
+    <View android:background="0x7f1200c9" android:layout_width="-1" android:layout_height="0x7f0f0001" />
+    <WebView android:id="@bcx/webview" android:layout_width="-1" android:layout_height="-1" />
+</LinearLayout>

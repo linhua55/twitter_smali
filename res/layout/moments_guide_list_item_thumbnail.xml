@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:id="0x7f130497" twitter:clipChildren="false" twitter:clipToPadding="false" twitter:layout_width="0x7f0f02f0" twitter:layout_height="0x7f0f02ef" twitter:layout_marginRight="0x7f0f02e4">
+    <com.twitter.android.moments.ui.guide.BadgeableMediaImageView twitter:id="0x7f130499" twitter:layout_width="-1" twitter:layout_height="-1" twitter:defaultDrawable="0x7f120004" twitter:fadeIn="false" />
+    <ImageView twitter:layout_gravity="35" twitter:id="0x7f13049a" twitter:visibility="2" twitter:layout_width="0x7f0f02ca" twitter:layout_height="0x7f0f02ca" twitter:layout_marginTop="0x7f0f0003" twitter:layout_marginRight="0x7f0f0003" twitter:src="0x7f020aa4" twitter:contentDescription="@mx/View_android_theme" />
+</FrameLayout>

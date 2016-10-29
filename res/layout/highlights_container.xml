@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_gravity="31" twitter:id="0x7f1303a3" twitter:background="0x7f02057b" twitter:padding="0dp" twitter:layout_width="-2" twitter:layout_height="-1" twitter:aspect_ratio="0x7f0f01fd">
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f1303a4" twitter:padding="0x7f0f0203" twitter:layout_width="-1" twitter:layout_height="-1">
+        <include twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="0x7f0f0223" twitter:layout_weight="0.0" layout="0x7f040145" />
+        <View twitter:id="0x7f1303a5" twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="0x7f0f0203" twitter:layout_weight="0.0" />
+    </LinearLayout>
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

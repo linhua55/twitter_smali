@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_gravity="50" twitter:paddingBottom="12dp" twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.android.media.widget.HoverGarbageCanView twitter:layout_gravity="51" twitter:id="0x7f130697" twitter:layout_width="50dp" twitter:layout_height="50dp" twitter:layout_marginBottom="12dp" twitter:garbageCanScale="0.57" twitter:garbageCanScaleUpOnOpen="1.4" twitter:garbageCanBackground="0x7f0200a1" twitter:garbageCanOverlayBackground="0x7f020a7b" twitter:garbageCanDragTarget="1" />
+</FrameLayout>

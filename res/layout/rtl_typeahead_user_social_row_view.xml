@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.UserSocialView twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d0200">
+    <com.twitter.library.widget.SocialBylineView twitter:id="@bcx/social_byline" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d02d4" />
+    <RelativeLayout twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="@bcx/social_byline">
+        <com.twitter.library.widget.ActionButton twitter:id="@bcx/action_button" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentLeft="true" twitter:layout_alignParentTop="true" twitter:layout_centerVertical="false" style="0x7f0d0000" />
+        <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_alignParentTop="true" twitter:layout_alignParentRight="true" twitter:userImageSize="-1" />
+        <RelativeLayout twitter:id="0x7f1301cd" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="@bcx/user_image" twitter:layout_alignParentTop="true">
+            <include layout="0x7f0403a1" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/screenname_item" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_below="0x7f130123" twitter:layout_alignParentRight="true" style="0x7f0d03fe" />
+        </RelativeLayout>
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/extra_info" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toLeftOf="@bcx/user_image" twitter:layout_below="0x7f1301cd" style="0x7f0d0403" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/promoted" twitter:visibility="2" twitter:layout_marginLeft="0dp" twitter:layout_toLeftOf="@bcx/user_image" twitter:layout_below="@bcx/extra_info" style="0x7f0d02a8" />
+    </RelativeLayout>
+</com.twitter.library.widget.UserSocialView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GridLayout android:orientation="0" android:background="?unknown_attr_ref: 7f01013a" android:paddingTop="0x7f0f01c3" android:paddingBottom="0x7f0f01c3" android:layout_width="-1" android:layout_height="-2" android:rowCount="2" android:columnCount="2">
+    <com.twitter.library.media.widget.UserImageView android:id="@bcx/user_image" android:layout_column="0" android:layout_row="0" android:layout_rowSpan="2" style="0x7f0d017f" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f00ea" android:textStyle="1" android:textColor="0x7f120009" android:ellipsize="3" android:id="@bcx/account_name" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="2dp" android:layout_column="1" android:maxLines="1" android:singleLine="true" android:layout_row="0" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f00ea" android:textColor="0x7f120008" android:ellipsize="3" android:id="@k/username" android:layout_width="-2" android:layout_height="-2" android:layout_column="1" android:maxLines="1" android:singleLine="true" android:layout_row="1" />
+</GridLayout>

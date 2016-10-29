@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.ExpandableViewHost twitter:id="0x7f130170" twitter:clipChildren="false" twitter:layout_width="-1" twitter:layout_height="-1" twitter:expandableViewId="0x7f130171" twitter:footerViewId="0x7f130172" twitter:backgroundColor="0x7f120060">
+    <com.twitter.android.av.TweetEngagementView twitter:id="0x7f130172" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0x7f0f00e9" twitter:layout_alignParentBottom="true" />
+    <FrameLayout twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_above="0x7f130172">
+        <com.twitter.android.av.revenue.VideoConversationCardView twitter:layout_gravity="11" twitter:id="0x7f130171" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="0x7f0f042d" twitter:maxWidth="0x7f0f00c2" />
+    </FrameLayout>
+</com.twitter.android.widget.ExpandableViewHost>

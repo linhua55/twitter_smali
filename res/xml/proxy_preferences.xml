@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen>
+    <CheckBoxPreference android:title="0x7f0a0743" android:key="proxy_enabled" android:summary="0x7f0a0742" android:defaultValue="false" />
+    <EditTextPreference android:hint="0x7f0a0748" android:title="0x7f0a074a" android:key="proxy_host" android:summary="0x7f0a0749" android:dependency="proxy_enabled" android:defaultValue="" />
+    <EditTextPreference android:hint="0x7f0a074b" android:title="0x7f0a074d" android:key="proxy_port" android:summary="0x7f0a074c" android:dependency="proxy_enabled" android:defaultValue="" android:inputType="2" />
+</PreferenceScreen>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list>
+    <item android:drawable="0x7f020079" />
+    <item android:left="0x7f0f0437" android:top="0x7f0f0438" android:right="0x7f0f0437" android:bottom="0x7f0f0438">
+        <bitmap android:src="0x7f020973" />
+    </item>
+</layer-list>

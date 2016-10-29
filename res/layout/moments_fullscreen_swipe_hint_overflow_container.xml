@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="0x7f0f02da" style="0x7f0d0240">
+    <include android:layout_gravity="800013" android:layout_width="-2" android:layout_height="-2" layout="0x7f0401c3" />
+    <include android:layout_gravity="800013" android:layout_width="-2" android:layout_height="-2" layout="0x7f040177" />
+    <include android:layout_gravity="800005" android:layout_width="0x7f0f02da" android:layout_height="0x7f0f02da" layout="0x7f0401c1" />
+</FrameLayout>

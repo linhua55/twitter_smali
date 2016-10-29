@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout app:orientation="1" app:paddingBottom="0x7f0f0074" app:layout_width="-1" app:layout_height="-2">
+    <include layout="0x7f0400f5" />
+    <com.twitter.ui.widget.TypefacesTextView app:id="0x7f130359" app:layout_marginTop="0x7f0f0075" app:text="0x7f0a0378" app:layout_below="0x7f130027" style="0x7f0d015a" />
+    <com.twitter.ui.widget.TwitterButton app:textSize="0x7f0f0070" app:id="0x7f13035a" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0x7f0f006c" app:text="0x7f0a089d" app:layout_below="0x7f130359" app:layout_centerHorizontal="true" app:labelColor="0x7f120140" app:strokeColor="0x7f120140" app:strokePressedColor="0x7f120005" app:labelPressedColor="0x7f120005" style="0x7f0d03ca" />
+</RelativeLayout>

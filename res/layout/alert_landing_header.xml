@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <RelativeLayout twitter:background="0x7f1200cd" twitter:layout_width="-2" twitter:layout_height="-2">
+        <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:id="@bcx/header_container" twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="3.0">
+            <FrameLayout twitter:id="0x7f130148" twitter:layout_width="-1" twitter:layout_height="-1" />
+            <ImageView twitter:id="0x7f130149" twitter:layout_width="-1" twitter:layout_height="-1" twitter:contentDescription="@mx/View_android_theme" />
+        </com.twitter.media.ui.image.AspectRatioFrameLayout>
+    </RelativeLayout>
+    <LinearLayout twitter:orientation="1" twitter:id="@bcx/header_content" twitter:padding="0x7f0f004d" twitter:layout_width="-1" twitter:layout_height="-1">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textStyle="1" twitter:textColor="0x7f1200cd" twitter:id="0x7f13014a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:includeFontPadding="false" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120009" twitter:textColorLink="0x7f1200b8" twitter:id="0x7f13014b" twitter:layout_width="-2" twitter:layout_height="-2" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f13014c" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f0386" twitter:text="0x7f0a090b" style="0x7f0d00db" />
+    </LinearLayout>
+    <View twitter:id="0x7f130145" twitter:background="0x7f020097" twitter:layout_width="-1" twitter:layout_height="8dp" />
+</merge>

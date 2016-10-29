@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape android:shape="0">
+    <gradient android:startColor="@h/ps__scrim_start" android:endColor="@h/ps__scrim_end" android:angle="270.0" android:type="0" android:centerY="0.33" android:centerColor="@h/ps__scrim_center" />
+</shape>

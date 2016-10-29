@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingBottom="0x7f0f01f0" android:layout_width="-1" android:layout_height="-2">
+    <include layout="0x7f040137" />
+    <android.support.v7.widget.RecyclerView android:id="0x7f130130" android:layout_width="-1" android:layout_height="-2" style="0x7f0d01a8" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13039a" android:layout_width="-1" android:layout_height="-2" style="0x7f0d01a9" />
+</LinearLayout>

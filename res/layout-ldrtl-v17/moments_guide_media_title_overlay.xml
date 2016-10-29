@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:gravity="10" twitter:orientation="0" twitter:id="0x7f13046b" twitter:clipChildren="false" twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.ui.widget.ToggleTwitterButton twitter:id="0x7f13047a" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f02e4" twitter:text="0x7f0a0391" twitter:styleIdOn="0x7f0d03da" twitter:styleIdOff="0x7f0d03db" twitter:nodpiBaseIconName="ic_lightning_small" style="0x7f0d03d0" />
+    <LinearLayout twitter:gravity="5" twitter:orientation="1" twitter:layout_width="0dp" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f02e4" twitter:layout_weight="1.0">
+        <include layout="0x7f0401b0" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f13046c" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d022f" />
+        <LinearLayout twitter:gravity="15" twitter:orientation="0" twitter:layout_width="-1" twitter:layout_height="-2">
+            <com.twitter.ui.widget.BadgeView twitter:id="0x7f130498" style="0x7f0d00eb" />
+            <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f13046e" twitter:layout_width="-2" twitter:layout_height="-2" style="0x7f0d0233" />
+            <ImageView twitter:id="0x7f13046d" twitter:contentDescription="@mx/View_android_theme" style="0x7f0d0049" />
+            <com.twitter.android.moments.ui.guide.KnockoutTextView twitter:id="0x7f130475" twitter:layout_marginLeft="0x7f0f02e3" twitter:layout_marginRight="0dp" style="0x7f0d022b" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.twitter.android.moments.ui.guide.ClippingBadgeableImageView twitter:id="0x7f13049d" twitter:background="0x7f020a00" twitter:layout_width="0x7f0f02f0" twitter:layout_height="0x7f0f02ef" twitter:layout_margin="0x7f0f02e4" twitter:src="0x7f0209f7" twitter:scaleType="5" twitter:contentDescription="@mx/View_android_theme" />
+</LinearLayout>

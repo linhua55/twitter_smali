@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.moments.ui.ScoreView twitter:id="0x7f13047c" twitter:paddingBottom="0x7f0f02e5" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d0237">
+    <include twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_margin="0x7f0f02e4" layout="0x7f0401e3" />
+    <FrameLayout twitter:layout_width="-1" twitter:layout_height="-1">
+        <View twitter:id="0x7f13047d" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" twitter:layout_marginLeft="0x7f0f02e4" twitter:layout_marginRight="0x7f0f02e4" />
+    </FrameLayout>
+</com.twitter.android.moments.ui.ScoreView>

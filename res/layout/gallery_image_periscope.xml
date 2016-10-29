@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge twitter:layout_width="-1" twitter:layout_height="-2" twitter:aspect_ratio="1.0">
+    <ImageView twitter:layout_gravity="11" twitter:id="@k/image" twitter:background="@mx/View_android_theme" twitter:layout_width="64dp" twitter:layout_height="64dp" twitter:src="0x7f02011b" twitter:scaleType="7" twitter:contentDescription="0x7f0a0847" />
+    <ImageView twitter:layout_gravity="55" twitter:id="0x7f13037d" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="7dp" twitter:layout_marginBottom="?unknown_attr_ref: 7f010029" twitter:src="0x7f0206c5" twitter:contentDescription="@mx/View_android_theme" twitter:alpha="0.5" />
+    <View twitter:id="0x7f13037c" twitter:background="?unknown_attr_ref: 7f010030" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" />
+</merge>

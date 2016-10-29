@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.av.audio.ExternalActionButtonImpl app:id="0x7f130186" app:background="0x7f020062" app:paddingLeft="0x7f0f00ca" app:paddingTop="0x7f0f00cc" app:paddingRight="0x7f0f00ca" app:paddingBottom="0x7f0f00cc" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="?unknown_attr_ref: 7f010007" app:layout_marginBottom="?unknown_attr_ref: 7f010006" app:minHeight="0x7f0f00c7" app:actionTextSize="14sp" app:actionTextColor="0x7f12016f" app:showProgressWhileResolvingIntent="?unknown_attr_ref: 7f010005" />

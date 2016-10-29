@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" style="0x7f0d038d">
+    <com.twitter.ui.widget.TypefacesTextView android:id="@k/title" style="0x7f0d038a" />
+    <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130675" style="0x7f0d0379" />
+</LinearLayout>

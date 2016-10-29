@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:id="0x7f13038e" android:paddingBottom="16dp" android:layout_width="-1" android:layout_height="-2" style="0x7f0d013a">
+    <com.twitter.android.widget.TimelineViewPager android:id="0x7f130349" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" style="0x7f0d013d" />
+</RelativeLayout>

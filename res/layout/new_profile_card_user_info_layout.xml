@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:paddingLeft="0x7f0f038d" android:paddingRight="0x7f0f038d" android:paddingBottom="14dp" android:layout_width="-1" android:layout_height="-2"
+    <LinearLayout android:orientation="1" android:layout_width="-2" android:layout_height="-2">
+        <include layout="0x7f040226" />
+        <LinearLayout android:layout_width="-2" android:layout_height="-2">
+            <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f120009" android:ellipsize="3" android:id="@bcx/screenname_item" android:layout_width="-2" android:layout_height="-2" android:singleLine="true" />
+            <include android:id="@bcx/follows_you" android:layout_width="-2" android:layout_height="-2" layout="0x7f040289" />
+        </LinearLayout>
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="0x7f120009" android:ellipsize="3" android:id="@bcx/profile_description_item" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:lines="2" android:lineSpacingExtra="0x7f0f0263" android:lineSpacingMultiplier="1.0" />
+    <android.support.v7.widget.RecyclerView android:id="0x7f13052a" android:visibility="2" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" />
+    <View android:layout_width="0dp" android:layout_height="0dp" android:layout_weight="1.0" />
+    <com.twitter.library.widget.SocialBylineView android:id="@bcx/social_byline" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" style="0x7f0d02d3" />
+</LinearLayout>

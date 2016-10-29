@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:layout_width="-1" twitter:layout_height="-1" twitter:fillViewport="true">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-2">
+        <include layout="0x7f040330" />
+        <com.twitter.ui.widget.PromptView twitter:id="0x7f130584" twitter:layout_width="-1" twitter:layout_height="-2" twitter:isHeader="true" />
+        <com.twitter.internal.android.widget.PopupEditText twitter:id="0x7f130585" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginBottom="0x7f0f0433" twitter:hint="0x7f0a05ca" twitter:drawableRight="0x7f020925" twitter:inputType="3" twitter:imeOptions="5" twitter:labelText="0x7f0a05dc" style="0x7f0d03ed" />
+        <ViewStub twitter:id="0x7f130586" twitter:layout="0x7f040254" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginTop="0x7f0f0433" twitter:layout_marginRight="0x7f0f004d" twitter:layout_marginBottom="0x7f0f0433" />
+        <View twitter:id="@k/spacer" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textStyle="2" twitter:textColor="0x7f120140" twitter:id="0x7f130147" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d" twitter:layout_marginBottom="0x7f0f0415" twitter:text="0x7f0a05c5" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f13032e" twitter:visibility="2" style="0x7f0d027b" />
+    </LinearLayout>
+</ScrollView>

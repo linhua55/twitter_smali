@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:id="0x7f1301f9" twitter:layout_width="-1" twitter:layout_height="-1">
+    <include layout="0x7f0403c2" />
+    <com.twitter.android.nativecards.CombinedLineCountLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:maxTotalLines="2">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1304c7" twitter:paddingLeft="0x7f0f0101" twitter:paddingRight="0x7f0f0101" twitter:clickable="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f04a8" twitter:maxLines="2" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120140" twitter:ellipsize="3" twitter:id="0x7f1304e3" twitter:paddingLeft="0x7f0f0101" twitter:paddingRight="0x7f0f0101" twitter:clickable="true" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="1" />
+    </com.twitter.android.nativecards.CombinedLineCountLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f003a" twitter:textColor="0x7f120140" twitter:id="0x7f1304c1" twitter:clickable="true" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0101" twitter:layout_marginRight="0x7f0f0101" twitter:layout_marginBottom="8dp" twitter:singleLine="true" />
+</LinearLayout>

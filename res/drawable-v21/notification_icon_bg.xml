@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:visible="true" android:insetLeft="0x7f0f0058" android:insetRight="0x7f0f0058" android:insetTop="0x7f0f0058" android:insetBottom="0x7f0f0058">
+    <shape android:shape="1">
+        <solid android:color="0x7f120159" />
+    </shape>
+</inset>

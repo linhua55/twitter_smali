@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:background="0x7f1200da" twitter:layout_width="-1" twitter:layout_height="-1" twitter:animateLayoutChanges="true"
+    <LinearLayout twitter:gravity="11" twitter:layout_gravity="11" twitter:orientation="1" twitter:padding="0x7f0f02e4" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+        <ImageView twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="0x7f0f02e4" twitter:src="0x7f0207c3" twitter:scaleType="5" twitter:contentDescription="@mx/View_android_theme" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f02e8" twitter:textColor="0x7f12015d" twitter:gravity="11" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="0x7f0f02e4" twitter:text="0x7f0a0518" twitter:lineSpacingExtra="0x7f0f02d5" />
+        <com.twitter.ui.widget.ToggleTwitterButton twitter:id="0x7f13047a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="0x7f0f02e4" twitter:text="0x7f0a0391" twitter:styleIdOn="0x7f0d03da" twitter:styleIdOff="0x7f0d03db" twitter:nodpiBaseIconName="ic_lightning_small" style="0x7f0d03d0" />
+        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f13047e" twitter:layout_width="-2" twitter:layout_height="-2" twitter:text="0x7f0a0523" style="0x7f0d03cd" />
+    </LinearLayout>
+    <include layout="0x7f0401c2" />
+    <include layout="0x7f0401e4" />
+</LinearLayout>

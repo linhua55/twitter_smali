@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.EventView android:id="0x7f130134" style="0x7f0d018b">
+    <LinearLayout android:orientation="1" android:id="0x7f130352" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="16dp" android:layout_alignParentTop="true">
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130353" style="0x7f0d018f" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130354" style="0x7f0d018c" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="0x7f130355" style="0x7f0d018c" />
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f12017f" android:gravity="11" android:id="0x7f130356" android:background="0x7f0204ab" android:visibility="2" android:layout_width="-1" android:layout_height="0x7f0f01cf" android:layout_below="0x7f130352" />
+</com.twitter.android.widget.EventView>

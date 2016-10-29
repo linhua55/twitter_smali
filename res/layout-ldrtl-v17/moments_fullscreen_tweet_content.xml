@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-2"
+    <FrameLayout android:layout_gravity="50" android:orientation="1" android:id="0x7f1303e5" android:background="0x7f02006b" android:layout_width="-1" android:layout_height="-2"
+        <FrameLayout android:id="0x7f13048f" android:layout_width="-1" android:layout_height="-2">
+            <LinearLayout android:gravity="5" android:orientation="1" android:id="0x7f13046b" android:paddingLeft="0x7f0f02e4" android:paddingTop="0x7f0f02b1" android:paddingRight="0x7f0f02e4" android:paddingBottom="0x7f0f02d4" android:layout_width="-1" android:layout_height="-2">
+                <ViewStub android:id="0x7f1303ff" android:inflatedId="0x7f1303ff" android:layout_width="-2" android:layout_height="-2" />
+                <LinearLayout android:gravity="15" android:id="0x7f130490" android:paddingLeft="0x7f0f02e5" android:paddingTop="0x7f0f02e5" android:layout_width="-2" android:layout_height="-2">
+                    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02ea" android:textColor="0x7f1200e5" android:id="0x7f130476" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f0433" android:layout_marginBottom="1dp" style="0x7f0d0230" />
+                    <ImageView android:id="0x7f130469" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:layout_marginRight="0x7f0f0433" android:src="0x7f0207d2" android:contentDescription="@mx/View_android_theme" />
+                    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02ea" android:id="0x7f13046e" android:layout_width="-2" android:layout_height="-2" android:layout_marginBottom="1dp" style="0x7f0d0228" />
+                </LinearLayout>
+                <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f02ea" android:textColor="0x7f12015d" android:id="0x7f13046c" android:layout_width="-2" android:layout_height="-2" />
+                <FrameLayout android:id="0x7f13048e" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="0x7f0f02e4" />
+                <include layout="0x7f0401c7" />
+            </LinearLayout>
+        </FrameLayout>
+    </FrameLayout>
+</FrameLayout>

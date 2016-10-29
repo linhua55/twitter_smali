@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:layout_width="-1" android:layout_height="-1">
+    <RelativeLayout android:layout_width="-1" android:layout_height="-2">
+        <LinearLayout android:orientation="1" android:id="0x7f13058b" android:layout_width="-1" android:layout_height="-2" style="0x7f0d02c5">
+            <com.twitter.ui.widget.TypefacesTextView android:text="0x7f0a05e3" style="0x7f0d01db" />
+            <com.twitter.ui.widget.TypefacesTextView android:id="0x7f13058c" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="0x7f0f004d" android:layout_marginRight="0x7f0f004d" android:text="0x7f0a05e1" style="0x7f0d000e" />
+            <com.twitter.ui.widget.TypefacesTextView android:layout_marginTop="20dp" android:text="0x7f0a05d5" style="0x7f0d01db" />
+            <EditText android:id="0x7f13058d" android:inputType="2" style="0x7f0d02c4" />
+        </LinearLayout>
+        <View android:id="0x7f1301c3" android:layout_marginBottom="5dp" android:layout_below="0x7f13058b" style="0x7f0d01c7" />
+        <Button android:enabled="false" android:id="0x7f130592" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f004d" android:layout_marginRight="0x7f0f004d" android:text="0x7f0a05e2" android:layout_below="0x7f1301c3" style="0x7f0d012f" />
+        <com.twitter.ui.widget.TypefacesTextView android:gravity="11" android:id="0x7f13058f" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="10dp" android:text="0x7f0a05d9" android:layout_below="0x7f130592" android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+</ScrollView>

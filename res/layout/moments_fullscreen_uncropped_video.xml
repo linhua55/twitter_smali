@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.android.moments.ui.fullscreen.ScaleToFitFrameLayout android:id="0x7f130493" android:layout_width="-1" android:layout_height="-1">
+        <LinearLayout android:layout_gravity="10" android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+            <com.twitter.media.ui.image.AspectRatioFrameLayout android:layout_gravity="10" android:id="0x7f130494" android:layout_width="-1" android:layout_height="-2">
+                <include layout="0x7f0401db" />
+                <include layout="0x7f0401dc" />
+            </com.twitter.media.ui.image.AspectRatioFrameLayout>
+            <View android:background="0x7f020134" android:layout_width="-1" android:layout_height="0x7f0f02bc" />
+        </LinearLayout>
+    </com.twitter.android.moments.ui.fullscreen.ScaleToFitFrameLayout>
+    <include layout="0x7f0401df" />
+    <com.twitter.android.moments.ui.video.MomentsVideoPlayerChromeView android:layout_gravity="50" android:id="0x7f130495" android:background="0x7f02006b" android:visibility="1" android:layout_width="-1" android:layout_height="-2" />
+</FrameLayout>

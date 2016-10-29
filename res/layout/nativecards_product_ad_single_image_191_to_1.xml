@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:id="0x7f1301f9" twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.android.revenue.card.CardMediaView twitter:id="0x7f130494" twitter:layout_width="-1" twitter:layout_height="-2" twitter:radiusTopLeft="0x7f0f0102" twitter:radiusTopRight="0x7f0f0102" />
+    <RelativeLayout twitter:id="0x7f1301fc" twitter:paddingLeft="0x7f0f0101" twitter:paddingTop="0x7f0f0100" twitter:paddingRight="0x7f0f0101" twitter:paddingBottom="0x7f0f0100" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_below="0x7f130494" twitter:layout_alignLeft="0x7f130494">
+        <com.twitter.ui.widget.TwitterButton twitter:textSize="0x7f0f003a" twitter:id="0x7f13020d" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0100" twitter:text="0x7f0a01c8" twitter:layout_alignParentRight="true" twitter:layout_centerVertical="true" style="0x7f0d03c2" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120009" twitter:ellipsize="3" twitter:id="0x7f1301fe" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_toLeftOf="0x7f13020d" twitter:layout_alignParentLeft="true" twitter:layout_alignParentTop="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120064" twitter:ellipsize="3" twitter:id="0x7f13020e" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_toLeftOf="0x7f13020d" twitter:layout_below="0x7f1301fe" twitter:layout_alignParentLeft="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textColor="0x7f120064" twitter:ellipsize="3" twitter:id="0x7f13020f" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_toLeftOf="0x7f13020d" twitter:layout_below="0x7f13020e" twitter:layout_alignParentLeft="true" />
+    </RelativeLayout>
+</RelativeLayout>

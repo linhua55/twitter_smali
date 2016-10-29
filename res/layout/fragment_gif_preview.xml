@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <FrameLayout twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+        <com.twitter.android.media.widget.FoundMediaPreviewLayout twitter:layout_gravity="11" twitter:layout_width="-1" twitter:layout_height="-1">
+            <com.twitter.android.media.widget.AttachmentMediaView twitter:layout_gravity="31" twitter:id="0x7f130368" twitter:background="@mx/View_android_theme" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1" twitter:scaleMode="2" twitter:animatedGifViewLayout="0x7f040035" twitter:layout="@mx/View_android_theme" />
+            <com.twitter.android.widget.FoundMediaAttributionView twitter:layout_gravity="53" twitter:id="0x7f130369" twitter:paddingTop="8dp" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="16dp" />
+        </com.twitter.android.media.widget.FoundMediaPreviewLayout>
+    </FrameLayout>
+    <com.twitter.ui.widget.TwitterButton twitter:id="0x7f13036a" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="16dp" twitter:layout_marginTop="20dp" twitter:layout_marginRight="16dp" twitter:layout_marginBottom="32dp" twitter:text="0x7f0a03a3" style="0x7f0d03b8" />
+</LinearLayout>

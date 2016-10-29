@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.profilecompletionmodule.profilepreview.ProfilePreviewScreen app:orientation="1" app:background="0x7f120159" app:clipChildren="false" app:layout_width="-1" app:layout_height="-1">
+    <ImageView app:layout_gravity="10" app:id="@bcx/skip" app:padding="0x7f0f03e0" app:layout_width="-2" app:layout_height="-2" app:src="0x7f020642" app:contentDescription="0x7f0a00f9" />
+    <ScrollView app:layout_width="-1" app:layout_height="-1" app:fillViewport="true">
+        <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-2" app:weightSum="11.0">
+            <View app:layout_width="-1" app:layout_height="0dp" app:layout_weight="2.0" />
+            <LinearLayout app:orientation="0" app:layout_width="-1" app:layout_height="-2" app:weightSum="100.0">
+                <View app:visibility="1" app:layout_width="0dp" app:layout_height="0dp" app:layout_weight="7.0" />
+                <include app:layout_gravity="11" app:id="0x7f1305d8" app:layout_width="0dp" app:layout_height="-2" app:layout_marginLeft="0x7f0f005a" app:layout_marginRight="0x7f0f005a" app:layout_weight="86.0" layout="0x7f040284" />
+                <View app:visibility="1" app:layout_width="0dp" app:layout_height="0dp" app:layout_weight="7.0" />
+            </LinearLayout>
+            <View app:layout_width="-1" app:layout_height="0dp" app:layout_weight="4.0" />
+            <com.twitter.ui.widget.TypefacesTextView app:layout_gravity="1" app:id="0x7f1305ef" app:paddingLeft="0x7f0f0015" app:paddingRight="0x7f0f0015" app:layout_width="-2" app:layout_height="-2" app:layout_marginTop="0x7f0f03cb" app:layout_marginBottom="0x7f0f03cb" app:text="0x7f0a064c" style="0x7f0d02ac" />
+            <View app:layout_width="-1" app:layout_height="0dp" app:layout_weight="1.0" />
+            <com.twitter.ui.widget.TwitterButton app:layout_gravity="1" app:id="0x7f130189" app:layout_width="-2" app:layout_height="-2" app:layout_marginBottom="0x7f0f03c9" app:text="0x7f0a064a" app:fillColor="0x7f12015d" style="0x7f0d03b6" />
+            <View app:layout_width="-1" app:layout_height="0dp" app:layout_weight="4.0" />
+        </LinearLayout>
+    </ScrollView>
+</com.twitter.android.profilecompletionmodule.profilepreview.ProfilePreviewScreen>

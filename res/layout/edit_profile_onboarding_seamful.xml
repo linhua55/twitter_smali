@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView twitter:orientation="1" twitter:id="0x7f13014d" twitter:scrollbars="200" twitter:layout_width="-1" twitter:layout_height="-2" twitter:fillViewport="true">
+    <LinearLayout twitter:orientation="1" twitter:id="0x7f130326" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f005a" twitter:layout_marginRight="0x7f0f005a">
+        <include twitter:id="@bcx/header" layout="0x7f040330" />
+        <LinearLayout twitter:orientation="0" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_marginRight="0x7f0f004d">
+            <FrameLayout twitter:id="0x7f130327" twitter:background="0x7f020137" twitter:layout_width="0x7f0f0383" twitter:layout_height="0x7f0f0383" twitter:onClick="onClickHandler">
+                <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="11" twitter:id="0x7f130142" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a031b" twitter:scaleType="1" twitter:userImageSize="0x7f0f0383" />
+                <ImageView twitter:layout_gravity="11" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0208a9" twitter:maxWidth="29dp" twitter:maxHeight="29dp" twitter:contentDescription="@mx/View_android_theme" twitter:alpha="0.85" />
+            </FrameLayout>
+            <LinearLayout twitter:layout_gravity="10" twitter:orientation="1" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="10dp">
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0044" twitter:textStyle="1" twitter:textColor="0x7f120009" twitter:id="@bcx/name" twitter:layout_width="-2" twitter:layout_height="-2" />
+                <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120009" twitter:id="@k/username" twitter:layout_width="-2" twitter:layout_height="-2" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

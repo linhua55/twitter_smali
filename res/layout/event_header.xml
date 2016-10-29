@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:id="0x7f130134" twitter:layout_width="-1" twitter:layout_height="-2" twitter:overlayDrawable="0x7f020071">
+    <FrameLayout twitter:id="0x7f130342" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_below="0x7f130343" />
+    <FrameLayout twitter:id="0x7f130343" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_below="0x7f130344" />
+    <com.twitter.media.ui.image.BackgroundImageView twitter:id="0x7f130344" twitter:layout_width="-1" twitter:layout_height="0x7f0f01d0" twitter:layout_alignParentTop="true" twitter:overlayDrawable="0x106000d" twitter:crossfadeDuration="300" twitter:filterMaxOpacity="0.0" twitter:filterColor="0x106000d" />
+</RelativeLayout>

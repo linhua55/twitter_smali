@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:orientation="0" android:id="0x7f1303bc" android:layout_width="-1" android:layout_height="-2" style="0x7f0d01b7">
+    <include layout="0x7f040233" />
+    <TextView android:textAppearance="@*android:style/TextAppearance.StatusBar.EventContent.Title" android:textColor="0x7f120014" android:ellipsize="4" android:id="0x7f1303c3" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="0x7f0f0056" android:layout_marginTop="0x7f0f0327" android:layout_marginRight="0x7f0f0327" android:text="0x7f0a03d8" android:singleLine="true" android:layout_toRightOf="@k/icon" android:layout_alignParentRight="true" />
+    <TextView android:textAppearance="@*android:style/TextAppearance.StatusBar.EventContent" android:textColor="0x7f120010" android:ellipsize="4" android:id="0x7f1303c4" android:fadingEdge="1000" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="0x7f0f0056" android:layout_marginRight="0x7f0f0327" android:singleLine="true" android:layout_toRightOf="@k/icon" android:layout_below="0x7f1303c3" android:layout_alignParentRight="true" />
+    <ImageView android:id="0x7f1303c5" android:layout_width="-1" android:layout_height="-2" android:src="?unknown_attr_ref: 101032c" android:scaleType="1" android:layout_below="@k/icon" android:contentDescription="@mx/View_android_theme" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:divider="?unknown_attr_ref: 101030a" android:layout_below="0x7f1303c5" android:showDividers="2">
+        <RelativeLayout android:id="0x7f1303bd" style="0x7f0d01b9">
+            <ImageView android:id="0x7f1303be" android:contentDescription="@mx/View_android_theme" style="0x7f0d01bc" />
+            <TextView android:textColor="0x7f1200a5" android:id="0x7f1303c6" style="0x7f0d01ba" />
+            <TextView android:textColor="0x7f1200a5" android:id="0x7f1303bf" android:layout_below="0x7f1303c6" style="0x7f0d01c1" />
+            <ImageView android:layout_alignLeft="0x7f1303be" android:layout_alignTop="0x7f1303be" android:layout_alignRight="0x7f1303be" android:layout_alignBottom="0x7f1303be" android:contentDescription="@mx/View_android_theme" style="0x7f0d01be" />
+        </RelativeLayout>
+        <RelativeLayout android:id="0x7f1303c0" style="0x7f0d01b9">
+            <ImageView android:id="0x7f1303c1" android:contentDescription="@mx/View_android_theme" style="0x7f0d01bc" />
+            <TextView android:textColor="0x7f1200a5" android:id="0x7f1303c7" style="0x7f0d01ba" />
+            <TextView android:textColor="0x7f1200a5" android:id="0x7f1303c2" android:layout_below="0x7f1303c7" style="0x7f0d01c1" />
+            <ImageView android:layout_alignLeft="0x7f1303c1" android:layout_alignTop="0x7f1303c1" android:layout_alignRight="0x7f1303c1" android:layout_alignBottom="0x7f1303c1" android:contentDescription="@mx/View_android_theme" style="0x7f0d01be" />
+        </RelativeLayout>
+    </LinearLayout>
+</RelativeLayout>

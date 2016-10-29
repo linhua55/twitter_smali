@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <include twitter:layout_gravity="53" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_margin="0x7f0f00d4" layout="0x7f04024d" />
+    <tv.periscope.android.view.PsLoading twitter:layout_gravity="30" twitter:id="0x7f13057d" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="118dp" twitter:ps__halfHeight="true" />
+    <ImageView twitter:layout_gravity="11" twitter:id="0x7f13057e" twitter:layout_width="-2" twitter:layout_height="-2" twitter:contentDescription="0x7f0a0247" />
+</merge>

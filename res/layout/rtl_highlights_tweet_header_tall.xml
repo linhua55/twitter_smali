@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.library.media.widget.UserImageView twitter:layout_gravity="10" twitter:id="@k/avatar" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f020d" twitter:layout_marginTop="0x7f0f01fc" twitter:layout_alignParentRight="true" twitter:userImageSize="-2" twitter:roundingStrategy="1" />
+    <ImageView twitter:id="0x7f1303d8" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0241" twitter:src="0x7f0208b2" twitter:layout_toLeftOf="@k/avatar" twitter:layout_alignTop="@bcx/name" twitter:contentDescription="0x7f0a03f9" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0235" twitter:ellipsize="3" twitter:id="@bcx/name" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:includeFontPadding="false" twitter:layout_toLeftOf="0x7f1303d8" twitter:layout_alignParentTop="true" style="0x7f0d01b2" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0235" twitter:textColor="0x7f1200a3" twitter:ellipsize="3" twitter:id="0x7f130054" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:includeFontPadding="false" twitter:layout_toLeftOf="@k/avatar" twitter:layout_below="@bcx/name" style="0x7f0d01b1" />
+</merge>

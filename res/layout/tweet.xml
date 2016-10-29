@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.library.widget.ToolbarWrapperLayout android:id="0x7f130328" android:layout_width="-1" android:layout_height="-1">
+        <RelativeLayout android:layout_width="-1" android:layout_height="-1">
+            <include layout="0x7f04036a" />
+            <com.twitter.media.ui.AnimatingProgressBar android:id="0x7f13042e" android:visibility="2" style="0x7f0d005d" />
+            <include layout="0x7f0403bd" />
+            <LinearLayout android:orientation="1" android:id="0x7f130455" android:layout_width="-1" android:layout_height="-2" android:layout_alignParentBottom="true">
+                <View android:background="0x7f120001" android:layout_width="-1" android:layout_height="1dp" />
+                <include layout="0x7f040252" />
+            </LinearLayout>
+            <FrameLayout android:id="0x7f130133" android:layout_width="-1" android:layout_height="-1" android:layout_above="0x7f130455" android:layout_below="0x7f1306ad" />
+        </RelativeLayout>
+    </com.twitter.library.widget.ToolbarWrapperLayout>
+    <include layout="0x7f04004e" />
+</android.support.design.widget.CoordinatorLayout>

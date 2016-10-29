@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="0x7f0f0436">
+    <com.twitter.library.view.ScrollingMarqueeTextView android:id="@bcx/campaign_text_view" android:layout_width="-1" android:layout_height="-1" style="0x7f0d02db" />
+</FrameLayout>

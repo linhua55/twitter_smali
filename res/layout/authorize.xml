@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-1">
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textStyle="1" android:textColor="0x7f120140" android:gravity="1" android:id="0x7f130175" android:paddingLeft="0x7f0f004d" android:paddingTop="0x7f0f004e" android:paddingRight="0x7f0f004d" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a0038" />
+    <com.twitter.library.widget.UserView android:id="0x7f130176" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f130175">
+        <include android:id="0x7f130177" layout="0x7f04001b" />
+    </com.twitter.library.widget.UserView>
+    <RelativeLayout android:id="0x7f130178" android:layout_width="-1" android:layout_height="-2" android:layout_below="0x7f130176" style="0x7f0d01ed">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0044" android:textStyle="1" android:id="@k/title" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="5dp" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:id="@k/message" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="5dp" android:layout_below="@k/title" android:lineSpacingExtra="0x7f0f0263" />
+    </RelativeLayout>
+    <LinearLayout android:orientation="0" android:paddingLeft="0x7f0f0103" android:paddingRight="0x7f0f0103" android:layout_width="-1" android:layout_height="-2" android:weightSum="2.0" android:layout_below="0x7f130178">
+        <Button android:id="0x7f13017a" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a00f9" android:layout_weight="1.0" />
+        <Button android:id="0x7f13017b" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a03bf" android:layout_weight="1.0" />
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.ui.widget.TwitterEditText twitter:id="0x7f130471" twitter:padding="10dp" twitter:focusable="true" twitter:layout_width="-1" twitter:layout_height="-2" twitter:inputType="20001" twitter:labelText="0x7f0a09f5" style="0x7f0d03e5" />
+</FrameLayout>

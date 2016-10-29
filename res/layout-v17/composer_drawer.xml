@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.DraggableDrawerLayout twitter:id="0x7f13025c" twitter:layout_width="-1" twitter:layout_height="-1" twitter:aboveDrawerViewId="0x7f13025d" twitter:aboveDrawerForegroundId="0x7f13025e">
+    <FrameLayout twitter:id="0x7f13025d" twitter:layout_width="-1" twitter:layout_height="-1">
+        <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+            <include twitter:layout_width="-1" twitter:layout_height="56dp" layout="0x7f040089" />
+            <FrameLayout twitter:clickable="true" twitter:layout_width="-1" twitter:layout_height="0dp" twitter:layout_weight="1.0">
+                <com.twitter.android.composer.ComposerScrollView twitter:id="@bcx/scroll" twitter:layout_width="-1" twitter:layout_height="-1" twitter:headerViewId="0x7f13025f">
+                    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1"
+                        <LinearLayout twitter:orientation="1" twitter:id="0x7f13025f" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2">
+                            <View twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="1dp" />
+                            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120140" twitter:id="0x7f130260" twitter:background="0x7f120055" twitter:padding="10dp" twitter:layout_width="-1" twitter:layout_height="-2" />
+                            <View twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="1dp" />
+                        </LinearLayout>
+                        <LinearLayout twitter:id="0x7f130261" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="35dp" twitter:layout_marginLeft="10dp" twitter:layout_marginRight="10dp" twitter:layout_marginBottom="-4dp">
+                            <ImageView twitter:layout_gravity="10" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f020670" twitter:contentDescription="@mx/View_android_theme" />
+                            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f1200b3" twitter:layout_gravity="10" twitter:id="0x7f130262" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="12dp" twitter:singleLine="true" />
+                        </LinearLayout>
+                        <com.twitter.android.composer.TweetBox twitter:id="0x7f130263" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="10dp" twitter:layout_marginTop="17dp" twitter:layout_marginRight="10dp">
+                            <ImageButton twitter:id="0x7f130264" twitter:focusable="true" twitter:focusableInTouchMode="true" twitter:layout_width="0dp" twitter:layout_height="0dp" twitter:contentDescription="@mx/View_android_theme" />
+                            <com.twitter.android.autocomplete.PopupSuggestionEditText twitter:textSize="0x7f0f0044" twitter:textColor="0x7f120009" twitter:textColorHint="0x7f120140" twitter:gravity="33" twitter:id="0x7f130265" twitter:background="@mx/View_android_theme" twitter:nextFocusLeft="0x7f130265" twitter:nextFocusUp="0x7f130265" twitter:layout_width="-1" twitter:layout_height="-1" twitter:layout_marginTop="6dp" twitter:lineSpacingMultiplier="1.2" twitter:inputType="2c001" twitter:imeOptions="40000000" twitter:showAsDropdown="true" twitter:showFullScreen="false" twitter:removePastedStyles="true" twitter:cursorBottomPadding="10dp" />
+                        </com.twitter.android.composer.TweetBox>
+                        <com.twitter.library.view.QuoteView twitter:id="0x7f130266" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="10dp" twitter:layout_marginTop="10dp" twitter:layout_marginRight="10dp" />
+                        <com.twitter.android.media.widget.MediaAttachmentsView twitter:orientation="0" twitter:id="0x7f130267" twitter:visibility="1" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="6dp" />
+                        <com.twitter.android.widget.FoundMediaAttributionView twitter:orientation="0" twitter:id="0x7f130268" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="10dp" twitter:layout_marginTop="9dp" twitter:layout_marginRight="10dp" />
+                        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f130269" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f015f" twitter:layout_marginTop="0x7f0f015f" twitter:layout_marginStart="0x7f0f015f" style="0x7f0d0209" />
+                        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f13026a" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f015f" twitter:layout_marginTop="0x7f0f015f" twitter:layout_marginStart="0x7f0f015f" style="0x7f0d020a" />
+                        <com.twitter.ui.widget.TwitterButton twitter:id="0x7f13026b" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f015f" twitter:layout_marginTop="0x7f0f015f" twitter:layout_marginStart="0x7f0f015f" style="0x7f0d020b" />
+                        <com.twitter.android.nativecards.pollcompose.PollComposeView twitter:id="0x7f13026c" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" />
+                        <com.twitter.android.nativecards.CardPreviewView twitter:id="0x7f1301ba" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f00fb" twitter:layout_marginTop="0x7f0f00fb" twitter:layout_marginRight="0x7f0f00fb" twitter:layout_marginBottom="0x7f0f00fb">
+                            <com.twitter.android.nativecards.CardPreviewContainer twitter:id="0x7f1301bb" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2">
+                                <ImageView twitter:layout_gravity="35" twitter:id="0x7f1301bc" twitter:background="0x7f0200da" twitter:layout_width="0x7f0f00fd" twitter:layout_height="0x7f0f00fd" twitter:layout_marginLeft="0x7f0f00fc" twitter:layout_marginTop="0x7f0f00fc" twitter:layout_marginRight="0x7f0f00fc" twitter:layout_marginBottom="0x7f0f00fc" twitter:src="0x7f020640" twitter:contentDescription="@mx/View_android_theme" />
+                            </com.twitter.android.nativecards.CardPreviewContainer>
+                            <com.twitter.android.nativecards.CardPreviewContainer twitter:id="0x7f1301bd" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2">
+                                <ImageView twitter:layout_gravity="35" twitter:background="0x7f0200da" twitter:layout_width="0x7f0f00fd" twitter:layout_height="0x7f0f00fd" twitter:layout_marginLeft="0x7f0f00fc" twitter:layout_marginTop="0x7f0f00fc" twitter:layout_marginRight="0x7f0f00fc" twitter:layout_marginBottom="0x7f0f00fc" twitter:src="0x7f020640" twitter:contentDescription="@mx/View_android_theme" />
+                            </com.twitter.android.nativecards.CardPreviewContainer>
+                        </com.twitter.android.nativecards.CardPreviewView>
+                        <include twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f015f" twitter:layout_marginTop="0x7f0f025a" twitter:layout_marginBottom="0x7f0f0259" twitter:layout_marginStart="0x7f0f015f" layout="0x7f04015c" />
+                        <LinearLayout twitter:id="0x7f13026d" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f015f" twitter:layout_marginTop="25dp" twitter:layout_marginRight="0x7f0f015f" twitter:layout_marginBottom="14dp">
+                            <ImageView twitter:layout_gravity="10" twitter:id="0x7f13026e" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f0209a9" twitter:contentDescription="@mx/View_android_theme" />
+                            <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120140" twitter:layout_gravity="10" twitter:id="0x7f13026f" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="3dp" twitter:singleLine="true" />
+                        </LinearLayout>
+                    </LinearLayout>
+                </com.twitter.android.composer.ComposerScrollView>
+            </FrameLayout>
+        </LinearLayout>
+        <ImageView twitter:id="0x7f13025e" twitter:background="0x7f120000" twitter:layout_width="-1" twitter:layout_height="-1" twitter:contentDescription="@mx/View_android_theme" twitter:alpha="0.0" />
+    </FrameLayout>
+    <FrameLayout twitter:id="0x7f130270" twitter:background="0x7f120000" twitter:layout_width="-1" twitter:layout_height="-1"
+        <FrameLayout twitter:id="0x7f130271" twitter:background="@mx/View_android_theme" twitter:layout_width="-1" twitter:layout_height="-1" /> />
+</com.twitter.android.widget.DraggableDrawerLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <ScrollView android:layout_width="-1" android:layout_height="0dp" android:layout_weight="1.0">
+            <RelativeLayout android:paddingTop="5dp" android:paddingBottom="5dp" android:layout_width="-1" android:layout_height="-2">
+                <com.twitter.ui.widget.TwitterEditText android:id="@bcx/name" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:hint="0x7f0a0224" android:inputType="c001" style="0x7f0d03e5" />
+                <com.twitter.ui.widget.TwitterEditText android:gravity="30" android:id="0x7f1301cf" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="5dp" android:layout_marginRight="5dp" android:hint="0x7f0a0220" android:minLines="3" android:layout_below="@bcx/name" android:inputType="2c001" style="0x7f0d03e5" />
+                <CheckBox android:textColor="0x7f1200fc" android:id="0x7f13028e" android:layout_width="-1" android:layout_height="-2" android:text="0x7f0a0225" android:layout_below="0x7f1301cf" />
+            </RelativeLayout>
+        </ScrollView>
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

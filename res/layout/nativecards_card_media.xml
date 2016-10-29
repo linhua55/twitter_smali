@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge twitter:layout_width="-1" twitter:layout_height="-2">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1301fa" twitter:layout_width="-1" twitter:layout_height="-2" twitter:defaultDrawable="0x7f120004" twitter:errorDrawable="0x7f020098" twitter:scaleType="1">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <FrameLayout twitter:id="0x7f1304c8" twitter:background="0x7f12008e" twitter:layout_width="-1" twitter:layout_height="0x7f0f00dc" twitter:layout_alignBottom="0x7f1301fa" />
+</merge>

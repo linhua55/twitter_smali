@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout android:layout_width="-1" android:layout_height="-1">
+    <LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <android.support.v7.widget.RecyclerView android:id="0x7f13043e" android:layout_width="-1" android:layout_height="-2" />
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

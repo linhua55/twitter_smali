@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout app:layout_width="-1" app:layout_height="-1">
+    <LinearLayout app:orientation="1" app:layout_width="-1" app:layout_height="-1">
+        <include layout="0x7f04036a" />
+        <com.twitter.internal.android.widget.IconTabHost app:id="0x1020012" app:layout_width="-1" app:layout_height="-1">
+            <RelativeLayout app:layout_width="-1" app:layout_height="-1">
+                <FrameLayout app:id="0x1020011" app:layout_width="0dp" app:layout_height="0dp" />
+                <TabWidget app:id="0x1020013" app:background="0x7f020a05" app:paddingBottom="0x7f0f043e" app:layout_width="-1" app:layout_height="0x7f0f02f9" app:layout_marginBottom="0dp" app:divider="@mx/View_android_theme" app:dividerPadding="0dp" />
+                <com.twitter.internal.android.widget.ViewPagerScrollBar app:id="0x7f130056" app:layout_width="-1" app:layout_height="0x7f0f02fa" app:layout_alignBottom="0x1020013" app:tabDrawable="0x7f120152" />
+                <android.support.v4.view.ViewPager app:id="0x7f130349" app:layout_width="-1" app:layout_height="-1" app:layout_below="0x1020013" app:layout_alignParentBottom="true" />
+            </RelativeLayout>
+        </com.twitter.internal.android.widget.IconTabHost>
+    </LinearLayout>
+</com.twitter.library.widget.ToolbarWrapperLayout>

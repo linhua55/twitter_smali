@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout twitter:layout_width="-1" twitter:layout_height="-2" twitter:contentDescription="0x7f0a03fd" twitter:aspect_ratio="1.0">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1302b7" twitter:background="0x7f120004" twitter:layout_width="-1" twitter:layout_height="-1" twitter:contentDescription="0x7f0a03fd" twitter:scaleType="1" />
+    <FrameLayout twitter:id="0x7f1302b8" twitter:background="0x7f120069" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1">
+        <ImageView twitter:layout_gravity="11" twitter:layout_width="-2" twitter:layout_height="-2" twitter:src="0x7f02068b" twitter:contentDescription="@mx/View_android_theme" />
+    </FrameLayout>
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

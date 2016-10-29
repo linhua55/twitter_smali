@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.media.ui.image.MediaImageView twitter:id="0x7f1303d7" twitter:layout_width="-1" twitter:layout_height="-2" twitter:defaultDrawable="0x7f020a3c" twitter:aspect_ratio="0x7f0f0246" style="0x7f0d02e0" />
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/promoted" twitter:paddingTop="8dp" twitter:paddingRight="8dp" twitter:visibility="2" twitter:layout_below="0x7f1303d7" twitter:layout_alignParentRight="true" style="0x7f0d02a8" />
+    <com.twitter.media.ui.image.MediaImageView twitter:id="@k/avatar" twitter:background="0x7f02056a" twitter:padding="0x7f0f0239" twitter:layout_width="0x7f0f023d" twitter:layout_height="0x7f0f023d" twitter:layout_marginLeft="0x7f0f023c" twitter:layout_marginTop="0x7f0f0245" twitter:layout_marginRight="0x7f0f023c" twitter:layout_below="0x7f1303d7" twitter:defaultDrawable="0x7f020a3c" style="0x7f0d02e0">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:cornerRadius="0x7f0f023b" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f03d7" twitter:textStyle="1" twitter:id="@bcx/name" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginTop="0x7f0f0240" twitter:layout_below="@k/avatar" />
+    <ImageView twitter:id="0x7f1303d8" twitter:visibility="2" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0240" twitter:layout_marginTop="0x7f0f0240" twitter:src="0x7f0208b2" twitter:layout_toRightOf="@bcx/name" twitter:layout_alignTop="@bcx/name" twitter:contentDescription="0x7f0a03f9" />
+    <LinearLayout twitter:id="0x7f1305ec" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginTop="0x7f0f03d8" twitter:layout_marginRight="0x7f0f0218" twitter:layout_marginBottom="0dp" twitter:layout_below="@bcx/name">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0231" twitter:textColor="0x7f1200a3" twitter:id="0x7f1303d9" twitter:layout_width="-2" twitter:layout_height="-1" twitter:includeFontPadding="false" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0046" twitter:textColor="0x7f1200a3" twitter:id="@bcx/follows_you" twitter:text="0x7f0a03b1" style="0x7f0d029d" />
+    </LinearLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0230" twitter:id="0x7f130018" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginTop="0x7f0f03d1" twitter:layout_marginRight="0x7f0f0218" twitter:layout_below="0x7f1305ec" twitter:lineSpacingMultiplier="0x7f0f0227" />
+    <com.twitter.internal.android.widget.FlowLayout twitter:id="0x7f1305e2" twitter:visibility="0" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginTop="0x7f0f03d3" twitter:layout_below="0x7f130018" twitter:horizontalSpacing="0x7f0f03b2" twitter:verticalSpacing="0x7f0f03b1" />
+    <LinearLayout twitter:id="0x7f130438" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0218" twitter:layout_marginTop="0x7f0f03d5" twitter:layout_below="0x7f1305e2">
+        <com.twitter.android.widget.TweetStatView twitter:textSize="0x7f0f0047" twitter:textStyle="1" twitter:id="0x7f1304af" twitter:layout_width="-2" twitter:layout_height="-1" twitter:nameTextColor="0x7f120188" twitter:valueTextColor="0x7f120189" />
+        <com.twitter.android.widget.TweetStatView twitter:textSize="0x7f0f0047" twitter:textStyle="1" twitter:id="0x7f1304b0" twitter:layout_width="-2" twitter:layout_height="-1" twitter:layout_marginLeft="0x7f0f03d2" twitter:nameTextColor="0x7f120188" twitter:valueTextColor="0x7f120189" />
+    </LinearLayout>
+    <View twitter:layout_width="-1" twitter:layout_height="0x7f0f03d4" twitter:layout_below="0x7f130438" />
+</RelativeLayout>

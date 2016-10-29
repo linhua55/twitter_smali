@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge twitter:layout_width="-1" twitter:layout_height="-2">
+    <RelativeLayout twitter:id="0x7f1306d5" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0109" twitter:layout_marginTop="0x7f0f010a" twitter:layout_marginRight="0x7f0f010a">
+        <com.twitter.library.media.widget.UserImageView twitter:id="0x7f1304ea" twitter:background="0x7f120085" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginRight="0x7f0f010a" twitter:contentDescription="0x7f0a0400" twitter:defaultDrawable="0x7f120004" twitter:userImageSize="0x7f0f00fa" twitter:imageCornerRadius="0x7f0f0178" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00f6" twitter:textStyle="1" twitter:ellipsize="3" twitter:id="0x7f1306d6" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_toRightOf="0x7f1304ea" twitter:layout_alignTop="0x7f1304ea" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00f6" twitter:textColor="0x7f12005a" twitter:ellipsize="3" twitter:id="0x7f1306d7" twitter:layout_width="-2" twitter:layout_height="-2" twitter:singleLine="true" twitter:layout_toRightOf="0x7f1304ea" twitter:layout_below="0x7f1306d6" />
+    </RelativeLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f00f6" twitter:textColor="0x7f120023" twitter:id="0x7f1306d8" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0109" twitter:layout_marginTop="0x7f0f010a" twitter:layout_marginRight="0x7f0f010a" twitter:maxLines="3" />
+    <View twitter:id="0x7f1306d9" twitter:background="0x7f120085" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" twitter:layout_marginTop="0x7f0f010a" />
+    <TextView twitter:textSize="0x7f0f00f6" twitter:textColor="0x7f120023" twitter:id="@k/title" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f0109" twitter:layout_marginTop="0x7f0f010a" twitter:layout_marginRight="0x7f0f010a" twitter:singleLine="true" />
+    <View twitter:id="0x7f1306da" twitter:background="0x7f120085" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" twitter:layout_marginTop="0x7f0f010a" />
+    <Button twitter:textSize="0x7f0f00f7" twitter:textColor="0x7f120159" twitter:id="0x7f130165" twitter:background="0x7f0200d7" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="0x7f0f00e9" twitter:textAllCaps="false" />
+    <View twitter:id="0x7f1306db" twitter:background="0x7f120085" twitter:layout_width="-1" twitter:layout_height="0x7f0f0001" />
+    <Button twitter:textSize="0x7f0f00f7" twitter:textColor="0x7f120159" twitter:id="0x7f1306dc" twitter:background="0x7f0200d6" twitter:layout_width="-1" twitter:layout_height="-2" twitter:minHeight="0x7f0f00e9" twitter:textAllCaps="false" />
+</merge>

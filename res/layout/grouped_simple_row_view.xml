@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true">
+    <RelativeLayout style="0x7f0d01ed">
+        <ImageView twitter:id="0x7f130392" twitter:contentDescription="@mx/View_android_theme" style="0x7f0d0140" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f13027b" style="0x7f0d02c6" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@k/title" style="0x7f0d02c8" />
+    </RelativeLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

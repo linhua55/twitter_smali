@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2">
+    <LinearLayout twitter:layout_gravity="1" twitter:orientation="1" twitter:id="0x7f1305d7" twitter:background="0x7f120089" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="0x7f0f03c5" twitter:layout_alignParentTop="true">
+        <ImageView twitter:gravity="11" twitter:layout_width="-1" twitter:layout_height="0x7f0f03c2" twitter:layout_marginTop="0x7f0f03c1" twitter:src="0x7f02061f" twitter:contentDescription="0x7f0a064d" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:gravity="11" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginTop="0x7f0f03c3" twitter:text="0x7f0a0645" style="0x7f0d029f" />
+    </LinearLayout>
+    <com.twitter.media.ui.image.MediaImageView twitter:id="@bcx/banner_image" twitter:layout_width="-1" twitter:layout_height="0x7f0f03c5" twitter:layout_alignParentTop="true" twitter:singleImageView="true">
+        <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:fixedSize="true" twitter:cornerRadiusTopLeft="0x7f0f038c" twitter:cornerRadiusTopRight="0x7f0f038c" />
+    </com.twitter.media.ui.image.MediaImageView>
+    <com.twitter.library.media.widget.UserImageView twitter:id="@bcx/user_image" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_marginLeft="0x7f0f004d" twitter:layout_below="@bcx/banner_image" twitter:defaultDrawable="0x7f120004" twitter:singleImageView="true" twitter:userImageSize="0x7f0f03c4" />
+</RelativeLayout>

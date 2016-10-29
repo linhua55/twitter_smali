@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:id="0x7f1301f9" android:layout_width="-1" android:layout_height="-1">
+    <include layout="0x7f0403c2" />
+    <RelativeLayout android:gravity="10" android:orientation="0" android:id="0x7f1301fc" android:paddingTop="4dp" android:layout_width="-1" android:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0045" android:textColor="0x7f120009" android:ellipsize="3" android:id="0x7f1304c7" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f0101" android:layout_marginRight="0x7f0f0101" android:maxLines="2" android:layout_toLeftOf="0x7f1301fd" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f003a" android:textColor="0x7f120140" android:id="0x7f1304c1" android:paddingBottom="8dp" android:clickable="true" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="0x7f0f0101" android:singleLine="true" android:layout_toLeftOf="0x7f1301fd" android:layout_below="0x7f1304c7" />
+        <com.twitter.ui.widget.TwitterButton android:textSize="0x7f0f0039" android:id="0x7f1301fd" android:layout_width="-2" android:layout_height="-2" android:layout_marginLeft="4dp" android:layout_marginRight="0x7f0f0101" android:layout_marginBottom="4dp" android:text="0x7f0a024c" android:layout_alignParentRight="true" android:layout_centerVertical="true" style="0x7f0d03d3" />
+    </RelativeLayout>
+</LinearLayout>

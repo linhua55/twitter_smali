@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView twitter:layout_width="-1" twitter:layout_height="-2" twitter:single="true">
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d01ed">
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0045" twitter:textStyle="1" twitter:textColor="0x7f1200fc" twitter:id="0x7f130689" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_alignParentLeft="true" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:textSize="0x7f0f0047" twitter:textColor="0x7f120159" twitter:ellipsize="3" twitter:id="0x7f13068a" twitter:layout_width="-2" twitter:layout_height="-2" twitter:maxLines="1" twitter:layout_below="0x7f130689" />
+    </RelativeLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

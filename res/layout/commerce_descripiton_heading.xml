@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2" android:animateLayoutChanges="true">
+    <View android:id="0x7f1301ed" android:background="0x7f120001" android:paddingTop="0x7f0f0142" android:layout_width="-1" android:layout_height="0x7f0f012c" />
+    <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f0133" android:textStyle="1" android:textColor="0x7f120009" android:gravity="3" android:id="0x7f1301ee" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0156" android:text="0x7f0a01d4" android:includeFontPadding="false" android:lineSpacingMultiplier="1.2" />
+    <com.twitter.android.commerce.widget.form.ExpandableTextView android:textColor="0x7f120009" android:gravity="3" android:id="0x7f1301ef" android:paddingTop="0x7f0f0153" android:paddingBottom="0x7f0f0151" android:layout_width="-2" android:layout_height="-2" android:text="Lorem ipsum dolor sit amet, consectetuer adipiscing elit" android:includeFontPadding="false" android:lineSpacingMultiplier="1.2" android:inputType="a0001" />
+</LinearLayout>

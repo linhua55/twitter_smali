@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.library.media.widget.UserImageView android:id="@bcx/user_image" style="0x7f0d02ce" />
+    <RelativeLayout android:layout_gravity="10" android:paddingBottom="2dp" android:layout_width="-1" android:layout_height="-2">
+        <include layout="0x7f0403a1" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@bcx/screenname_item" android:layout_below="0x7f130123" style="0x7f0d03fd" />
+        <com.twitter.ui.widget.TypefacesTextView android:ellipsize="0" android:id="0x7f13044f" android:paddingLeft="3dp" android:visibility="2" android:text="0x7f0a00fc" android:singleLine="true" android:layout_toRightOf="@bcx/screenname_item" android:layout_alignBaseline="@bcx/screenname_item" style="0x7f0d03fd" />
+        <ImageView android:layout_gravity="5" android:id="0x7f1302da" android:paddingRight="12dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:src="0x7f02057f" android:layout_alignParentRight="true" android:layout_centerInParent="true" android:contentDescription="@mx/View_android_theme" />
+    </RelativeLayout>
+</LinearLayout>

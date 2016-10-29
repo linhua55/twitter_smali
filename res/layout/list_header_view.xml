@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="-1" android:layout_height="-2"
+    <RelativeLayout android:id="@bcx/header_content" android:layout_width="-1" android:layout_height="-2" android:minHeight="?unknown_attr_ref: 101004d">
+        <ProgressBar android:layout_width="-2" android:layout_height="-2" android:layout_centerInParent="true" style="?unknown_attr_ref: 1010079" />
+    </RelativeLayout>
+    <View android:id="@bcx/divider" android:background="0x7f120001" android:layout_width="-1" android:layout_height="0x7f0f0001" android:layout_alignParentTop="true" />
+</RelativeLayout>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.ToolbarWrapperLayout twitter:layout_width="-1" twitter:layout_height="-1" twitter:toolBarId="@bcx/header">
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1"
+        <LinearLayout twitter:orientation="1" twitter:id="@bcx/header" twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d00a3"
+            <LinearLayout twitter:orientation="1" twitter:id="0x7f13067f" twitter:layout_width="-1" twitter:layout_height="-2" />
+            <com.twitter.android.dm.widget.DMRecipientSearch twitter:id="0x7f1302c6" twitter:layout_width="-1" twitter:layout_height="-2" />
+        </LinearLayout>
+        <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-1">
+            <FrameLayout twitter:id="0x7f130680" twitter:background="0x7f120001" twitter:layout_width="-1" twitter:layout_height="-1"
+                <FrameLayout twitter:background="0x7f120000" twitter:layout_width="-1" twitter:layout_height="-1" /> />
+            <ScrollView twitter:scrollbarStyle="2000000" twitter:gravity="11" twitter:id="0x7f130681" twitter:visibility="2" twitter:layout_width="-1" twitter:layout_height="-1">
+                <include layout="0x7f0400ac" />
+            </ScrollView>
+            <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+                <include layout="0x7f04032f" />
+            </LinearLayout>
+            <LinearLayout twitter:gravity="11" twitter:orientation="1" twitter:id="0x7f130682" twitter:layout_width="-1" twitter:layout_height="-1">
+                <ListView twitter:scrollbarStyle="2000000" twitter:id="0x7f130289" twitter:visibility="2" twitter:clipChildren="false" twitter:layout_width="-1" twitter:layout_height="-1" style="0x7f0d01df" />
+                <ProgressBar twitter:id="0x7f1303b8" twitter:layout_width="-2" twitter:layout_height="-2" style="?unknown_attr_ref: 1010077" />
+            </LinearLayout>
+            <LinearLayout twitter:focusable="true" twitter:focusableInTouchMode="true" twitter:layout_width="0px" twitter:layout_height="0px" />
+        </RelativeLayout> />
+</com.twitter.library.widget.ToolbarWrapperLayout>

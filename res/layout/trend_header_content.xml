@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.media.ui.image.MediaImageView twitter:id="@k/icon" twitter:layout_width="0x7f0f0052" twitter:layout_height="0x7f0f0052" twitter:layout_marginRight="0x7f0f004d" twitter:layout_alignParentLeft="true" twitter:layout_centerVertical="true" twitter:defaultDrawable="0x7f0209d4" twitter:scaleType="1" />
+    <LinearLayout twitter:orientation="1" twitter:layout_width="-2" twitter:layout_height="-2" twitter:layout_toRightOf="@k/icon" twitter:layout_centerVertical="true">
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130191" style="0x7f0d01ec" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@bcx/promoted" twitter:visibility="2" style="0x7f0d02a7" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130674" twitter:visibility="2" style="0x7f0d02da" />
+    </LinearLayout>
+</merge>

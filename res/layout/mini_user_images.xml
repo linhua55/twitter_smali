@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.library.media.widget.UserImageView android:visibility="2" style="0x7f0d0210" />
+    <com.twitter.library.media.widget.UserImageView android:visibility="2" style="0x7f0d0210" />
+    <com.twitter.library.media.widget.UserImageView android:visibility="2" style="0x7f0d0210" />
+    <com.twitter.library.media.widget.UserImageView android:visibility="2" style="0x7f0d0210" />
+    <com.twitter.library.media.widget.UserImageView android:visibility="2" style="0x7f0d0210" />
+</merge>

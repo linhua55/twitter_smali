@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.android.widget.LoggedOutBar android:orientation="1" android:id="0x7f13041d" android:background="0x7f020064" android:layout_width="-1" android:layout_height="-2">
+    <View android:background="0x7f120085" android:layout_width="-1" android:layout_height="1dp" />
+    <LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-1">
+        <Button android:id="0x7f13041e" android:text="0x7f0a007e" style="0x7f0d00e4" />
+        <Button android:id="0x7f13041f" android:text="0x7f0a007d" style="0x7f0d00e3" />
+    </LinearLayout>
+</com.twitter.android.widget.LoggedOutBar>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d0243">
+    <FrameLayout twitter:id="0x7f13014e" twitter:layout_width="-1" twitter:layout_height="-2">
+        <com.twitter.media.ui.image.MediaImageView twitter:layout_gravity="31" twitter:id="0x7f1304cb" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_margin="0dp" twitter:aspect_ratio="1.0" twitter:singleImageView="true">
+            <com.twitter.media.ui.image.RichImageView twitter:id="@k/image" twitter:layout_width="-1" twitter:layout_height="-1" twitter:cornerRadius="0x7f0f0185" twitter:fixedSize="true" />
+        </com.twitter.media.ui.image.MediaImageView>
+        <ViewSwitcher twitter:layout_gravity="50" twitter:id="0x7f1304cc" style="0x7f0d0258">
+            <LinearLayout twitter:id="0x7f1304cd" style="0x7f0d024f" />
+            <LinearLayout twitter:id="0x7f1304ce" style="0x7f0d024f" />
+        </ViewSwitcher>
+    </FrameLayout>
+    <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f1304cf" twitter:layout_below="0x7f13014e" style="0x7f0d0255" />
+</RelativeLayout>

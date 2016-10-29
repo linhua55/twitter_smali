@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="-1" android:layout_height="-1">
+    <android.support.v7.widget.RecyclerView android:id="0x7f1303fc" android:paddingLeft="0x7f0f004d" android:paddingRight="0x7f0f004d" android:paddingBottom="0x7f0f025e" android:clipToPadding="false" android:layout_width="-1" android:layout_height="-2" />
+    <ProgressBar android:layout_gravity="11" android:id="0x7f1301b2" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" style="?unknown_attr_ref: 1010077" />
+    <LinearLayout android:layout_gravity="11" android:orientation="1" android:id="0x7f1303fd" android:layout_width="-2" android:layout_height="-2">
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="0x7f0f00eb" android:layout_gravity="1" android:layout_width="-2" android:layout_height="-2" android:text="0x7f0a0408" />
+        <com.twitter.ui.widget.TwitterButton android:layout_gravity="1" android:id="0x7f1303ba" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="0x7f0f0269" android:text="0x7f0a040f" style="0x7f0d03be" />
+    </LinearLayout>
+</FrameLayout>

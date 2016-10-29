@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge>
+    <com.twitter.media.ui.image.AspectRatioFrameLayout twitter:id="0x7f130494" twitter:aspect_ratio="1.78" style="0x7f0d0374">
+        <com.twitter.library.media.widget.TweetMediaView twitter:id="0x7f1306a7" style="0x7f0d0373" />
+    </com.twitter.media.ui.image.AspectRatioFrameLayout>
+    <include layout="0x7f04037d" />
+    <RelativeLayout twitter:layout_width="-1" twitter:layout_height="-2" style="0x7f0d038c">
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f1306a8" style="0x7f0d0388" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="@k/title" twitter:layout_toRightOf="0x7f1306a8" style="0x7f0d0389" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f1301cf" twitter:layout_below="@k/title" style="0x7f0d037b" />
+        <com.twitter.ui.widget.TypefacesTextView twitter:id="0x7f130675" twitter:layout_below="0x7f1301cf" style="0x7f0d037c" />
+    </RelativeLayout>
+</merge>

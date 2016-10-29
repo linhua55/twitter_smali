@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.library.widget.InlineActionBar android:layout_width="-1" android:layout_height="-2">
+    <com.twitter.library.widget.InlineActionView android:id="@bcx/inline_reply" android:layout_width="-2" android:layout_height="-2" style="0x7f0d01d4" />
+    <com.twitter.library.widget.InlineActionView android:id="@bcx/inline_retweet" android:layout_width="-2" android:layout_height="-2" style="0x7f0d01d5" />
+    <com.twitter.library.widget.InlineActionView android:id="@bcx/inline_like" android:layout_width="-2" android:layout_height="-2" style="0x7f0d01d3" />
+    <com.twitter.library.widget.InlineActionView android:id="@bcx/inline_analytics" android:visibility="2" android:layout_width="-2" android:layout_height="-2" style="0x7f0d01d1" />
+    <com.twitter.library.widget.InlineActionView android:id="@bcx/inline_dm" android:visibility="0" android:layout_width="-2" android:layout_height="-2" style="0x7f0d01d2" />
+</com.twitter.library.widget.InlineActionBar>

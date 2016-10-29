@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout twitter:orientation="1" twitter:layout_width="-1" twitter:layout_height="-1">
+    <com.twitter.ui.widget.TwitterEditText twitter:id="0x7f1302ca" twitter:focusable="true" twitter:layout_width="-1" twitter:layout_height="-2" twitter:layout_marginLeft="10dp" twitter:layout_marginRight="10dp" twitter:singleLine="true" twitter:maxLength="20" twitter:inputType="1a001" twitter:labelText="0x7f0a028c" twitter:maxCharacterCount="20" twitter:characterCounterMode="1" style="0x7f0d03e5" />
+</LinearLayout>

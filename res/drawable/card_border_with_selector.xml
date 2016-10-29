@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector>
+    <item android:state_pressed="true">
+        <shape android:shape="0">
+            <solid android:color="0x7f1200b6" />
+            <padding android:left="0x7f0f00dc" android:top="0x7f0f00dc" android:right="0x7f0f00dc" android:bottom="0x7f0f00dc" />
+            <corners android:radius="0x7f0f00ff" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="0">
+            <stroke android:width="0x7f0f00dc" android:color="0x7f120001" />
+            <solid android:color="0x7f120041" />
+            <padding android:left="0x7f0f00dc" android:top="0x7f0f00dc" android:right="0x7f0f00dc" android:bottom="0x7f0f00dc" />
+            <corners android:radius="0x7f0f00ff" />
+        </shape>
+    </item>
+</selector>

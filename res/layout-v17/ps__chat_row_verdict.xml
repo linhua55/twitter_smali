@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout custom:orientation="1" custom:paddingLeft="10dp" custom:paddingTop="6dp" custom:paddingRight="16dp" custom:paddingBottom="6dp" custom:layout_width="-1" custom:layout_height="-2" custom:paddingStart="10dp" custom:paddingEnd="16dp"
+    <LinearLayout custom:gravity="10" custom:orientation="0" custom:layout_width="-1" custom:layout_height="-2">
+        <tv.periscope.android.view.PsTextView custom:textSize="14sp" custom:textColor="@h/ps__white" custom:id="@k/info" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginRight="5dp" custom:text="@o/ps__moderator_verdict" custom:layout_marginEnd="5dp" custom:ps__font="fonts/MuseoSans-300.otf" />
+        <tv.periscope.android.view.PsTextView custom:textSize="14sp" custom:textColor="@h/ps__white" custom:id="@k/moderation_verdict" custom:background="0x7f020a47" custom:paddingLeft="6dp" custom:paddingTop="2dp" custom:paddingRight="6dp" custom:paddingBottom="2dp" custom:layout_width="-2" custom:layout_height="-2" custom:paddingStart="6dp" custom:paddingEnd="6dp" custom:ps__font="fonts/MuseoSans-700.otf" />
+    </LinearLayout>
+    <tv.periscope.android.view.PsTextView custom:textSize="14sp" custom:textColor="@h/ps__white" custom:layout_gravity="50" custom:id="@k/consequence" custom:paddingTop="6dp" custom:visibility="2" custom:layout_width="-2" custom:layout_height="-2" custom:layout_marginRight="5dp" custom:text="@o/ps__moderator_verdict_consequence" custom:layout_marginEnd="5dp" custom:ps__font="fonts/MuseoSans-300.otf" />
+</LinearLayout>
