@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout style="@style/HorizontalScrollingSnapshotItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/snapshot_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/badge_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <LinearLayout android:gravity="end" android:orientation="horizontal" android:background="@drawable/bg_dark_to_clear_maker_crop_gradient" android:padding="@dimen/moments_standard_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageView android:id="@id/snapshot_canvas_crop_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_filters_crop_default_enhanced_flow" android:contentDescription="@null" />
+        <ImageView android:id="@id/media_picker_view" android:visibility="gone" android:layout_width="@dimen/moment_canvas_ic_media_picker_size" android:layout_height="@dimen/moment_canvas_ic_media_picker_size" android:src="@drawable/compose_album_btn" android:tint="@color/white" android:contentDescription="@string/moment_maker_pick_cover_button_description" />
+    </LinearLayout>
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

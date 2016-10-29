@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/moment_snapshot_rounded_rect_transparent_black_30" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_vertical" android:layout_gravity="center" android:orientation="horizontal" android:background="@drawable/moment_snapshot_rounded_rect_transparent_black_30" android:paddingLeft="@dimen/moments_micro_spacing" android:paddingTop="@dimen/moments_nano_spacing" android:paddingRight="@dimen/moments_micro_spacing" android:paddingBottom="@dimen/moments_nano_spacing" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <ImageView android:id="@id/badge_icon" android:layout_width="wrap_content" android:layout_height="@dimen/maker_badge_height" android:adjustViewBounds="true" android:contentDescription="@null" />
+        <android.support.v4.widget.Space android:id="@id/icon_text_spacing" android:layout_width="@dimen/moments_nano_spacing" android:layout_height="fill_parent" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@id/badge_text" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/MakerPageBadgeOverlayText" />
+    </LinearLayout>
+</FrameLayout>

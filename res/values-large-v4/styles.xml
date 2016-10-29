@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Base.Theme.AppCompat.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Dialog.FixedSize" />
+    <style name="Base.Theme.AppCompat.Light.DialogWhenLarge" parent="@style/Base.Theme.AppCompat.Light.Dialog.FixedSize" />
+    <style name="ps__SheetInner">
+        <item name="android:background">@drawable/ps__modal</item>
+        <item name="android:layout_width">400.0dip</item>
+    </style>
+</resources>

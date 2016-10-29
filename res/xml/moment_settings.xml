@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference android:title="@string/moment_settings_nsfw_flag" android:key="pref_nsfw_flag" android:order="10" />
+    <CheckBoxPreference android:title="@string/moment_settings_publish_location" android:key="pref_publish_location" android:order="20" />
+    <CheckBoxPreference android:title="@string/moment_settings_share_privately" android:key="pref_share_privately" android:order="30" />
+    <Preference android:title="@string/moment_settings_delete_moment" android:key="pref_delete_moment" android:order="40" />
+</PreferenceScreen>

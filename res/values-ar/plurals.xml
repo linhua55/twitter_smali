@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ps__invited_num_followers">
+        <item quantity="other">قام %1$s بدعوة %2$s أشخاص</item>
+        <item quantity="one">قام %1$s بدعوة %2$s شخص</item>
+    </plurals>
+    <plurals name="ps__invited_num_followers_embolden">
+        <item quantity="other">قام *%1$s* بدعوة %2$s أشخاص</item>
+        <item quantity="one">قام %1$s بدعوة %2$s شخص</item>
+    </plurals>
+    <plurals name="ps__stats_live_viewers">
+        <item quantity="other">مشاهِدون مباشرون</item>
+        <item quantity="one">مُشاهِد مباشر</item>
+    </plurals>
+    <plurals name="ps__stats_replay_viewers">
+        <item quantity="other">مشاهدو الإعادة</item>
+        <item quantity="one">مشاهِد أعاد المشاهدة</item>
+    </plurals>
+    <plurals name="ps__time_format_days">
+        <item quantity="other">%d أيام</item>
+        <item quantity="one">%d يوم</item>
+    </plurals>
+    <plurals name="ps__time_format_hours">
+        <item quantity="other">%d ساعات</item>
+        <item quantity="one">%d ساعة</item>
+    </plurals>
+    <plurals name="ps__time_format_minutes">
+        <item quantity="other">%d دقائق</item>
+        <item quantity="one">%d دقيقة</item>
+    </plurals>
+    <plurals name="ps__time_format_seconds">
+        <item quantity="other">%d ثواني</item>
+        <item quantity="one">%d ثانية</item>
+    </plurals>
+</resources>

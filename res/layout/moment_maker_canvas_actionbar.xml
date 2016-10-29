@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/toolBarHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.twitter.android.widget.ToggleImageButton android:layout_gravity="start|center" android:id="@id/close_button" android:padding="@dimen/moments_large_spacing" android:layout_width="wrap_content" android:layout_height="wrap_content" android:foreground="@drawable/ripple_selector_oval" android:src="@drawable/ic_moments_close" android:scaleType="center" />
+    <LinearLayout android:layout_gravity="end|center" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <com.twitter.ui.widget.TwitterButton android:layout_gravity="end|center" android:id="@id/nav_to_grid_button" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/moments_standard_spacing_half" android:text="@string/edit" android:contentDescription="@null" style="@style/TwitterButtonMediumNightBorderless" />
+        <com.twitter.ui.widget.TwitterButton android:id="@id/publish_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/moments_standard_spacing_half" android:text="@string/publish" android:contentDescription="@null" style="@style/TwitterButtonMediumNight" />
+        <ImageView android:id="@id/settings_button" android:layout_width="wrap_content" android:layout_height="fill_parent" android:layout_margin="@dimen/moments_standard_spacing_half" android:src="@drawable/ic_moments_tweet_action_overflow_off" android:contentDescription="@string/additional_moment_settings_button_content_description" />
+    </LinearLayout>
+</FrameLayout>

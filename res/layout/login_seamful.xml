@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:twitter="http://schemas.android.com/apk/res-auto">
+    <include layout="@layout/top_toolbar_with_clean_style" />
+    <ScrollView android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <include layout="@layout/signup_clean_header" />
+            <LinearLayout android:orientation="vertical" android:id="@id/login_form" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/SignupForm">
+                <com.twitter.internal.android.widget.PopupEditText android:textColor="@color/text" android:id="@id/login_identifier" android:inputType="textEmailAddress" android:imeOptions="actionNext" twitter:labelText="@string/login_identifier" style="@style/TwitterSignupEdit" />
+                <com.twitter.ui.widget.TwitterEditText android:textColor="@color/text" android:id="@id/login_password" android:singleLine="true" android:inputType="textPassword" twitter:labelText="@string/login_password" twitter:statusIcon="@drawable/login_password_revealer" twitter:statusIconPosition="right" style="@style/TwitterSignupEdit" />
+                <com.twitter.ui.widget.TypefacesTextView android:textColor="@color/secondary_text" android:gravity="center_horizontal" android:layout_gravity="center_horizontal" android:id="@id/password_reset" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_row_padding_horizontal" android:layout_marginTop="@dimen/twitter_edit_text_padding_top" android:layout_marginRight="@dimen/list_row_padding_horizontal" android:text="@string/login_forgot_password" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:layout_gravity="top" android:layout_width="fill_parent" android:layout_height="1.0dip" style="@style/HorizontalRule" />
+        <com.twitter.ui.widget.TwitterButton android:layout_gravity="end|bottom|center" android:id="@id/login_login" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="10.0dip" android:text="@string/login_cta" style="@style/TwitterButtonMediumHeavy" />
+    </FrameLayout>
+</LinearLayout>

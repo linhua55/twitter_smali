@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:background="@drawable/moment_snapshot_container_background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:twitter="http://schemas.android.com/apk/res-auto">
+    <com.twitter.media.ui.image.MediaImageView android:id="@id/background_image" android:layout_width="fill_parent" android:layout_height="fill_parent" twitter:scaleType="fill" />
+    <LinearLayout android:layout_gravity="bottom" android:orientation="vertical" android:padding="@dimen/moments_standard_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <EditText android:textSize="@dimen/moments_text_size_large" android:id="@id/title_edit_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/canvas_cover_title" android:singleLine="true" android:imeOptions="actionNext" style="@style/MomentCoverEditText" />
+        <EditText android:textSize="@dimen/moments_text_size_large" android:id="@id/description_edit_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:hint="@string/canvas_cover_description" android:singleLine="true" android:imeOptions="actionDone" style="@style/MomentCoverEditText" />
+    </LinearLayout>
+</FrameLayout>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.media.ui.image.AspectRatioFrameLayout style="@style/HorizontalScrollingSnapshotItem"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/snapshot_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/badge_container" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <FrameLayout android:id="@id/snapshot_selection_overlay" android:background="@drawable/maker_selected_overlay_bg" android:layout_width="fill_parent" android:layout_height="fill_parent">
+        <ImageView android:layout_gravity="center" android:background="@drawable/ic_maker_selected" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@null" />
+    </FrameLayout>
+</com.twitter.media.ui.image.AspectRatioFrameLayout>

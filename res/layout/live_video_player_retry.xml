@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:background="@color/black" android:padding="@dimen/moments_standard_spacing" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <ImageButton android:layout_gravity="center" android:id="@id/live_video_player_error_retry_button" android:background="@drawable/ic_video_replay" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/live_video_retry" />
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="@color/white" android:layout_gravity="bottom|center" android:id="@id/live_video_player_error_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/card_spacing_medium" android:maxLines="4" style="@style/LiveVideoCardText.Secondary.Text" />
+</FrameLayout>

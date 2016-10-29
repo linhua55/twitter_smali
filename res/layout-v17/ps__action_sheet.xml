@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <FrameLayout android:id="@id/carousel_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <View android:layout_gravity="bottom" android:id="@id/report_comment_background" android:background="@color/ps__app_background_secondary" android:layout_width="fill_parent" android:layout_height="@dimen/ps__report_bg_start_height" />
+        <tv.periscope.android.view.PsTextView android:textSize="12.0sp" android:textColor="@color/ps__secondary_text" android:gravity="center_horizontal" android:layout_gravity="bottom" android:id="@id/report_comment_info" android:paddingBottom="8.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:text="@string/ps__action_sheet_report_snippet" android:paddingStart="32.0dip" android:paddingEnd="32.0dip" custom:ps__font="fonts/MuseoSans-500.otf" />
+        <tv.periscope.android.view.CarouselView android:layout_gravity="top" android:id="@id/message_carousel" android:paddingBottom="16.0dip" android:layout_width="fill_parent" android:layout_height="100.0dip" />
+    </FrameLayout>
+    <tv.periscope.android.view.PsTextView android:textSize="16.0sp" android:textColor="@color/ps__secondary_text" android:gravity="center" android:id="@id/info_snippet" android:background="@color/ps__app_background" android:paddingTop="16.0dip" android:paddingBottom="16.0dip" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="?android:listPreferredItemHeight" android:layout_below="@id/carousel_container" android:paddingStart="32.0dip" android:paddingEnd="32.0dip" custom:ps__font="fonts/MuseoSans-300.otf" />
+    <View android:id="@id/action_sheet_divider" android:background="@color/ps__border" android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/info_snippet" />
+    <android.support.v7.widget.RecyclerView android:id="@id/actions" android:background="@color/ps__app_background" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/action_sheet_divider" />
+</merge>

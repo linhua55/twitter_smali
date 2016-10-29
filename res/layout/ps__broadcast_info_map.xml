@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="80.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:map="http://schemas.android.com/apk/res-auto">
+    <com.google.android.gms.maps.MapView android:id="@id/map" android:clickable="false" android:layout_width="fill_parent" android:layout_height="fill_parent" map:cameraZoom="12.0" map:liteMode="true" map:uiMapToolbar="false" />
+    <tv.periscope.android.ui.view.LocalTimeView android:textSize="12.0sp" android:id="@id/broadcast_local_time" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="3.0dip" map:ps__font="fonts/MuseoSans-700.otf" />
+</FrameLayout>

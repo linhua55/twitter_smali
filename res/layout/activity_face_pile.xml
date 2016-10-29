@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="horizontal" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/activity_face_pile_text_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/mini_user_images" />
+</LinearLayout>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <include layout="@layout/moments_indeterminate_progress_bar" />
+    <com.twitter.android.moments.ui.maker.SnappyRecyclerView android:layout_gravity="center_vertical" android:id="@id/recycler_view" android:paddingTop="@dimen/moments_large_spacing" android:paddingBottom="@dimen/moments_large_spacing" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <LinearLayout android:layout_gravity="center_vertical" android:orientation="vertical" android:id="@id/empty_view_layout" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/button_medium_text" android:textColor="@color/white" android:gravity="center" android:id="@id/empty_view_text" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_margin="@dimen/moments_standard_spacing" />
+        <com.twitter.ui.widget.TwitterButton android:layout_gravity="center" android:id="@id/refresh_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/moments_standard_spacing" android:text="@string/maker_tab_refresh_button_text" android:contentDescription="@null" style="@style/TwitterButtonMediumNight" />
+    </LinearLayout>
+</FrameLayout>

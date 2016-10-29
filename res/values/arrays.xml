@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="account_notif">
+        <item>All Tweets</item>
+        <item>Only live video</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="badge_behaviors_descriptions">
+        <item>Enabled for all</item>
+        <item>Enabled only for Direct Messages</item>
+        <item>Disabled for all</item>
+    </string-array>
+    <string-array name="card_long_press_options">
+        <item>Tweet link</item>
+        <item>Copy link</item>
+        <item>Send link</item>
+    </string-array>
+    <string-array name="csat_prompt_feedback_variants">
+        <item>What is your overall satisfaction with %1$s?</item>
+        <item>How satisfied are you with %1$s?</item>
+        <item>Overall, how satisfied were you with your recent %1$s experience?</item>
+        <item>How would you rate the overall experience with %1$s?</item>
+        <item>How would you rate your overall experience with %1$s?</item>
+        <item>How would you rate your experience so far with %1$s?</item>
+        <item>How would you rate your experience on Twitter with %1$s?</item>
+        <item>Were you satisfied with your recent experience with %1$s?</item>
+        <item>How well does %1$s meet your expectations?</item>
+        <item>How would you rate your guest experience with %1$s?</item>
+        <item>How would you rate your service experience with %1$s?</item>
+        <item>How would you rate your recent service experience with %1$s?</item>
+        <item>How would you rate the service you received from %1$s?</item>
+        <item>Were you satisfied with the result of your interaction with %1$s?</item>
+        <item>How would you rate the ability to resolve your issue with %1$s?</item>
+        <item>How would you rate the response time from %1$s?</item>
+        <item>How would you rate the speed of service from %1$s?</item>
+        <item>How would you rate the time to resolution with %1$s?</item>
+        <item>How would you rate the time to resolve your issue with %1$s?</item>
+        <item>How would you rate the speed of resolution with %1$s?</item>
+        <item>"How would you rate the %1$s advisor's expertise?"</item>
+        <item>How satisfied were you with the %1$s agent who helped you?</item>
+        <item>How satisfied were you with the %1$s specialist who helped you?</item>
+        <item>How satisfied were you with the %1$s representative who helped you?</item>
+        <item>How would you rate your recent banking experience with %1$s?</item>
+        <item>How would you rate the overall event experience at %1$s?</item>
+        <item>How would you rate your bill pay experience with %1$s?</item>
+        <item>How would you rate your purchase experience with %1$s?</item>
+        <item>How would you rate your shopping experience with %1$s?</item>
+        <item>How would you rate your delivery experience with %1$s?</item>
+        <item>How would you rate your rental experience with %1$s?</item>
+        <item>How would you rate your recent %1$s store visit?</item>
+        <item>How would you rate your recent %1$s hotel stay?</item>
+        <item>How would you rate your recent flight with %1$s?</item>
+        <item>How would you rate your recent ride with %1$s?</item>
+        <item>How would you rate your recent trip with %1$s?</item>
+        <item>How would you rate your recent visit to %1$s?</item>
+        <item>How would you rate your recent meal at %1$s?</item>
+    </string-array>
+    <string-array name="mention_notif">
+        <item>Tailored for you</item>
+        <item>From anyone</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="nps_prompt_feedback_variants">
+        <item>How likely are you to recommend %1$s to a friend?</item>
+        <item>How likely is it that you would recommend %1$s to a friend?</item>
+        <item>How likely is it that you would recommend %1$s to a colleague?</item>
+        <item>How likely is it that you would recommend %1$s to a family member?</item>
+        <item>How likely is it that you would recommend %1$s to someone else?</item>
+        <item>How likely is it that you would recommend %1$s to a friend or colleague?</item>
+        <item>How likely is it that you would shop at %1$s in the future?</item>
+        <item>How likely is it that you would recommend %1$s?</item>
+        <item>Would you recommend %1$s to a friend or colleague?</item>
+        <item>How likely are you to recommend your experience with %1$s to a friend?</item>
+    </string-array>
+    <string-array name="polls_notif">
+        <item>Only polls I create</item>
+        <item>Polls I create or vote in</item>
+        <item>Off</item>
+    </string-array>
+    <string-array name="refresh_intervals">
+        <item>5 minutes</item>
+        <item>10 minutes</item>
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>2 hours</item>
+        <item>4 hours</item>
+        <item>Daily</item>
+    </string-array>
+    <string-array name="report_problem_dlg_categories">
+        <item>General</item>
+        <item>Network</item>
+        <item>Photos and videos</item>
+        <item>Tweets and timelines</item>
+    </string-array>
+    <string-array name="account_notif_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="auto_play_entries">
+        <item>@string/settings_video_autoplay_use_mobile_wifi</item>
+        <item>@string/settings_video_autoplay_use_wifi_only</item>
+        <item>@string/settings_video_autoplay_never</item>
+    </string-array>
+    <string-array name="auto_play_value">
+        <item>wifi_and_mobile</item>
+        <item>wifi_only</item>
+        <item>never</item>
+    </string-array>
+    <string-array name="badge_behaviors_values">
+        <item>badge_enabled</item>
+        <item>badge_dm_only</item>
+        <item>badge_disabled</item>
+    </string-array>
+    <array name="camera_flash_toggle_drawables">
+        <item>@drawable/ic_cc_flash_off</item>
+        <item>@drawable/ic_cc_flash</item>
+        <item>@drawable/ic_cc_flash</item>
+    </array>
+    <string-array name="camera_flash_toggle_modes">
+        <item>off</item>
+        <item>on</item>
+        <item>torch</item>
+    </string-array>
+    <string-array name="change_photo_options">
+        <item>@string/edit_profile_take_photo</item>
+        <item>@string/edit_profile_choose_existing_photo</item>
+    </string-array>
+    <string-array name="commerce_state_codes">
+        <item>AL</item>
+        <item>AK</item>
+        <item>AZ</item>
+        <item>AR</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </string-array>
+    <string-array name="commerce_states_long_list">
+        <item>@string/commerce_choose_state</item>
+        <item>Alabama</item>
+        <item>Alaska</item>
+        <item>Arizona</item>
+        <item>Arkansas</item>
+        <item>California</item>
+        <item>Colorado</item>
+        <item>Connecticut</item>
+        <item>Delaware</item>
+        <item>District Of Columbia</item>
+        <item>Florida</item>
+        <item>Georgia</item>
+        <item>Hawaii</item>
+        <item>Idaho</item>
+        <item>Illinois</item>
+        <item>Indiana</item>
+        <item>Iowa</item>
+        <item>Kansas</item>
+        <item>Kentucky</item>
+        <item>Louisiana</item>
+        <item>Maine</item>
+        <item>Maryland</item>
+        <item>Massachusetts</item>
+        <item>Michigan</item>
+        <item>Minnesota</item>
+        <item>Mississippi</item>
+        <item>Missouri</item>
+        <item>Montana</item>
+        <item>Nebraska</item>
+        <item>Nevada</item>
+        <item>New Hampshire</item>
+        <item>New Jersey</item>
+        <item>New Mexico</item>
+        <item>New York</item>
+        <item>North Carolina</item>
+        <item>North Dakota</item>
+        <item>Ohio</item>
+        <item>Oklahoma</item>
+        <item>Oregon</item>
+        <item>Pennsylvania</item>
+        <item>Rhode Island</item>
+        <item>South Carolina</item>
+        <item>South Dakota</item>
+        <item>Tennessee</item>
+        <item>Texas</item>
+        <item>Utah</item>
+        <item>Vermont</item>
+        <item>Virginia</item>
+        <item>Washington</item>
+        <item>West Virginia</item>
+        <item>Wisconsin</item>
+        <item>Wyoming</item>
+    </string-array>
+    <string-array name="font_sizes">
+        <item>13 pt</item>
+        <item>14 pt</item>
+        <item>15 pt</item>
+        <item>16 pt</item>
+        <item>17 pt</item>
+        <item>18 pt</item>
+        <item>19 pt</item>
+        <item>20 pt</item>
+    </string-array>
+    <string-array name="font_sizes_values">
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+    </string-array>
+    <string-array name="http_client_entries">
+        <item>DebugOkHttpOperationClient/OkHttp3 (Default)</item>
+        <item>PinningOkHttpOperationClient (OkHttp 1.5)</item>
+        <item>Mock</item>
+        <item>Charles</item>
+        <item>DebugHttpUrlConnectionClient</item>
+        <item>Sample Stories</item>
+        <item>Empty Home Timeline</item>
+        <item>Recap</item>
+        <item>Revenue</item>
+        <item>TweetView Permutation</item>
+        <item>Instant Timeline</item>
+        <item>Who To Follow</item>
+        <item>Timeline Prompts</item>
+        <item>Notifications</item>
+        <item>Media Gallery</item>
+    </string-array>
+    <string-array name="http_client_values">
+        <item>com.twitter.library.network.debug.DebugOkHttpOperationClient</item>
+        <item>com.twitter.library.network.PinningOkHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.MockHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.CharlesHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.DebugHttpUrlConnectionClient</item>
+        <item>com.twitter.library.network.debug.StoryHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.EmptyHomeTimelineHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.RecapHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.RevenueHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.TweetViewPermutationOperationClient</item>
+        <item>com.twitter.library.network.debug.InstantTimelineHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.WtfHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.TimelinePromptHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.NotificationsMockHttpOperationClient</item>
+        <item>com.twitter.library.network.debug.MediaGalleryHttpOperationClient</item>
+    </string-array>
+    <string-array name="mandatory_phone_signup_not_receive_sms">
+        <item>@string/phone_verify_resend_the_code</item>
+        <item>@string/phone_verify_signup_with_email</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="mark_message_spam">
+        <item>@string/mark_as_spam</item>
+        <item>@string/mark_as_abusive</item>
+    </string-array>
+    <string-array name="media_tagging_setting_entries">
+        <item>@string/media_tagging_setting_anyone</item>
+        <item>@string/media_tagging_setting_follow</item>
+        <item>@string/media_tagging_setting_no_one</item>
+    </string-array>
+    <string-array name="media_tagging_setting_values">
+        <item>@string/media_tagging_setting_value_all</item>
+        <item>@string/media_tagging_setting_value_following</item>
+        <item>@string/media_tagging_setting_value_none</item>
+    </string-array>
+    <string-array name="moments_debug_feedback_areas">
+        <item>Moment</item>
+        <item>Page</item>
+    </string-array>
+    <string-array name="moments_debug_feedback_sentiments">
+        <item>@string/moments_debug_dialog_like_it</item>
+        <item>@string/moments_debug_dialog_needs_improvement</item>
+    </string-array>
+    <string-array name="moments_debug_negative_feedback_moment_areas">
+        <item>Has spelling/grammar errors on cover</item>
+        <item>Lacks content</item>
+        <item>Is missing part of the story</item>
+        <item>Is outdated</item>
+        <item>Is repetitive</item>
+        <item>May be offensive</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="moments_debug_negative_feedback_page_areas">
+        <item>Is not relevant to the story</item>
+        <item>Comes from a suspect author</item>
+        <item>Is repetitive</item>
+        <item>Is poorly cropped</item>
+        <item>Has media that is unclear</item>
+        <item>Has broken link</item>
+        <item>May be offensive</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="moments_debug_positive_feedback_moment_areas">
+        <item>Informative</item>
+        <item>Funny</item>
+        <item>Well Constructed</item>
+        <item>Other</item>
+    </string-array>
+    <string-array name="moments_debug_positive_feedback_page_areas">
+        <item>Informative</item>
+        <item>Funny</item>
+        <item>Unique</item>
+        <item>Other</item>
+    </string-array>
+    <integer-array name="new_filter_intensities">
+        <item>100</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>80</item>
+        <item>100</item>
+    </integer-array>
+    <string-array name="new_filter_names">
+        <item>@string/filter_name_no_filter</item>
+        <item>@string/filter_name_radiant</item>
+        <item>@string/filter_name_positive</item>
+        <item>@string/filter_name_warm</item>
+        <item>@string/filter_name_breeze</item>
+        <item>@string/filter_name_glow</item>
+        <item>@string/filter_name_golden</item>
+        <item>@string/filter_name_fame</item>
+        <item>@string/filter_name_stark</item>
+    </string-array>
+    <integer-array name="new_filters">
+        <item>0</item>
+        <item>@integer/filter_id_radiant</item>
+        <item>@integer/filter_id_positive</item>
+        <item>@integer/filter_id_new_warm</item>
+        <item>@integer/filter_id_breeze</item>
+        <item>@integer/filter_id_glow</item>
+        <item>@integer/filter_id_golden</item>
+        <item>@integer/filter_id_fame</item>
+        <item>@integer/filter_id_stark</item>
+    </integer-array>
+    <string-array name="notif_settings_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+    </string-array>
+    <string-array name="notif_vit_follows_entries">
+        <item>@string/settings_tailored_option</item>
+        <item>@string/settings_verified_option</item>
+        <item>@string/settings_off_option</item>
+    </string-array>
+    <string-array name="refresh_interval_values">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>240</item>
+        <item>1440</item>
+    </string-array>
+    <string-array name="report_conversation_options">
+        <item>@string/mark_as_spam</item>
+        <item>@string/mark_as_abusive</item>
+    </string-array>
+    <string-array name="scribe_flushing_frequencies">
+        <item>default</item>
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+    </string-array>
+    <string-array name="settings_update_phone_options">
+        <item>@string/settings_update_phone</item>
+        <item>@string/settings_delete_phone</item>
+        <item>@string/cancel</item>
+    </string-array>
+    <string-array name="simulate_back_pressure_labels">
+        <item>Off</item>
+        <item>Server default</item>
+        <item>Always</item>
+    </string-array>
+    <string-array name="simulate_back_pressure_values">
+        <item></item>
+        <item>choice</item>
+        <item>always</item>
+    </string-array>
+    <string-array name="video_multi_bitrate_network_type_labels">
+        <item>Dynamic</item>
+        <item>Unknown</item>
+        <item>Very Low</item>
+        <item>Low</item>
+        <item>Medium Low</item>
+        <item>Medium</item>
+        <item>Medium High</item>
+        <item>High</item>
+        <item>Very High</item>
+    </string-array>
+    <string-array name="video_multi_bitrate_network_type_values">
+        <item></item>
+        <item>UNKNOWN</item>
+        <item>VERY_LOW</item>
+        <item>LOW</item>
+        <item>MEDIUM_LOW</item>
+        <item>MEDIUM</item>
+        <item>MEDIUM_HIGH</item>
+        <item>HIGH</item>
+        <item>VERY_HIGH</item>
+    </string-array>
+    <array name="whitelisted_device_ids" />
+</resources>

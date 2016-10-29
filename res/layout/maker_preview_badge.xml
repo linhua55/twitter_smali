@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_gravity="center_horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/maker_preview_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/font_size_micro" android:textColor="@color/white" android:layout_gravity="center|top" android:id="@id/preview_badge" android:background="@drawable/preview_badge_background" android:paddingLeft="@dimen/maker_preview_padding" android:paddingTop="@dimen/maker_preview_padding_top" android:paddingRight="@dimen/maker_preview_padding" android:paddingBottom="@dimen/maker_preview_padding" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:scaleType="center" android:text="@string/maker_preview_badge" android:contentDescription="@null" android:textAllCaps="true" />
+</FrameLayout>

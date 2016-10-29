@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="event_header_image_height">48.0dip</dimen>
+    <dimen name="welcome_screen_description_margin_bottom">85.0dip</dimen>
+    <dimen name="welcome_screen_header_margin_bottom">10.0dip</dimen>
+    <dimen name="welcome_screen_header_margin_top">70.0dip</dimen>
+    <dimen name="share_via_dm_recent_item_dimension">68.0dip</dimen>
+</resources>

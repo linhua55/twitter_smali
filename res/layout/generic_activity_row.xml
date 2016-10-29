@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.HighlightedRelativeLayout android:orientation="horizontal" android:paddingTop="@dimen/activity_header_margin_top" style="@style/ListRow.Activity"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:id="@id/icon_container" android:layout_width="@dimen/user_image_size" android:layout_height="wrap_content" android:layout_marginRight="@dimen/image_margin_end" android:layout_below="@id/social_proof_container" android:layout_alignParentLeft="true">
+        <ImageView android:layout_gravity="center|right|top" android:id="@id/icon" android:contentDescription="@null" style="@style/ActivityIcon" />
+    </FrameLayout>
+    <FrameLayout android:id="@id/social_proof_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/icon_container">
+        <ViewStub android:id="@id/social_proof" android:layout="@layout/generic_activity_social_proof" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <FrameLayout android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignTop="@id/icon_container" android:layout_alignParentRight="true">
+        <ViewStub android:id="@id/caret" android:layout="@layout/generic_activity_caret" android:inflatedId="@id/caret_inflated" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </FrameLayout>
+    <LinearLayout android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_toRightOf="@id/icon_container" android:layout_below="@id/social_proof_container">
+        <ViewStub android:id="@id/face_pile" android:layout="@layout/activity_face_pile" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="@dimen/font_size_medium" android:textColor="@color/text" android:id="@id/display_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:includeFontPadding="false" />
+        <ViewStub android:id="@id/context_tweet" android:layout="@layout/generic_activity_context_tweet" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    </LinearLayout>
+</com.twitter.internal.android.widget.HighlightedRelativeLayout>

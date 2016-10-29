@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="ps__chat_layout_margin_end">30.0dip</dimen>
+    <dimen name="ps__heart_anim_init_x">20.0dip</dimen>
+    <dimen name="ps__heart_anim_x_point_factor">5.0dip</dimen>
+    <dimen name="ps__heart_container_width">85.0dip</dimen>
+    <dimen name="ps__location_icon_margin">6.0dip</dimen>
+</resources>

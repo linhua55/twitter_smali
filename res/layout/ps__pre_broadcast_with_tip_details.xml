@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:orientation="horizontal" android:id="@id/public_private_container" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/ps__standard_spacing_16">
+        <tv.periscope.android.view.PsSelectedTextView android:textSize="16.0sp" android:textColor="@color/ps__text_activated" android:id="@id/public_text" android:paddingTop="13.0dip" android:paddingBottom="14.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ps__broadcast_public" android:textAllCaps="true" custom:ps__indicatorSize="2.0dip" custom:ps__indicatorColor="@color/ps__white" custom:ps__font="fonts/MuseoSans-700.otf" />
+        <tv.periscope.android.view.PsSelectedTextView android:textSize="16.0sp" android:textColor="@color/ps__text_activated" android:id="@id/lock" android:paddingTop="13.0dip" android:paddingBottom="14.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/ps__broadcast_private" android:textAllCaps="true" custom:ps__indicatorSize="2.0dip" custom:ps__indicatorColor="@color/ps__white" custom:ps__font="fonts/MuseoSans-700.otf" />
+        <tv.periscope.android.view.PsTextView android:textSize="12.0sp" android:textColor="@color/ps__white" android:layout_gravity="center_vertical" android:id="@id/dev" android:background="@drawable/ps__bg_live" android:padding="3.0dip" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/ps__standard_spacing_16" android:layout_marginRight="@dimen/ps__standard_spacing_16" android:text="DEV" custom:ps__font="fonts/MuseoSans-700.otf" />
+    </LinearLayout>
+    <FrameLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="48.0dip">
+        <tv.periscope.android.ui.broadcast.view.BroadcastTipView android:id="@id/broadcast_tip" android:background="@drawable/ps__bg_broadcast_tip" android:visibility="invisible" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="50.0dip" />
+        <tv.periscope.android.view.PsEditText android:textSize="24.0sp" android:textColor="#ffdedede" android:textColorHint="#ff555555" android:gravity="top" android:id="@id/edit_broadcast_title" android:background="@null" android:paddingBottom="8.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="4.0dip" android:hint="@string/ps__broadcast_title_hint" android:maxLength="@integer/ps__broadcast_title_length" android:textCursorDrawable="@drawable/ps__bg_cursor_white" custom:ps__font="fonts/ProximaNova-Light.otf" />
+    </FrameLayout>
+    <include layout="@layout/ps__pre_broadcast_options" />
+</merge>

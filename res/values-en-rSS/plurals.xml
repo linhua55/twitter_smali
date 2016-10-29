@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="ps__invited_num_followers">
+        <item quantity="other">[[148949]] %1$s invited %2$s people</item>
+        <item quantity="one">[[148948]] %1$s invited %2$s person</item>
+    </plurals>
+    <plurals name="ps__invited_num_followers_embolden">
+        <item quantity="other">[[148947]] *%1$s* invited %2$s people</item>
+        <item quantity="one">[[148946]] *%1$s* invited %2$s person</item>
+    </plurals>
+    <plurals name="ps__stats_live_viewers">
+        <item quantity="other">[[155197]] LIVE VIEWERS</item>
+        <item quantity="one">[[155196]] LIVE VIEWER</item>
+    </plurals>
+    <plurals name="ps__stats_replay_viewers">
+        <item quantity="other">[[155199]] REPLAY VIEWERS</item>
+        <item quantity="one">[[155198]] REPLAY VIEWER</item>
+    </plurals>
+    <plurals name="ps__time_format_days">
+        <item quantity="other">[[150433]] %d Days</item>
+        <item quantity="one">[[150432]] %d Day</item>
+    </plurals>
+    <plurals name="ps__time_format_hours">
+        <item quantity="other">[[150435]] %d Hours</item>
+        <item quantity="one">[[150434]] %d Hour</item>
+    </plurals>
+    <plurals name="ps__time_format_minutes">
+        <item quantity="other">[[150437]] %d Minutes</item>
+        <item quantity="one">[[150436]] %d Minute</item>
+    </plurals>
+    <plurals name="ps__time_format_seconds">
+        <item quantity="other">[[150439]] %d Seconds</item>
+        <item quantity="one">[[150438]] %d Second</item>
+    </plurals>
+</resources>

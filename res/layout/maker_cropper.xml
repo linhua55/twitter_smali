@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.twitter.moments.maker.ui.cropper.view.CropContainerView android:id="@id/crop_container_view" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <TextView android:gravity="center_vertical" android:id="@id/crop_progress_text" android:layout_width="wrap_content" android:layout_height="@dimen/cropper_bar_height" android:layout_centerHorizontal="true" style="@style/MomentsCropperProgressText" />
+    <include android:layout_gravity="bottom|center" android:id="@id/crop_actions_bar" android:layout_width="fill_parent" android:layout_height="@dimen/cropper_bar_height" android:layout_alignParentBottom="true" layout="@layout/maker_cropper_bar" />
+</RelativeLayout>

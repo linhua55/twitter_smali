@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="@dimen/toolBarHeight"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.twitter.ui.widget.TwitterButton android:layout_gravity="end|center" android:id="@id/done" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/moments_standard_spacing_half" android:text="@string/done" android:contentDescription="@null" style="@style/TwitterButtonMediumNightBorderless" />
+</FrameLayout>

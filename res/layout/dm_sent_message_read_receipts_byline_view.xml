@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="right" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <FrameLayout android:textColor="@color/secondary_text" android:gravity="right" android:id="@id/byline_container" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:id="@id/byline_draft" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.twitter.ui.widget.TypefacesTextView android:textColor="@color/secondary_text" android:gravity="right" android:id="@id/draft_status" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/Byline.Message.Sent" />
+            <com.twitter.android.dm.widget.ProgressIndicator android:id="@id/upload_progress_indicator" android:layout_width="@dimen/dm_read_receipt_icon_size" android:layout_height="@dimen/dm_read_receipt_icon_size" android:layout_marginLeft="@dimen/dm_divot_width" android:layout_marginTop="@dimen/dm_read_receipt_icon_padding_top" />
+        </LinearLayout>
+        <LinearLayout android:gravity="right" android:orientation="horizontal" android:id="@id/byline_complete" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <FrameLayout android:layout_gravity="top" android:layout_width="wrap_content" android:layout_height="wrap_content">
+                <com.twitter.ui.widget.TypefacesTextView android:id="@id/message_timestamp" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Byline.Message.Sent" />
+                <com.twitter.ui.widget.TypefacesTextView android:id="@id/message_state" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Byline.Message.Sent" />
+            </FrameLayout>
+            <FrameLayout android:layout_gravity="top" android:id="@id/read_state_icon_container" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Byline.Message.Sent.ReadReceiptIconContainer">
+                <ImageView android:id="@id/read_state_icon" android:layout_width="@dimen/dm_read_receipt_icon_size" android:layout_height="wrap_content" android:drawable="@drawable/ic_dm_read_receipt_sent" android:contentDescription="@null" style="@style/Byline.Message.Sent.ReadReceiptIcon" />
+            </FrameLayout>
+        </LinearLayout>
+    </FrameLayout>
+    <com.twitter.ui.widget.TypefacesTextView android:id="@id/seen_by_text" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" style="@style/Byline.Message.Sent.SeenByText" />
+</LinearLayout>

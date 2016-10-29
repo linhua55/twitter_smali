@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <View android:layout_gravity="top" android:background="@color/ps__section_divider" android:layout_width="fill_parent" android:layout_height="1.0px" />
+    <tv.periscope.android.view.PsTextView android:textSize="14.0sp" android:textColor="@color/ps__primary_text" android:layout_gravity="start|center" android:id="@id/divider_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/ps__standard_spacing_16" android:textAllCaps="true" custom:ps__font="fonts/MuseoSans-300.otf" />
+</FrameLayout>

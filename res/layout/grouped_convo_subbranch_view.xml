@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.twitter.internal.android.widget.GroupedRowView android:layout_width="fill_parent" android:layout_height="wrap_content" twitter:cardStyle="none"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:twitter="http://schemas.android.com/apk/res-auto">
+    <RelativeLayout android:background="@drawable/list_row_background" android:paddingLeft="@dimen/list_row_padding_horizontal" android:paddingRight="@dimen/list_row_padding_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <FrameLayout android:id="@id/connector" android:layout_width="@dimen/user_image_size" android:layout_height="fill_parent">
+            <ImageView android:layout_gravity="center|right" android:id="@id/arrow" android:paddingRight="@dimen/subbranch_arrow_padding_normal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_conversation_arrow" android:tint="@color/border_color" android:contentDescription="@null" />
+            <View android:layout_gravity="center" android:background="@drawable/vertical_connector" android:layout_width="@dimen/vertical_connector_width" android:layout_height="fill_parent" android:minHeight="@dimen/list_row_gap_min_height" />
+        </FrameLayout>
+        <com.twitter.ui.widget.TypefacesTextView android:textSize="@dimen/font_size_medium" android:textColor="@color/link" android:ellipsize="end" android:id="@id/content" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/list_row_padding_horizontal" android:text="@string/conversations_other_replies" android:maxLines="2" android:layout_toRightOf="@id/connector" android:layout_centerVertical="true" />
+    </RelativeLayout>
+</com.twitter.internal.android.widget.GroupedRowView>

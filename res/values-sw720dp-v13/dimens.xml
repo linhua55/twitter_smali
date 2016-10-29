@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_screen_description_margin_bottom">100.0dip</dimen>
+    <dimen name="welcome_screen_header_margin_bottom">46.0dip</dimen>
+    <dimen name="welcome_screen_header_margin_top">132.0dip</dimen>
+    <dimen name="welcome_screen_layout_width">642.0dip</dimen>
+    <dimen name="card_font_size_micro">12.0sp</dimen>
+    <dimen name="card_font_size_small">14.0sp</dimen>
+    <dimen name="font_size_large">20.0sp</dimen>
+    <dimen name="font_size_medium">18.0sp</dimen>
+    <dimen name="font_size_micro">14.0sp</dimen>
+    <dimen name="font_size_small">16.0sp</dimen>
+    <dimen name="font_size_xlarge">22.0sp</dimen>
+    <dimen name="font_size_xmicro">12.0sp</dimen>
+    <dimen name="font_size_xxlarge">24.0sp</dimen>
+    <dimen name="pill_toggle_button_text_size">18.0sp</dimen>
+    <dimen name="timeline_message_header_text_size">30.0sp</dimen>
+    <dimen name="welcome_screen_button_height">52.0dip</dimen>
+    <dimen name="welcome_screen_button_text_font_size">24.0sp</dimen>
+    <dimen name="welcome_screen_button_width">294.0dip</dimen>
+    <dimen name="welcome_screen_description_font_size">40.0sp</dimen>
+    <dimen name="welcome_screen_header_font_size">70.0sp</dimen>
+    <dimen name="welcome_screen_twitter_icon_height">48.0dip</dimen>
+    <dimen name="welcome_screen_signup_button_margin_right">24.0dip</dimen>
+</resources>

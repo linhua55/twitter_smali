@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:layout_gravity="bottom" android:orientation="vertical" android:id="@id/av_media_controller_controls" android:background="@drawable/bg_dark_to_clear_gradient" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <ImageButton android:id="@id/live_video_stop_button" android:background="@null" android:paddingTop="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_video_play_btn" android:layout_alignParentLeft="true" android:layout_centerVertical="true" android:contentDescription="@string/play" />
+        <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/icon_spacing" android:layout_alignParentRight="true" android:layout_centerVertical="true">
+            <com.twitter.library.widget.TightTextView style="@style/LiveVideoBadge.Chrome" />
+            <ImageButton android:id="@id/live_video_fullscreen_button" android:background="@null" android:paddingTop="4.0dip" android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_video_expand_btn" android:contentDescription="@string/av_player_button_fullscreen" />
+        </LinearLayout>
+    </RelativeLayout>
+    <com.google.android.exoplayer.text.SubtitleLayout android:id="@id/live_video_subtitle_layout" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+</FrameLayout>

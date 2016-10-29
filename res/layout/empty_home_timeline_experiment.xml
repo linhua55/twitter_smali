@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:id="@id/list_empty_text" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginBottom="@dimen/nav_bar_height">
+        <com.twitter.ui.widget.TypefacesTextView android:id="@id/empty_title" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/HTLEmptyViewText" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@id/empty_desc" android:paddingLeft="@dimen/prompt_fullscreen_text_padding_horizontal" android:paddingRight="@dimen/prompt_fullscreen_text_padding_horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content" style="@style/HTLEmptyViewDescriptionText" />
+        <com.twitter.ui.widget.TwitterButton android:layout_gravity="center" android:id="@id/empty_button" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="18.0dip" android:text="@string/empty_htl_cta_text" style="@style/TwitterButtonMediumBold" />
+    </LinearLayout>
+</FrameLayout>

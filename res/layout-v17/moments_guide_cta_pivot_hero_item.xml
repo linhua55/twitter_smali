@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:id="@id/moments_cta_pivot_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:background="@color/white_opacity_50" android:layout_width="fill_parent" android:layout_height="@dimen/divider_thickness" android:layout_marginLeft="@dimen/list_row_padding_horizontal" android:layout_marginRight="@dimen/list_row_padding_horizontal" />
+    <LinearLayout android:gravity="center_vertical" android:orientation="horizontal" android:background="@drawable/ripple_selector_rectangle" android:padding="@dimen/moments_standard_spacing" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <TextView android:textSize="@dimen/moments_text_size_medium_large" android:id="@id/moments_cta_pivot_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginRight="@dimen/moments_standard_spacing_half" android:layout_marginEnd="@dimen/moments_standard_spacing_half" style="@style/MomentsGuideText.Primary.White" />
+        <com.twitter.ui.widget.TypefacesTextView android:id="@id/moments_cta_video_pivot_badge" style="@style/MomentsGuideText.InfoBadge.CTA" />
+        <android.support.v4.widget.Space android:layout_width="0.0dip" android:layout_height="wrap_content" android:layout_weight="1.0" />
+        <ImageView android:layout_width="wrap_content" android:layout_height="wrap_content" android:src="@drawable/ic_moments_chevron_play" android:contentDescription="@null" />
+    </LinearLayout>
+</LinearLayout>

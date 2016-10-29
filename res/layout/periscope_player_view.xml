@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <com.twitter.library.media.widget.UserImageView android:id="@id/profile_view" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="@dimen/activity_header_margin_top" custom:userImageSize="normal" custom:roundingStrategy="circle" />
+    <tv.periscope.android.ui.broadcast.ChatRoomView android:id="@id/chatroom_view" android:layout_width="fill_parent" android:layout_height="fill_parent" custom:ps__includeComposer="false" />
+</FrameLayout>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView android:background="@color/twitter_blue" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <LinearLayout android:layout_gravity="center" android:orientation="vertical" android:fitsSystemWindows="true" android:layout_width="@dimen/welcome_screen_layout_width" android:layout_height="wrap_content">
+        <ImageView android:layout_width="wrap_content" android:layout_height="@dimen/welcome_screen_twitter_icon_height" android:src="@drawable/twitter_logo_white" android:adjustViewBounds="true" android:contentDescription="@null" />
+        <com.twitter.ui.widget.TypefacesTextView android:layout_width="fill_parent" android:layout_marginTop="@dimen/welcome_screen_header_margin_top" android:layout_marginBottom="@dimen/welcome_screen_header_margin_bottom" android:text="@string/welcome_screen_header" style="@style/WelcomeScreenHeaderTextStyle" />
+        <com.twitter.ui.widget.TypefacesTextView android:layout_width="fill_parent" android:layout_marginBottom="@dimen/welcome_screen_description_margin_bottom" android:text="@string/welcome_screen_description" style="@style/WelcomeScreenDescriptionTextStyle" />
+        <LinearLayout android:orientation="horizontal" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <com.twitter.ui.widget.TwitterButton android:id="@id/sign_up" android:layout_width="@dimen/welcome_screen_button_width" android:layout_height="wrap_content" android:layout_marginRight="@dimen/welcome_screen_signup_button_margin_right" android:text="@string/signup_sign_up" android:height="@dimen/welcome_screen_button_height" style="@style/WelcomeScreenSignupButton" />
+            <com.twitter.ui.widget.TwitterButton android:id="@id/log_in" android:layout_width="@dimen/welcome_screen_button_width" android:layout_height="wrap_content" android:text="@string/login_cta" android:height="@dimen/welcome_screen_button_height" style="@style/WelcomeScreenLoginButton" />
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/ps__standard_margin" android:layout_marginTop="@dimen/ps__standard_margin" android:layout_marginRight="@dimen/ps__standard_margin" android:layout_marginBottom="@dimen/ps__large_margin"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:custom="http://schemas.android.com/apk/res-auto">
+    <tv.periscope.android.view.PsPillTextView android:id="@id/featured_label" android:layout_marginBottom="@dimen/ps__standard_margin" android:text="@string/ps__featured" style="@style/ps__Pill.Featured" />
+    <tv.periscope.android.view.PsTextView android:textSize="@dimen/ps__description_text_size" android:textColor="@color/ps__primary_text" android:id="@id/featured_summary" android:layout_width="fill_parent" android:layout_height="wrap_content" custom:ps__font="fonts/MuseoSans-300.otf" />
+</LinearLayout>

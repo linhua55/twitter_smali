@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#ff1b2836</color>
+    <color name="border_color">#ff324554</color>
+    <color name="focused_bg">@color/toolbar_bg_color</color>
+    <color name="list_bg">@color/clear</color>
+    <color name="placeholder_bg">@color/toolbar_bg_color</color>
+    <color name="pressed">@color/border_color</color>
+    <color name="ps__app_background">#ff354144</color>
+    <color name="ps__app_background_secondary">#ff2a3436</color>
+    <color name="ps__border">#40000000</color>
+    <color name="ps__hint_text">@color/ps__light_grey</color>
+    <color name="ps__primary_text">@color/ps__white</color>
+    <color name="ps__secondary_text">@color/ps__light_grey</color>
+    <color name="ps__section_divider">#1f000000</color>
+    <color name="received_message_pressed">@color/dark_gray</color>
+    <color name="section_divider_color">#ff141d26</color>
+    <color name="status_bar_color">@color/app_background</color>
+    <color name="subtext">#ff8899a6</color>
+    <color name="text">#ffffffff</color>
+    <color name="text_blue">@color/twitter_blue</color>
+    <color name="toolbar_bg_color">#ff243447</color>
+    <color name="unread">#ff2e4359</color>
+</resources>

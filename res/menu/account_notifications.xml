@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@id/magic_rec_dont_like_recommendation" android:visible="false" android:title="@string/settings_magic_rec_dont_like_rec" />
+    <item android:id="@id/magic_rec_settings" android:visible="false" android:title="@string/settings_magic_rec_change_settings" />
+</menu>

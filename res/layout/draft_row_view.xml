@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:minHeight="?android:listPreferredItemHeight" style="@style/ListRow"
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:twitter="http://schemas.android.com/apk/res-auto">
+    <com.twitter.ui.widget.TypefacesTextView android:textColor="@color/text" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:maxLines="4" android:layout_toLeftOf="@id/attachment_layout" android:layout_centerVertical="true" />
+    <FrameLayout android:id="@id/attachment_layout" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentRight="true">
+        <com.twitter.media.ui.image.MediaImageView android:id="@id/attachment" android:layout_width="64.0dip" android:layout_height="64.0dip" twitter:scaleType="fill" />
+        <com.twitter.media.ui.image.FixedSizeImageView android:layout_gravity="bottom|center|left" android:id="@id/gif_badge" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="4.0dip" android:src="@drawable/gif_badge" android:contentDescription="@null" />
+        <com.twitter.media.ui.image.FixedSizeImageView android:layout_gravity="bottom|center|left" android:id="@id/sticker_badge" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="4.0dip" android:src="@drawable/stickers_badge" android:contentDescription="@null" />
+        <com.twitter.library.media.widget.VideoDurationView android:layout_gravity="bottom|center|left" android:id="@id/video_duration" android:background="@drawable/bg_media_badge" android:padding="@dimen/bg_media_badge_padding" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_margin="4.0dip" twitter:text_size="@dimen/font_size_small" twitter:text_face="bold" twitter:text_color="@color/white" />
+    </FrameLayout>
+    <ImageView android:id="@id/attachment_poll" android:visibility="gone" android:layout_width="32.0dip" android:layout_height="32.0dip" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:contentDescription="@null" />
+</RelativeLayout>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_screen_description_margin_bottom">76.0dip</dimen>
+    <dimen name="welcome_screen_header_margin_bottom">28.0dip</dimen>
+    <dimen name="welcome_screen_header_margin_top">48.0dip</dimen>
+    <dimen name="welcome_screen_layout_width">550.0dip</dimen>
+</resources>
